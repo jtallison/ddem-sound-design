@@ -3,11 +3,11 @@ title: General Music Unit 1
 ---
 <!-- # General Music Unit 1 -->
 
-## General Music Unit 1
+# General Music Unit 1
 
-- - -
+---
 
-**Basic Theory**
+## Basic Theory
 
 Pitch (from a scientific perspective)
 
@@ -28,7 +28,7 @@ Harmony
 * Major triads
 * Minor triads
 
-**Intro to Reading and Writing Music**
+## Intro to Reading and Writing Music
 
 Rhythm
 
@@ -43,14 +43,14 @@ Pitch
 * Have students import the midi file from a melody they like then learn to perform it based on the score.  (have some go to examples that are easy)  Use https://www.noteflight.com to visualize.  Editing or extracting the melody may be necessary.
 * Basic dynamic and expression markings
 
-**Ear Training**
+## Ear Training
 
 * Ear training introduction
 * High vs low Online game https://www.musictheory.net
 
-- - -
+---
 
-#### Resources
+## Resources
 
 Music and Science:
 
@@ -69,4 +69,4 @@ Online Digital Audio Workstations (DAW):
 * https://www.soundtrap.com
 * https://www.soundation.com
 
-- - -
+---
