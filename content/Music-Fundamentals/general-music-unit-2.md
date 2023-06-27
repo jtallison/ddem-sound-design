@@ -5,9 +5,11 @@ title: General Music Unit 2
 
 ## General Music Unit 2
 
-- - -
+[Sound Design Main Course](http://localhost:8000/liascript/index.html?http://localhost:8000/content/index.md)
 
-**Intermediate Theory**
+---
+
+## Intermediate Theory
 
 Scales 
 
@@ -32,7 +34,7 @@ Harmony
   * I  vi  ii  V progression (and typical substitutions)
 * Introduction to roman numeral analysis
 
-**Intermediate Reading and Writing Music**
+## Intermediate Reading and Writing Music
 
 Rhythm
 
@@ -48,14 +50,14 @@ Pitch
 * Accidentals
   Intermediate dynamic and expression markings
 
-**Ear Training**
+## Ear Training
 
 * Unisons, octaves, thirds, fifths  
 * High vs low Online game https://www.musictheory.net
 
-- - -
+---
 
-#### Resources
+## Resources
 
 Music and Science:
 
@@ -74,4 +76,4 @@ Online Digital Audio Workstations (DAW):
 * https://www.soundtrap.com
 * https://www.soundation.com
 
-- - -
+

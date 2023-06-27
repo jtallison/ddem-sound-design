@@ -7,6 +7,8 @@ weight: 10
 
 ## Video Workflow
 
+[Sound Design Main Course](http://localhost:8000/liascript/index.html?http://localhost:8000/content/index.md)
+
 ---
 
 There will not be any files to submit for this lab. We will consider it a work day to familiarize yourself with a **Video Workflow** process in preparation for **Mini Composition 2**.

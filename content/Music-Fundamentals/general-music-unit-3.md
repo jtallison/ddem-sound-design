@@ -5,10 +5,11 @@ title: General Music Unit 3
 
 ## General Music Unit 3
 
+[Sound Design Main Course](http://localhost:8000/liascript/index.html?http://localhost:8000/content/index.md)
 
-- - -
+---
 
-**Advanced Theory**
+## Advanced Theory
 
 Scales: 
 
@@ -37,7 +38,7 @@ Harmony
 * Advanced roman numeral analysis
   * Examples from classical, jazz and popular music
 
-**Advanced Reading and Writing Music**
+## Advanced Reading and Writing Music
 
 Rhythm
 
@@ -54,7 +55,7 @@ Advanced dynamic and expression markings
 
 Introduction to graphic scores 
 
-**Ear Training**
+## Ear Training
 
 * All intervals
   * Basic dictation
@@ -82,4 +83,4 @@ Online Digital Audio Workstations (DAW):
 * https://www.soundtrap.com
 * https://www.soundation.com
 
-- - -
+

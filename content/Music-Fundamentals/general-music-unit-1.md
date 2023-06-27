@@ -5,6 +5,8 @@ title: General Music Unit 1
 
 # General Music Unit 1
 
+[Sound Design Main Course](http://localhost:8000/liascript/index.html?http://localhost:8000/content/index.md)
+
 ---
 
 ## Basic Theory

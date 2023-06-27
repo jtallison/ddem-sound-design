@@ -7,6 +7,8 @@ weight: 10
 
 ## Crossfades, Automation, and Using the Mixer
 
+[Sound Design Main Course](http://localhost:8000/liascript/index.html?http://localhost:8000/content/index.md)
+
 ---
 
 #### Prerequisites

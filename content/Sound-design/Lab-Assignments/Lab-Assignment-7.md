@@ -7,6 +7,8 @@ weight: 10
 
 ## Advanced MIDI and Automation
 
+[Sound Design Main Course](http://localhost:8000/liascript/index.html?http://localhost:8000/content/index.md)
+
 ---
 
 #### Objectives:

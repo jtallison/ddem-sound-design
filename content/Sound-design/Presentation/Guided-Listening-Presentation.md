@@ -3,20 +3,30 @@ title: "Guided Listening Presentation"
 weight: 10
 ---
 
-<!-- # Guided Listening Presentation -->
+# Guided Listening & Presentation
 
----
+[Sound Design Main Course](http://localhost:8000/liascript/index.html?http://localhost:8000/content/index.md)
+
 
 These presentations will be prepared and presented in randomly assigned groups of 2-3 students.
 They should be approximately 10 minutes long. Half of this time is dedicated to listening to the full piece.
 There are two components to this assignment, each with different different due dates (noted below).
 
-## Song Selection – DUE WEDNESDAY FEB 21 (see separate poll on Moodle)
+<section>
+
+## Song Selection 
 
 Chose a song from the shared class Spotify Presentation Selections playlist. Enter your selection in the poll posted to Moodle. These songs are available on a first-come-first-served basis.
 **10 points**
 
-## Presentation Content – SLIDES DUE ON MOODLE MARCH 5, PRESENTATIONS MARCH 5 & 7
+</section>
+
+## Presentation Content – 
+
+<section>
+
+SLIDES DUE 
+PRESENTATIONS DUE
 
 As much as I like to avoid slides during most classes, you ARE expected to prepare a Powerpoint (or Keynote or Google Slides) for your presentation day. Your total presentation cannot exceed 10:00. Timings per section are approximate and offered as suggestions.
 
@@ -39,3 +49,40 @@ One slide with a quick overview of salient and interesting features of the piece
 
 Chose one single feature from the song that you would like to explore further – a transition, the sound of one particular synth, some social commentary on the lyrics, etc. Lead a discussion on this topic. You should hear from a few of your classmates during this section. You can use a few short listening examples from your song during this discussion to illustrate your point - make sure you have the track times sorted out ahead of time!  
 **25 points**
+
+</section>
+
+
+## Music Selections
+
+[Spotify Full Playlist Link](https://open.spotify.com/user/1228893326/playlist/5qrOAfJ87Jx43FpHMaJJoY)
+
+| Artist                      | Album                                           | Track Title                    | Link                                                    |
+| --------------------------- | ----------------------------------------------- | ------------------------------ | ------------------------------------------------------- |
+| Amon Tobin                  | ISAM                                            | Lost & Found                   | [spotify link](https://open.spotify.com/track/1crZjm3JxiLcDGv1ecWjaS) |
+| Aphex Twin                  | Computer Controlled Acoustic Instruments pt2 EP | DISKPREPT1                     | [spotify link](https://open.spotify.com/track/1HrFCfD6GjKWjtLaN7NFFR) |
+| Aphex Twin                  | Syro                                            | 4 bit 9d api+e+6 [126.26]      | [spotify link](https://open.spotify.com/track/3NK7KFnTh3rKCgUvsKIDfi) |
+| Autechre                    | Exai                                            | prac-f                         | [spotify link](https://open.spotify.com/track/59qW6i10bp4uRrMxXKq7JZ) |
+| Björk                       | Medúlla                                         | Who Is It                      | [spotify link](https://open.spotify.com/track/1slmImGr63SFOlmHKe1yM2) |
+| The Books                   | Lost And Safe                                   | Be Good To Them Always         | [spotify link](https://open.spotify.com/track/2cGXX3rysIHk7zCH0Fp4gZ) |
+| Brian Eno                   | Small Craft On A Milk Sea                       | Complex Heaven                 | [spotify link](https://open.spotify.com/track/5EhvDAos2Ppf82XN5EV60u) |
+| Carl Craig                  | The Album Formerly Known As...                  | They Were                      | [spotify link](https://open.spotify.com/track/7j9rqaxjrqlNc0pqs3ypwG) |
+| Dirty Projectors            | Dirty Projectors                                | Keep Your Name                 | [spotify link](https://open.spotify.com/track/41IcdEHjwDp65pVjOxODCf) |
+| DJ Shadow                   | The Mountain Will Fall                          | California                     | [spotify link](https://open.spotify.com/track/1aqRufCFCq6q8k3oOnzBnY) |
+| Ital Tek                    | Hollowed                                        | Reflection Through Destruction | [spotify link](https://open.spotify.com/track/5DpO6qWqbl4Rr2Z2DdAbdH) |
+| Juana Molina                | Halo                                            | In The Lassa                   | [spotify link](https://open.spotify.com/track/3wLRfDOMa6rArcdZGp05f8) |
+| Kendrick Lamar              | DAMN.                                           | FEEL.                          | [spotify link](https://open.spotify.com/track/2LTlO3NuNVN70lp2ZbVswF) |
+| Kreng                       | Grimoire                                        | Petit Grimoire                 | [spotify link](https://open.spotify.com/track/7hiDpO6havEjvFqape3cmT) |
+| Matmos                      | Ultimate Care II                                | Ultimate Care II Excerpt III   | [spotify link](https://open.spotify.com/track/0VxFtYxh0DvFuqfRPKQRg0) |
+| Monolake                    | Ghosts                                          | Discontinuity                  | [spotify link](https://open.spotify.com/track/2ItX8hUD1OIEFhIyTJO9Yq) |
+| Portishead                  | Third                                           | Machine Gun                    | [spotify link](https://open.spotify.com/track/4gxG38GmhagF2T6eaTdUR6) |
+| Sampha                      | Process                                         | Reverse Faults                 | [spotify link](https://open.spotify.com/track/5IRLnB7JqTMcIlMtE0Rcuv) |
+| Solange                     | A Seat At The Table                             | Don't Touch My Hair            | [spotify link](https://open.spotify.com/track/2TyCAfhwu5tRqFW8VnGMIL) |
+| Son Lux                     | Lanterns                                        | Easy                           | [spotify link](https://open.spotify.com/track/6J6FXmYrMxg93mBxkugUlI) |
+| St. Vincent                 | Strange Mercy                                   | Champagne Year                 | [spotify link](https://open.spotify.com/track/3V0VfPCipaFZkGLy1d0xdq) |
+| Trent Reznor & Atticus Ross | The Social Network Sdtk                         | Pieces Form The Whole          | [spotify link](https://open.spotify.com/track/3PK7tZzJxuoJYoik7j3p1H) |
+| A Tribe Called Quest        | We Got It From Here... Thank You 4 Your Service | Solid Wall Of Sound            | [spotify link](https://open.spotify.com/track/5OzOQRssjhxaBj0xd78Z2w) |
+
+| Curtis Roads | Point Line Cloud | Eleventh Vortex | [spotify link](https://youtu.be/XgBjD6_SbOU)
+| Laurie Spiegel | The Expanding Universe | Appalachian Grove I | [spotify link](https://youtu.be/iWvsdZuZXl8)
+| Makunouchi Bento | Swimé | Rain Dragon, Hidden Genius | ?[music.youTube link](https://music.youtube.com/watch?v=Md42nPqQmpQ) |

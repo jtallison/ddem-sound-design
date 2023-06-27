@@ -21,19 +21,33 @@ link: https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/jtallison/ddem-sound-design/tree/master/content)
+
+<!-- <script> let rootURL = "http://localhost:8000/liascript/index.html?"</script>
+<script> 
+  let fullURL=  "http://localhost:8000/liascript/index.html?" + "http://localhost:8000/content/music-fundamentals/general-music-unit-1.md";
+  // send.html(fullURL); 
+</script> -->
+
 # Sound Design
 
-## Course Description and Objectives
+![DDEM Logo](static/Images/ddem-logo.svg)
 
-<!-- ![DDEM Logo](static/Images/ddem-logo.svg) -->
+[Intro to Computer Music General Syllabus](http://localhost:8000/liascript/index.html?http://localhost:8000/content/syllabus.md)
 
 [Sound Design Course Outline](static/sound-design.pdf)
 
 [qr-code](https://emdm.lsu.edu "Experimental Music & Digital Media __[emdm.lsu.edu](https://emdm.lsu.edu)__")
 
+## Course Description and Objectives
+
 <section>
 
 ## Unit 1
+
+1. [Music Fundamentals](http://localhost:8000/liascript/index.html?http://localhost:8000/content/music-fundamentals/general-music-unit-1.md)
+2. [Music Fundamentals II](http://localhost:8000/liascript/index.html?http://localhost:8000/content/music-fundamentals/general-music-unit-2.md)
+3. [Music Fundamentals III](http://localhost:8000/liascript/index.html?http://localhost:8000/content/music-fundamentals/general-music-unit-3.md)
 
 - Sound Basics
 
@@ -58,10 +72,10 @@ link: https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css
 
 ## Unit 2
 
-1. Musique Concrète and Tape-Based Music  
-Culminates in Mini Composition 1
+1. [Musique Concrète and Tape-Based Music](http://localhost:8000/liascript/index.html?http://localhost:8000/content/sound-design/lab-assignments/lab-assignment-1.md)
+- Culminates in Mini Composition 1
 
-2. Analysis
+2. [Analysis - Guided Listening & Presentation](http://localhost:8000/liascript/index.html?http://localhost:8000/content/sound-design/presentation/guided-listening-presentation.md)
 
 3. MIDI
 
@@ -79,7 +93,6 @@ Culminates in Mini Composition 1
 7. Final Project
 
 </section>
-
 
 
 

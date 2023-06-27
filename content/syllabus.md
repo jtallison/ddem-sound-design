@@ -3,78 +3,84 @@ title: "LSU - MUS 2745 Syllabus"
 weight: 10
 ---
 
-<!-- # LSU — MUS 2745 -->
 
-## Introduction to Computer Music
 
-#### Course Syllabus — Fall 2017
+# Introduction to Computer Music
+
+[Sound Design Main Course](http://localhost:8000/liascript/index.html?http://localhost:8000/content/index.md)
+
+## Course Syllabus
 
 |                       |                                                     |
 | --------------------- | --------------------------------------------------- |
-| Class Times           | M/W 9:30-10:20am, F 9:30-10:20am & TBD              |
-| Classrooms            | MDA 248, SoM203 (lab), DMC Studio (as needed)       |
-| Instructor            | Eric Sheffield <mailto:esheff1@lsu.edu>             |
-| Office Hours          | M 10:30-11:30, SoM 203                              |
-| Supervising Professor | Dr. Jesse Allison <mailto:jtallison@lsu.edu>        |
-| Final Concert         | Monday April 24, 2017, 4:00pm, LSU SoM Recital Hall |
-| Final Exam            | Monday May 1, 2017, 10:00am-12:00pm, MDA248         |
+| Class Times           | TBD by school each semester                         |
+| Locations             |                                                     |
+| Facilitator           | Your Teacher at the High School                     |
+| Office Hours          | TBD each semester and By Appointment                |
+| Instructor of Record  | [Dr. Jesse Allison](jtallison@lsu.edu)        |
+| Final Concert         | TBD each year                                       |
+| Final Exam            | TBD each year                                       |
 
 ---
 
-### Objectives
+## Objectives
 
-Blah blah
+
 
 ---
 
-### Materials
+## Materials
 
-#### Required
+Required
+====
 
 * Storage Media >4GB (assignments will be collected via Moodle and Google Drive, but you are responsible for your data - make backups!)
 * a Google account (for Google Drive access)
 
-#### Recommended
+Recommended
+====
 
 * PreSonus Studio One 3 Artist (or greater) Software Educational Pricing $50: http://www.sweetwater.com/store/detail/S1v3AEdu
   Studio One 3 Professional will be available to all students in SoM 203
 * Good headphones (see me for recommendations)
 
-#### Readings
+## Readings
 
 * All readings in this course will be posted as PDF’s or links on Moodle.
 * If you are interested in further study, some of our reading selections are from Thom Holmes’ Electronic and Experimental Music: Technology, Music, and Culture
 
----
 
-### Grading Criteria
+## Grading Criteria
 
-##### Online Forum & Class Participation 10%
+<section>
+
+### Online Forum & Class Participation 10%
 
 * 4-6 online discussions throughout the semester
 * in-class contributions and attendance on presentation days and at concerts
 
-##### Quizzes 10%
+### Quizzes 10%
 
 * 4-6 short quizzes based on the previous day’s reading
 
-##### Lab Assignments 15%
+### Lab Assignments 15%
 
 * 8 Friday lab exercises will be graded
 
-##### Guided Listening Presentation 15%
+### Guided Listening Presentation 15%
 
 * 10 minute presentation with partner
 
-##### Mini Compositions 15%
+### Mini Compositions 15%
 
 * two miniature compositions, 1:00-2:00 each in length
 
-##### Final Project 20%
+### Final Project 20%
 
 * full length composition, 3:00-5:00 in length
 
-##### Final Exam 15%
+### Final Exam 15%
+
 
 **Final grades will NOT be rounded up!**
 
@@ -94,7 +100,9 @@ Blah blah
 | D-          | 60-62.9%  |
 | F           | Below 60% |
 
----
+</section>
+
+## Other Details
 
 ### Statement of Outside of Class Commitments
 
