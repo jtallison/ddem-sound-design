@@ -13,8 +13,9 @@ Follow: The start positions of Events on this Track are tied to the musical grid
 Timestretch: Event start positions follow the Song tempo, as in Follow mode. In addition, the Events are stretched to fit the Song tempo.
 
 You can also set the timestretch to one of four different modes depending on what kind of sounds you are working with and the desired effect. These modes are:
-Drums: Use this optimized mode on any percussion track to achieve the best results when stretching percussive audio. This mode uses the Elastique Direct algorithm.
-Sound: Use this general mode on any other type of track. This mode uses the Elastique Direct Formant algorithm.
-Solo: Use this optimized mode on any solo instrument or vocal track to achieve the best results. This mode uses the Elastique Pro Monophonic Formant algorithm.
-Tape: In this mode the track audio follows the song tempo by changing the sample playback rate. This results in the pitch moving up or down when the tempo changes, sort of like changing the speed control on a tape deck. Try this with drum loops or other samples when the pitch doesn't need to be exact.
+* Drums: Use this optimized mode on any percussion track to achieve the best results when stretching percussive audio. This mode uses the Elastique Direct algorithm.
+* Sound: Use this general mode on any other type of track. This mode uses the Elastique Direct Formant algorithm.
+* Solo: Use this optimized mode on any solo instrument or vocal track to achieve the best results. This mode uses the Elastique Pro Monophonic Formant algorithm.
+* Tape: In this mode the track audio follows the song tempo by changing the sample playback rate. This results in the pitch moving up or down when the tempo changes, sort of like changing the speed control on a tape deck. Try this with drum loops or other samples when the pitch doesn't need to be exact.
 
+For more information on timestreching, check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Editing_Topics/Timestretching.htm?TocPath=Editing%257C_____10).

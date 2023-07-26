@@ -28,3 +28,9 @@ Once you have selected your sedated settings, click on “OK” to add the devic
 
 Lastly, to program any customizable knobs, buttons, or sliders on your controller it is very simple. First, notice the top-left of the screen. Here you will see a window containing the last control input from the MIDI controller as well as the last parameter you interacted with in Studio One. Simply adjust the desired parameter, then adjust the button/key/slader/kbob you wish to map it to. When both of the elements in the boxes are correct, click on the arrow in between the two elements to map it. Now, whenever you use that specific control on the MIDI controller, the mapped parameter will automatically adjust itself. This is super useful for controlling parameters such as volume and panning quickly and easily no matter which screen you are looking at in Studio One.
 
+A video breakdown of the above steps can be found here: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wc-SOxMVIkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+For more information about connecting MIDI controllers to your device, check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Setup_Topics/Set_Up_Your_MIDI_Devices.htm?TocPath=Setup%257C_____4).

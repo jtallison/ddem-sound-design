@@ -14,6 +14,8 @@ Audio effects are used in order to change the recorded sound in order to develop
 
 The last general concept we will discuss in this section is routing audio. In the mixing console you can control exactly where audio comes from and goes within the DAW. You can change which interface input a channel is connected to, group up multiple channels and send them to different places, create sub mixes and more. One of the more useful things that can be done with this is to create a Bus channel and send multiple audio sources to it. Then you can easily boost, cut, or process multiple sounds at once. It is common to group up similar instruments such as the drums or guitars into a group.
 
+The [Studio One 6 online manual has an entire chapter on mixing and the mix console](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Mixing_Topics/Chapter-Mixing.htm?TocPath=Mixing%257C_____0). Be sure to check it out for more information on the topics indroduced here, as well as any other features of the Mix window!
+
 Handy tips:
 
 While there is no ‘correct’ way to mix, there are a few general practices and techniques that you can utilize in order to make your mixes better. Try a few of these out, but remember, as long as the mix sounds like you want it to, then it is doing its job.

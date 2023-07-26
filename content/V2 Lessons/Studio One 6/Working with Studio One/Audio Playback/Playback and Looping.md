@@ -7,3 +7,9 @@ When playing back audio, you will likely focus on smaller sections of the larger
 Both the beginning and end of this marker are movable so you can arrange this bar to fit wherever you need. You can also enter the left and right location of the loop bar using the bar numbers to the right of the loop button. When looping is active the playhead will automatically jump to the beginning of the loop marker whenever it reaches the end.
 
 Whenever exporting a mixdown it is important to select exactly how much audio you wish to export. The default option for selecting this is to utilize the loop marker’s positions. When exporting, it is easiest to adjust the loop bar to encompass the entire project prior to beginning the export process. That way you can export everything at once without having to go back and adjust the loop marker or the section flags. The looping does not need to be active when exporting the mixdown, but having it highlighted may be easier to visually line everything up.
+
+This video overviews key features of the transport bar:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0-QpNX7xDjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+More information on the transport controls can be found in the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Fundamentals_Topics/Transport_Controls.htm?TocPath=Fundamentals%257C_____9). 

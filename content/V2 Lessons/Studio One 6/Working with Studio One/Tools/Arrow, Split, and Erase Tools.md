@@ -9,3 +9,8 @@ Trimming events: When selecting the ends of an event, the cursor will change to 
 Audio Envelopes: You can also adjust the audio envelopes for your files using the Arrow Tool. Simply select an audio event, and you will see three flags appear on the top of the event. The triangle-shaped flags can be dragged out towards the center of the event to create a fade in or fade out, and the maximum volume of the clip can be adjusted by dragging the square-shaped flag up or down. If you want, you can also adjust the speed of the fades with the new flag that will appear when you implement a fade.
 
 The Split Tool is useful for splitting an event wherever you click. You can access this tool by selecting the razer blade icon or presing 3 on your number bar. When using this tool, any events you click on will be split into two separate events at the mouse’s location. If you want to delete a part of an event, you can use the Split Tool to separate the undesired portion, and then delete it by either selecting it and deleting it with the backspace key, or using the erase tool and clicking on the event. The erase tool will delete whichever event you click on when used. 
+
+
+For more information on the mouse tools in Studio One 6, check out the [online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Editing_Topics/Arrange_View_Mouse_Tools.htm?TocPath=Editing%257C_____2) as well as this video from Presonus:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tP81-BujExE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
