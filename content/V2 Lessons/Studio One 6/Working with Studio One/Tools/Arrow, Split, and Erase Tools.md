@@ -14,3 +14,5 @@ The Split Tool is useful for splitting an event wherever you click. You can acce
 For more information on the mouse tools in Studio One 6, check out the [online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Editing_Topics/Arrange_View_Mouse_Tools.htm?TocPath=Editing%257C_____2) as well as this video from Presonus:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tP81-BujExE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+More information on general editing in Studio One 6 can be found [on this manual page](https://s1manual.presonus.com/#Editing_Topics/Common_Editing_Actions.htm?TocPath=Editing%257C_____5).
