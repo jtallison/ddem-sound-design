@@ -1,0 +1,5 @@
+There are a total of 7 optional assignments that are designed to focus on a specific element of working in a DAW and allow students to get hands-on experience and create content prior to working on the lab projects and others that are part of the dual enrollment portion of this class. 
+
+There is no timeline to complete these assignments. In fact the assignments are completely optional and can be skipped or re-ordered as needed by the teacher. They mainly serve to give the students extra practice and experience before the larger projects, as well as a starting point for teachers to make their own assignments. 
+
+Practice assignments are intended to take no more than a class period to complete and are generally focused on technical competency over creative work. Practice Assignment 7 is the exception and will likely take between 2 and 4 days to complete. Each page goes over the objectives of the assignment, steps to complete it, and how to export the audio. Below is a simple guideline for grading the practice assignments. 
