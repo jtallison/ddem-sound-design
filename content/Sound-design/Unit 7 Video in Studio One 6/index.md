@@ -1,3 +1,31 @@
+# Unit 7: Video Workflow in Studio One 6
+
+<section>
+
+## Adding Videos to Your Project
+
+Studio One 6 Professional is able to work with video files as well as audio files. It is important to know that versions other than Professional are unable to work with video files, so you will need to utilize other softwares for this if that is the version you have. It is also important to remember that Studio One 6 is a Digital AUDIO Workstation. It has no video editing capabilities, and solely works with video as a way to add your own sounds to a pre-existing video file.
+
+To load a video in Studio One 6, simply drag and drop it into a Studio One session from the file browser. The video will then appear in the video player. If you have access to two monitors, I recommend putting the Studio One window on one and the video on the other, as the video player can cover a lot of the session screen. If you close the video player, you can open it again by clicking the video tape icon, or View > Video Player.
+
+Once loaded, the video track will appear above your audio tracks, and display both the video and the audio. You can mute the original video audio by muting either the track, or clicking the mute button on the video player. You are able to trim and slice the video file just like any other event so if you have a larger original file, you can arrange it to just the scenes you need and the order you need them. This is the extent of the video editing capabilities of Studio One 6.
+
+Once you have mixed and arranged your audio as you would like, you can export a new video file with your audio included! To do this, click on Song > Export Video. In the popup window you can choose where the file saves and its name, as well as the file type. Under Export Range you must specify the parts that you want to export, just like when creating a mixdown. You can have it match the duration of the source file which is useful if you have not clipped and deleted scenes. If that is the case, you can utilize the loop bar or markers to set the durations. Once exported, the result is a video file that will play your audio along with the source video!
+
+Check out the [online manual for more information about working with video in Studio One 6!](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Video_Playback_and_Sync_Topics/Chapter-Video_Playback_and_Sync.htm?TocPath=Video%2520Playback%2520and%2520Sync%257C_____0).
+
+## Foley Sounds
+
+Foley is the art of adding realistic sounds to movies, tv, and radio. It was originally pioneered by Jack Foley in the 1920’s, the practice sought to bring a level of realness to the entertainment experience. In modern film and television, microphones are focused on getting the actor's dialogue, and are located far away from the sound source so as to remain off-screen. This means that many sounds in the scene are either ignored, removed, or otherwise not recorded. This can be problematic when wanting to create a realistic scene as there are more sounds than just dialogue in the real world. To offset this silence, Foley Artists will build up the environmental sounds of a film in order to create the desired environment.
+
+Generally Foley artists will work by seeing what sound they have to recreate. This could be anything; if it is in the scene, it is fair game. Then they have to plan out how to make those sounds, and record them in sync with the recorded video. A simple example would be to record footsteps. A foley artist would find similar shoes and a surface to walk on in order to create the sound you would expect from the video, then record themselves walking in time with that video to create the footsteps. A mixing engineer would then balance the various recordings and layers of sound to create the final effect. 
+
+Here are a few interviews with Foley Artists about what they do and how they do it:
+
+## Exporting Video Files
+
+## Lab 7
+
 Lab Objectives:
 
 * Importing Video files into Studio One 6 Professional
@@ -48,3 +76,5 @@ Mixdown requirements:
 * Make sure to export the Main output.
 * Be sure that the duration of the resulting audio file matches what you expect. Your Lab project should be between approximately 60 and 100 seconds in duration.
 * Be sure to follow your teacher’s guidelines for file submission.
+
+</section>

@@ -1,3 +1,0 @@
-Let’s look at this screenshot of a Studio One session. In it there is a MIDI drum part made with Impact, as well as an audio recording of a guitar chord progression. Notice how the chord progression is longer than the drum loop? In order to have the drum loop repeat itself we can simply duplicate it. Duplicating will work for both audio and MIDI events, and will repeat the selected material; this makes it much quicker than copy and pasting!
-
-To duplicate something, select the region you want to duplicate and then press the D key on your keyboard. Pressing D multiple times will make multiple duplications. All duplications are placed immediately after the original event, and can be moved as desired.

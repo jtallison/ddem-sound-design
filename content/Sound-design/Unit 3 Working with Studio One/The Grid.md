@@ -1,7 +1,0 @@
-The grid is a useful tool for arranging your audio and MIDI events in time. You can see the grid as a series of ticks throughout the arrange window. By default the grid shows the Bars layout, which will show musical bars and beats to measure time. By using this tool it is much easier to line up various elements visually on the screen. The resolution of the grid will adapt to how zoomed in you are. Being zoomed out will only show bars or beats, while being zoomed in can show 16th notes.
-
-By default events will snap to the grid. This means that when you move an event, it will automatically line up the beginning of the event to the closest Grid tick whenever you release your mouse button. This is useful, but not for every kind of music. If you want to turn this off, you can click this button in the top toolbar (or press the F hotkey) in order to toggle this. When snap-to-grid is off you can freely move events without them automatically aligning to the Grid.
-
-For more information on Grid Snap, check out this video from Presonus as well as the [online Studio One 6 manual](https://s1manual.presonus.com/#Editing_Topics/The_Grid.htm?TocPath=Editing%257C_____4
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NBHTV70nB5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>.
