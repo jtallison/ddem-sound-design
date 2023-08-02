@@ -1,5 +1,7 @@
 # Unit 7: Video Workflow in Studio One 6
 
+This unit is all about using a video file with Studio One 6. You cannot do edits like in Adobe Premiere, but You can easily import a video to create your own sounds for, and export everything as a single file. We will also discuss the practices of Foley sounds and creating soundtracks in a few lab projects.
+
 <section>
 
 ## Adding Videos to Your Project
@@ -69,7 +71,7 @@ Instructions for using a DAW other than Studio One 6:
 
 Mixdown requirements:
 
-* File name: YourFirstNameYourLastName-Lab4.
+* File name: YourFirstNameYourLastName-Lab7.
 * Format: MPEG-4 Video
 * Video Codec H.264
 * Audio codec: AAC (if available)

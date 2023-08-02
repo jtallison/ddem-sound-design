@@ -1,5 +1,7 @@
 # Unit 5: All About MIDI
 
+Unit 5 introduces the concept of MIDI and MIDI controllers. Once you've added a device to Studio One we will go over the various software instruments included in Studio One 6 and how you can record MIDI data to have those instruments perform automatically. AFter going over a few techniques for imporving the MIDI recordings we will have a few lab projects that will further explore the synthesizers and performing your own music.
+
 <section>
 
 ## What is MIDI
@@ -57,8 +59,7 @@ Lastly, to program any customizable knobs, buttons, or sliders on your controlle
 
 A video breakdown of the above steps can be found here: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wc-SOxMVIkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+!?[midi-controller-video](https://www.youtube.com/watch?v=Wc-SOxMVIkU) !?[midi-mapping-video](https://www.youtube.com/watch?v=WJ_5uJb3alc)
 
 For more information about connecting MIDI controllers to your device, check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Setup_Topics/Set_Up_Your_MIDI_Devices.htm?TocPath=Setup%257C_____4).
 
@@ -149,7 +150,7 @@ Instructions:
 
 Mixdown requirements:
 
-* File name: YourFirstNameYourLastName-Lab5.
+* File name: YourFirstNameYourLastName-Lab3.
 * Format: Wave or MP3 at 44.1kHz sampling rate and 16-bit resolution (128 kbps for MP3 files). Just one, you don’t need to mixdown two files.
 * Do not adjust loudness.
 * Make sure to export the Main output.
@@ -206,7 +207,7 @@ Instructions:
 
 Mixdown Requirements:
 
-* File name: YourFirstNameYourLastName-Lab7.
+* File name: YourFirstNameYourLastName-Lab4.
 * Format: Wave or MP3 at 44.1kHz sampling rate and 16-bit resolution (128 kbps for MP3 files). Just one, you don’t need to mixdown two files.
 * Do not adjust loudness.
 * Make sure to export the Main output.
@@ -236,7 +237,7 @@ Instructions:
 
 Mixdown requirements:
 
-* File name: YourFirstNameYourLastName-Lab6.
+* File name: YourFirstNameYourLastName-Lab5.
 * Format: Wave or MP3 at 44.1kHz sampling rate and 16-bit resolution (128 kbps for MP3 files). Just one, you don’t need to mixdown two files.
 * Do not adjust loudness.
 * Make sure to export the Main output.

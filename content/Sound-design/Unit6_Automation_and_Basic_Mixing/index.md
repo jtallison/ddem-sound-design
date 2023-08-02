@@ -1,11 +1,12 @@
 # Unit 6 Automation and Basic Mixing
 
+Here we will start introducing the idea of audio mixing: combining various audio files into a cohesive, balanced, single product. We have already explored adjusting the volume of a track, and here we will start experimenting with techniques like panning and corssfades in order to arrange your sounds and create new textures, followed by going over automation. Automation allows for you to program parameters to set themselves and change automatically over the course of a song; something super useful for maintaining balance through different sections of music!
 
 <section>
 
 ## Audio Loops
 
-Studio One 6 comes with a large number of loops that can be utilized in your projects. These vary between audio files and MIDI data, but can both be easily dropped into a session for quick implementation. Keep in mind however that these can take up a large amount of storage space, so you may not be able to fit many on your computer. A few projects in this class will want you to utilize the loops, while others will specifically forbid it.
+Studio One 6 comes with a large number of loops that can be utilized in your projects. These vary between audio files and MIDI data, but can both be easily dropped into a session for quick implementation. Keep in mind however that these can take up a large amount of storage space, so you may not be able to fit many on your computer. A few projects in this class will want you to utilize the loops, while others will specifically forbid it. While practicing and learning, having an easily repeatable loop is useful for comparing your changes and fine-tuning balances.
 
 To find a loop, open the Browse window and go to the “Loops” tab. Here your installed loops are broken up first by style, then by instrument. Some collections may have further organization allowing you to navigate to a specific kind of loop while others stop at this level. To preview a loop click on it and you will see information about it appear at the bottom of the Browse panel. Press the play button to preview the loop. If adding a loop to the content it is important to check the tempo and key (if applicable) in order to make sure that there are no problems with the other content. You can manually change the loop’s tempo or transpose it to a different key, but the sound may change to no longer match what you are looking for, so be sure to listen both before and after! To use the loop, simply drag it into the desired track in your session. The loop will then act like any other audio or MIDI event.
 
@@ -78,7 +79,7 @@ Lab Objectives:
 
 Instructions:
 
-1. Create a duplicate of your project from Lab Assignment 2. Rename the new copy “YourFirstNameYourLastName-Lab3”.
+1. Create a duplicate of your project from Lab Assignment 2. Rename the new copy “YourFirstNameYourLastName-Lab6”.
 2. Download a few interesting audio files from Freesound.org and/or the University of Iowa Musical Instrument Samples repository. The content of the files is at your discretion, but they must be in an uncompressed format - this includes wav, aiff, Apple Lossless, FLAC or caf files. Mp3 or AAC are prohibited.
 3. Drag-and-Drop these new files onto new tracks in your Lab Assignment 3 project.
 4. For the remainder of the lab time, experiment with the three techniques listed in this assignment’s objectives. Your final submission at the end of the lab must include one example of each:
@@ -91,7 +92,7 @@ As always, save a backup copy on your personal storage media. This can be a flas
 
 Mixdown requirements:
 
-* File name: YourFirstNameYourLastName-Lab3.
+* File name: YourFirstNameYourLastName-Lab6.
 * Format: Wave or MP3 at 44.1kHz sampling rate and 16-bit resolution (128 kbps for MP3 files). Just one, you don’t need to mixdown two files.
 * Do not adjust loudness.
 * Make sure to export the Main output.

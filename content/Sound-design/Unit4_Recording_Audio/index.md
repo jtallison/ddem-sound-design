@@ -1,5 +1,7 @@
 # Unit 4: Recording and Editing Audio
 
+Unit 4 goes over everything you need to know to start making your own audio recordings using Studio One 6. We will start with a discussion on how a microphone works and how to position them to get clear recordings, and the computer settings to make sure everything comes through as expected. Then we will go over a few things you can do within Studio One to improve the quality of your recordings to use both in the Lab project and any future projects. 
+
 <section>
 
 ## Microhones and Speakers: How Do They Work?

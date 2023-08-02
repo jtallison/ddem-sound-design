@@ -1,5 +1,7 @@
 # Unit 3: Working with Studio One 6
 
+This unit serves as our introduction to Studio One 6. We will start by making sure the software is installed on your device and then go on a tour of the main software windows. By the end of the unit we will be able to add and manipulate those sounds in order to create a few projects right away!
+
 
 <section>
 
@@ -15,6 +17,12 @@ Before we can begin making sounds in Studio One, you first need to have the soft
     Once you have acquired a license for Studio One, you can go ahead and install the software. To get to the download page, log in to your Presonus account (needed to acquire a license) and navigate to the products page. Click on your Studio One license and download the installer for your operating system. Follow the installation directions in the wizard. Once installed, open Studio One and enter your Presonus login info to authorize the software and install any additional plugins you may have bought.
 
 For more information on installing and authorizing Studio One 6 on your device, check out the [Studio One online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Getting_Started_Topics/Chapter-Installation_and_Activation.htm?TocPath=_____2).
+
+If you will be using a Presonus audio interface or MIDI controller, I recommend installing [Presonus Universal Control](https://legacy.presonus.com/products/Universal-Control). This software helps to update drivers and interface with various device settings. If you will not be using presonus equipment, then you should make sure you have the up-to-date drivers for whichever divice you will be using.
+
+</section>
+
+<section>
 
 ## Navigating Studio One 6
 
@@ -33,14 +41,14 @@ Let’s make a new Studio One Song Session. To do this, click on the + icon and 
 
 By right-clicking on the top toolbar you can open a customize window that will add (or remove) elements from the tool bar, allowing you to customize the layout. If you are new to working with Studio One, I recommend leaving it as the default layout until you are familiar enough to make changes.
 
-Check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Pages_Topics/Song.htm?TocPath=Pages%257C_____2) or this video for more informaition on the Song page.
+Check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Pages_Topics/Song.htm?TocPath=Pages%257C_____2) or these videos for more informaition on the Song page and transport bar:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9yyty9dB5rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+!?[arrange-page-video](https://youtu.be/9yyty9dB5rk) !?[transport-bar-video](https://youtu.be/0-QpNX7xDjE)
 
-This video goes over key aspects of the transport bar: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0-QpNX7xDjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</section>
 
+<section>
 
 ## Adding Sound Files
 
@@ -58,16 +66,24 @@ Automation tracks only include automation information for a specific track. Thes
 Folder tracks are used for grouping together multiple other tracks. For example, in a larger mix, you could group together all of the microphones used on the drumset into a larger folder, or create a folder for the various vocal tracks. Effects and automations applied to the folder tracks are applied to everything within the folder.
 When making a track, you can give the tracks a name, choose a preset for the track, adjust the track color, and how many copies of the track that you wish to make.
 
+</section>
+
+<section>
+
 ## The Grid
 
 The grid is a useful tool for arranging your audio and MIDI events in time. You can see the grid as a series of ticks throughout the arrange window. By default the grid shows the Bars layout, which will show musical bars and beats to measure time. By using this tool it is much easier to line up various elements visually on the screen. The resolution of the grid will adapt to how zoomed in you are. Being zoomed out will only show bars or beats, while being zoomed in can show 16th notes.
 
 By default events will snap to the grid. This means that when you move an event, it will automatically line up the beginning of the event to the closest Grid tick whenever you release your mouse button. This is useful, but not for every kind of music. If you want to turn this off, you can click this button in the top toolbar (or press the F hotkey) in order to toggle this. When snap-to-grid is off you can freely move events without them automatically aligning to the Grid.
 
-For more information on Grid Snap, check out this video from Presonus as well as the [online Studio One 6 manual](https://s1manual.presonus.com/#Editing_Topics/The_Grid.htm?TocPath=Editing%257C_____4
+For more information on Grid Snap, check out this video from Presonus as well as the [online Studio One 6 manual](https://s1manual.presonus.com/#Editing_Topics/The_Grid.htm?TocPath=Editing%257C_____4/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NBHTV70nB5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>.
+!?[grid-video](https://www.youtube.com/watch?v=NBHTV70nB5U)
 
+
+</section>
+
+<section>
 
 ## Saving and Backing Up Projects
 
@@ -85,6 +101,10 @@ Saving to a new folder is a great way to back up your projects, especially since
 
 Check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Saving,%20Import%20and%20Export/Saving%20Options.htm?TocPath=Saving%252C%2520Import%2520and%2520Export%257C_____5) for more information on ways to save and back up your projects!
 
+</section>
+
+<section>
+
 ## Arrow, Split, and Erase Tools
 
 The Arrow Tool is the main tool that you will be using in Studio One 6. It is selected by default, and can be easily reselected by pressing the 1 key on your number bar. The Arrow Tool is context sensitive, meaning that it will do different thing depending where on the event you are clicking.
@@ -101,9 +121,11 @@ The Split Tool is useful for splitting an event wherever you click. You can acce
 
 For more information on the mouse tools in Studio One 6, check out the [online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Editing_Topics/Arrange_View_Mouse_Tools.htm?TocPath=Editing%257C_____2) as well as this video from Presonus:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tP81-BujExE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+!?[mouse-tools-video](https://www.youtube.com/watch?v=5fmkaGg8c-M)
 
 More information on general editing in Studio One 6 can be found [on this manual page](https://s1manual.presonus.com/#Editing_Topics/Common_Editing_Actions.htm?TocPath=Editing%257C_____5).
+
+<section>
 
 ## Exporting Mixdowns
 
@@ -122,6 +144,10 @@ If the audio you exported was too loud and resulted in clipping, a warning dialo
 The first method is to lower the main output’s volume slider. This will lower the volume of everything, preserving the balance between the various elements. I recommend starting with smaller increments, usually around the amount indicated in the clipping warning window. The second method is my preferred quick way of removing clipping. To do this, simply add a limiter to the post section of your main output channel in the mix window, and set the limiter to the “0dB limiting” preset. This will keep the audio volume from passing 0dB, and eliminate clipping.
 
 Check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Mixing_Topics/Mixing_Down.htm?TocPath=Mixing%257C_____14) for more inforation on exporting mixdowns of your projects.
+
+<section>
+
+</section>
 
 ## Lab 0
 
@@ -157,6 +183,9 @@ Mixdown Requirements:
 * Be sure that the duration of the resulting audio file matches what you expect. You should between 30 and 90 seconds of audio.
 * Be sure to follow your teacher’s guidelines for file submission
 
+</section>
+
+<section>
 
 ## Playback and Looping
 
@@ -172,9 +201,13 @@ Whenever exporting a mixdown it is important to select exactly how much audio yo
 
 This video overviews key features of the transport bar:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0-QpNX7xDjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+!?[transport-bar-video](https://youtu.be/0-QpNX7xDjE)
 
 More information on the transport controls can be found in the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Fundamentals_Topics/Transport_Controls.htm?TocPath=Fundamentals%257C_____9). 
+
+</section>
+
+<section>
 
 ## Macros
 
@@ -186,10 +219,14 @@ The preset macros are all broken up by category, which can be changed via the dr
 
 To create your own macros, follow this tutorial created by Presonus.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PmRcLnPqe40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+!?[making-macros-video](https://www.youtube.com/watch?v=PmRcLnPqe40)
 
 
 Information on Macros and the Studio One toolbar can be [found in the online manual](https://s1manual.presonus.com/#Editing_Topics/Macro_Toolbar.htm?TocPath=Editing%257C_____23). 
+
+</section>
+
+<section>
 
 ## Track Names and Icons
 
@@ -205,6 +242,10 @@ Track Icons: Lastly in Studio One 6 you can implement icons to visually identify
 
 Unfortunately, you are unable to load your own icons into Studio One, but you can easily choose from the large list here by clicking on the icon. The reset button will remove the current icon. There should be enough variations in icons for you to be able to easily identify each track, especially when combined with colors and names.
 
+</section>
+
+<section>
+
 ## Color Customization
 
 Studio One 6 is incredibly customizable. One of the easiest things to customize are the colors of the software. This has no effect on the functionality or capabilities of Studio One 6, but can make the software feel like your own.
@@ -214,6 +255,10 @@ To change the color scheme, open Studio One, then in the menu bar click Studio O
 If you would like to adjust the colors but don’t know where to begin, click on Load Preset to choose from a variety of preset color schemes, or to return Studio One 6 to the default. You can also save an arrangement as a preset by clicking Store Preset. The majority of screenshots taken on this web site utilize the dark green Acid Night preset instead of the default gray color.
 
 For more information on changing the colors in Studio One 6, [check out the online manual](https://s1manual.presonus.com/#Setup_Topics/Custom_Colors.htm?TocPath=Setup%257C_____8)!
+
+</section>
+
+<section>
 
 ## Lab 1
 
@@ -248,6 +293,5 @@ Mixdown requirements:
 * Make sure to export the Main output.
 * Be sure that the duration of the resulting audio file matches what you expect. You should have the variations play one after another in a SINGLE audio file with no gaps or pauses between the variations.
 * Be sure to follow your teacher’s guidelines for file submission.
-
 
 </section>

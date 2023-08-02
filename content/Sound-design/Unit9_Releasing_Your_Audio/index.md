@@ -1,0 +1,3 @@
+# Unit 9: Releasing Your Audio
+
+This unit will discuss both copyright concerns as well as the mastering process so that you can potentiall release music that your create online in the future. Following the copyright didscussion we will explore the Studio One 6 Project page as well as how to utilize it for mastering for a release on common online streaming platforms such as Spotify, Youtube, and Soundcloud.

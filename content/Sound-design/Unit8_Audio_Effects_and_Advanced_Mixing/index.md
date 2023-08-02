@@ -1,9 +1,32 @@
 # Unit 8: Audio Effects and Advanced Mixing
 
+This unit goes over how you can process your audio files in order to further enhance your mixes and make new sounds. We will tour the built-in mixing console and audio effects present in Studio One Professional, more advanced mixing practices, and a few helpful tips for creating your music before diving into practice!
+
 <section>
 
 
-## Mixing Colsone
+## Mixing Console
+
+The mixing console is the most important tool in Studio One for creating your own sounds and audio mixes. It displays everything that is happening in the DAW at once in a condensed, easy to understand format. However, if you have never worked with an analog audio mixer, the layout may still be a little confusing so let’s take the time to break it down.
+
+Parts of the Mixing console:
+
+* The mixing console is accessed by the Mix button in the bottom right of the screen. It can be popped out, so I recommend putting it on a second monitor if you have one. Every channel, which is everything with audio in the project, will appear here from left to right. You will notice that each channel has basically the same elements, and the pattern repeats for everything in your session. 
+*   Much like an analog mixer, you can think of the audio signal as moving from the top of the mixing console to the bottom. When the event is played back, the signal will enter the mixer and then be sent through the inserts. These are the audio effects that you are inserting into the signal pathway in order to alter the sound. 
+* Moving down, the next section is for sending audio to other places in the mix. This is generally used for parallel processing, grouping audio channels together, or sidechaining audio effects.
+* The next section shows the audio channel’s input and output. This will usually indicate which interface microphone channel you are using, and if the audio is being sent to the Main output channel or somewhere else. Underneath this is a graphic representation of the channel panning. You can change this by dragging the blue bar left and right.
+* The four buttons below the channel IO are Mute, which silences the channel when active. Solo, which silences all OTHER channels when active. Record Arm, which flags a track to record its input when the record button is hit. Monitor, which feeds the input for that channel directly into the Main output channel.
+* The slider controls the output gain for the channel and is the most noticible feature of each channel. Moving it up makes the channel louder, but it is better practice to make things softer. This way you can balance things without distortion from making it too loud. Remember, if you can’t hear something, it is usually a better idea to make other things quieter before you make the first sound louder.
+* On the left of the Mixing console you will see several options for showing or hiding various things in the mixer. What was listed above is the default appearance, but you can choose to shore more or less information depending on your needs.  
+
+Types of Tracks:
+
+There are a few different kinds of channels that are present in the Mixing console. These are audio, instrument, Bus, FX, VCA, and Aux. Audio and Instrument are basically the same as what appears horizontally in the main window. These will appear automatically as you add more tracks. Some instruments, such as ImpactXT, will have multiple channels but only one track. A Bus channel serves as a collection or sub-mix. You can send various audio channels to a bus in order to process all of them the same way or adjust their volume all at once with a single fader. This is useful for things like drums where you may want to control the volume for all of a part at one time.
+
+* FX channels are used for parallel processing. This means that you are sending the same source through two different effect chains at the same time, and that each one has its own independent volume slider. This can be useful for adding effects like reverb to an FX track, then automating how much is present by adjusting the volume slider. You can send to the FX channel from the source channel’s send section.
+* VCA channels offer another way of working with groups of channels. By sending audio to a VCA channel, you can create a mix of the various instruments in the group, and then adjust all of their volumes without altering the balance with the VCA slider.
+* Aux channels will likely not be used much in this course, but they are utilized for receiving audio from external sources. If you connect a hardware synthesizer instrument or any other kind of audio to your audio interface, you can utilize an Aux channel. The Aux channels can be saved as presets so you can simply drag and drop them brom the browse window to begin utilizing the input. When making the Aux channel you will need to set up the hardware input as a unique instrument, which is a process that varies depending on your operating system. You could also set up a cross-software Aux channel using the same process. For a more detailed look at making and utilizing Aux channels in Studio One, [check out this blog post by Presonus](https://blog.presonus.com/2021/12/10/sowhats-deal-aux-channels/).
+
 
 ## Audio Mixing
 
@@ -13,7 +36,7 @@ In general, mixing audio is exactly what it sounds like: taking multiple audio s
 
 Studio One 6 does its mixing through the mixing console, which can be brought up with the Mix button in the bottom right of the screen. If you have a second monitor available, I recommend popping the window out and keeping it on the second monitor as the mixing console can take up a lot of screen space. Here we will be able to monitor and control everything that is part of our mix, just like a physical mixing console. Let’s start with the most noticeable feature of a console, the faders.
 
-Each channel in your project will have a fader in the mix console. This fader controls the volume of everything on that channel, and is the last part of the signal chain before it is sent to the main output. You can utilize this to make sounds louder or softer to create the balance that you want. Notice that by default, each channel begins at 0dB (also called Unity Gain). This means that there has been no alteration to the original volume of the source. If you pull a slider down into the negative values, the sound will get softer, and pushing it up into the positive values will make it louder. Because of how the human ear hears volume, a change of approximately 10dB will be perceived as the sound doubling or halving in volume. 
+Each channel in your project will have a fader in the mix console. This fader controls the volume of everything on that channel, and is the last part of the signal chain before it is sent to the main output. You can utilize this to make sounds louder or softer to create the balance that you want. Notice that by default, each channel begins at 0dB (also called Unity Gain). This means that there has been no alteration to the original volume of the source. If you pull a slider down into the negative values, the sound will get softer, and pushing it up into the positive values will make it louder. Because of how the human ear hears volume, a change of approximately 10dB will be perceived as the sound doubling or halving in volume.
 
 You may notice that on these faders, the majority of the fader is below 0 dB. This is in part because if you boost everything, you will quickly run into clipping and distortion. In general, you will be making sounds softer in order to balance them without making things too loud. You can still boost things past Unity Gain, but there is much less headroom when doing so. If you have a sound that is too quiet, it is usually good practice to make other elements in your mix quieter instead of just making the problematic element louder. 
 
@@ -25,16 +48,14 @@ The last general concept we will discuss in this section is routing audio. In th
 
 The [Studio One 6 online manual has an entire chapter on mixing and the mix console](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Mixing_Topics/Chapter-Mixing.htm?TocPath=Mixing%257C_____0). Be sure to check it out for more information on the topics indroduced here, as well as any other features of the Mix window!
 
-Handy tips:
+### Handy tips:
 
 While there is no ‘correct’ way to mix, there are a few general practices and techniques that you can utilize in order to make your mixes better. Try a few of these out, but remember, as long as the mix sounds like you want it to, then it is doing its job.
 
 * Minimize overlapping:
 	The main goal of mixing is to combine all of the parts of your music together so that everything can be heard in a balanced way. Nothing is covering up anything else, and is nice and clear. To help with this, it is a good practice to minimize any overlapping in both frequency content and panning. When using an equalizer, in addition to shaping the sound, it is handy to remove problematic frequencies that could interfere with other instruments. For example, if you want to mainly hear the bass guitar as the bass voice of a song, you may need to remove some of the bass frequencies of other instruments so that they don’t cover up the desired sound as much. If you have multiple instruments with similar ranges and sounds, such as having two guitar parts, try panning them to different locations in order to clearly separate them  for the listener. This way both parts can be heard without them interfering with each other as much.
-
 * Parallel Processing:
 	As mentioned above the audio inserts are applied to a sound source in series. However you can easily create a new channel and process the sound in parallel instead. To do this, right click and create a new FX channel, then on the sound source, click the little + icon next to the sends section and select your new channel. Now you can add an effect chain to the FX channel and you will hear both the original sound and the altered sound in the final mix. This is useful if you have a unique effect you want to add to a sound only at certain times in the song. Simply bring up the FX channel fader when you want more, and lower it when you want less. Try it with effects like reverb and compression!
-
 * Automation:
 	While not strictly part of the Studio One mixing console, remembering to automate your mix is necessary in creating a cohesive mix from start to finish. It is basically impossible that all of your recordings will be perfectly balanced for the entire duration of your song, especially once you begin adding effects or recordings from multiple sources into the mix.  While you can automate almost everything in the mix, adding slight automations to just the volume faders is probably the most effective automation you can do. You can mark different sections of the song and have the mix automatically change based on the time. This way perhaps you could have the drums get louder in a chorus, or backing vocals fade out over a verse. At the very least it will allow you to maintain balance between parts regardless of the volume of the source recording.
 
@@ -50,7 +71,7 @@ The first category of ‘effects’ we will be looking at generally do not alter
 
 * Phase Meter
     This effect displays the phase correlation of the various channels in your mix. This is useful for identifying when different sources are out of phase and canceling each other out. Check out this video for a breakdown of the Phase meter and how to read its interface:
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/PdJ3X31VtVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        !?[phase-meter-video](https://youtu.be/PdJ3X31VtVM)
 * Spectrum Meter
     The spectrum meter will look at any incoming audio and display the frequency component of that sound. The frequency is represented on the horizontal axis, and the volume is represented on the vertical axis.The higher a line, then the louder that specific frequency is. When using the spectrum meter you can change how the plug-in is displaying the values, as well as which sounds the plugin is looking at. This interface is very similar to the ProEQ plug-in, but without the filters.
 * Tuner
@@ -101,13 +122,13 @@ The following Effects all alter the volume of the signal in different ways:
 * Limiter
     A limiter will look at a sound and keep it from exceeding a volume threshold. This is useful for avoiding clipping or pushing the volume of a sound.
     Check out the video manual for the Limiter effect:
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7eE5lknIIL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        !?[limiter-manual-video](https://www.youtube.com/watch?v=7eE5lknIIL8)
 * Pro EQ
     An equalizer is a series of filters designed to boost or cut various frequencies within a sound. The ProEQ effect has eight different frequencies that it can use at once.
     You can customize the specific frequency of each band, as well as the general shape of each band. EQs are useful for removing frequencies that conflict with other tracks or are otherwise problematic, or boosting desired frequencies in a sound. 
     You can see the levels of the frequencies overlaid with the visual representation of the EQ filters. This view is essentially the same as the LEvel Meter plug-in.
     Check out the video manual for a more detailed breakdown of how to utilize an equalizer:
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/1fVLvFWlU9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+        !?[proEQ-manual-video](https://www.youtube.com/watch?v=1fVLvFWlU9w)
 
 These effects are all generally used in the Mastering process in various ways:
 
@@ -124,7 +145,7 @@ These effects are generally used when mixing audio:
     Is used to adjust the specifics of panning.
     Can be used to increase or decrease stereo width.
     Check out this summary video:
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/fJ09Pp81RLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        !?[binaural-pan-video](https://www.youtube.com/watch?v=fJ09Pp81RLE)
 * Channel Strip
     Combines three effects in one: a low-cut filter, dynamics processor, and three-band parametric EQ.
     This is used to color the sound. Hardware channel strips will utilize these effects to process the sound before it is recorded, but when a virtual effect is used it can be easily adjusted and removed.
@@ -141,7 +162,7 @@ These effects are generally used when mixing audio:
     Splitter will take an incoming audio channel and split it to allow for parallel processes to happen before summing the two channels back together again.
     This is useful for combining multiple effects on a sound source that you do not want to affect each other, as well as the mixing between those effects.
     Check out this video on Splitter from Presonus:
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ohfNHuKq_Eg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        !?[splitter-video](https://youtu.be/ohfNHuKq_Eg)
 
 These effects all Modulate sounds:
 
@@ -174,7 +195,7 @@ These are all of the included Reverb effects in Studio One 6.2:
 
 Hardware Effects can be utilized with the Pipeline effect. Generally this is not a part of the course unless you or your classroom has access to hardware audio effect units. This is usually ignored because of how expensive and delicate these units can be. For more information on Pipeline, check out this video from Presonus:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/us-3-KSd-sI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+!?[pipeline-manual-video](https://www.youtube.com/watch?v=us-3-KSd-sI)
 
 ## Lab 8
 
