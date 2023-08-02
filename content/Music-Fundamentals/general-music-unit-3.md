@@ -1,15 +1,3 @@
----
-title: General Music Unit 3
----
-<!-- # General Music Unit 3 -->
-
-## General Music Unit 3
-
-[Sound Design Main Course](http://localhost:8000/liascript/index.html?http://localhost:8000/content/index.md)
-
----
-
-## Advanced Theory
 
 Scales: 
 

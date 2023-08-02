@@ -1,36 +1,4 @@
----
-title: General Music Unit 1
----
-<!-- # General Music Unit 1 -->
 
-# General Music Unit 1
-
-[Sound Design Main Course](http://localhost:8000/liascript/index.html?http://localhost:8000/content/index.md)
-
----
-
-## Basic Theory
-
-Pitch (from a scientific perspective)
-
-The overtone Series 
-
-Scales: C major, F major, G major
-
-* Solfege
-* Why 7 letters and 12 notes
-* Introduction to key signatures
-
-Intervals  
-
-* Half steps and whole steps
-
-Harmony
-
-* Major triads
-* Minor triads
-
-## Intro to Reading and Writing Music
 
 Rhythm
 

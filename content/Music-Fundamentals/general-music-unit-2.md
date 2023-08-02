@@ -1,25 +1,4 @@
----
-title: General Music Unit 2
----
-<!-- # General Music Unit 2 -->
 
-## General Music Unit 2
-
-[Sound Design Main Course](http://localhost:8000/liascript/index.html?http://localhost:8000/content/index.md)
-
----
-
-## Intermediate Theory
-
-Scales 
-
-* All 12 major scales
-* Introduction to minor scales
-* All 12 key signatures
-
-Intervals  
-
-* All intervals within the octave
 
 Harmony
 
