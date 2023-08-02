@@ -2,7 +2,7 @@
 
 Here we will start introducing the idea of audio mixing: combining various audio files into a cohesive, balanced, single product. We have already explored adjusting the volume of a track, and here we will start experimenting with techniques like panning and corssfades in order to arrange your sounds and create new textures, followed by going over automation. Automation allows for you to program parameters to set themselves and change automatically over the course of a song; something super useful for maintaining balance through different sections of music!
 
-<section>
+ 
 
 ## Audio Loops
 
@@ -100,4 +100,4 @@ Mixdown requirements:
 * Be sure to follow your teacher’s guidelines for file submission.
 
 
-</section>
+ 

@@ -2,7 +2,6 @@
 
 Now that we have gone over a large amount of music theory, lets shift a little to the technology. Unit 2 discusses the physical properties of sound and how to apply those to 
 
-<section>
 
 ## Physics of Sound
 
@@ -63,4 +62,3 @@ Once the file has been made it can be freely edited within the computer. While a
 
 A standard speaker works like a dynamic microphone, just in reverse. An electric current is fed into a wire. This wire is wrapped around a magnet and connected to a diaphragm. As the electric current changes, this causes fluctuations in the magnetic field, moving the connected diaphragm back and forth. This movement pushes the air molecules in front of the speaker, resulting in sound waves that can be heard by a listener.
 
-</section>

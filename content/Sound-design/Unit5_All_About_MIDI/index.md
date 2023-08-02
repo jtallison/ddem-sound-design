@@ -2,7 +2,7 @@
 
 Unit 5 introduces the concept of MIDI and MIDI controllers. Once you've added a device to Studio One we will go over the various software instruments included in Studio One 6 and how you can record MIDI data to have those instruments perform automatically. AFter going over a few techniques for imporving the MIDI recordings we will have a few lab projects that will further explore the synthesizers and performing your own music.
 
-<section>
+ 
 
 ## What is MIDI
 
@@ -244,4 +244,4 @@ Mixdown requirements:
 * Be sure that the duration of the resulting audio file matches what you expect. Your Lab project should have each synthesizer play one after another, with no more than 2 seconds of silence between them. The full recording should be under 48 seconds.
 * Be sure to follow your teacher’s guidelines for file submission. DO NOT FORGET THE TEXT WRITE-UP PORTION OF THIS LAB!!
 
-</section>
+ 

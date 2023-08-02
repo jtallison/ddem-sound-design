@@ -2,7 +2,7 @@
 
 This unit goes over how you can process your audio files in order to further enhance your mixes and make new sounds. We will tour the built-in mixing console and audio effects present in Studio One Professional, more advanced mixing practices, and a few helpful tips for creating your music before diving into practice!
 
-<section>
+ 
 
 
 ## Mixing Console
@@ -231,4 +231,4 @@ Mixdown Requirements:
 * Be sure that the duration of the resulting audio file matches what you expect. Your Lab project should be approximately 8 bars in duration.
 * Be sure to follow your teacher’s guidelines for submission.
 
-</section>
+ 

@@ -2,7 +2,7 @@
 
 This unit is all about using a video file with Studio One 6. You cannot do edits like in Adobe Premiere, but You can easily import a video to create your own sounds for, and export everything as a single file. We will also discuss the practices of Foley sounds and creating soundtracks in a few lab projects.
 
-<section>
+ 
 
 ## Adding Videos to Your Project
 
@@ -79,4 +79,4 @@ Mixdown requirements:
 * Be sure that the duration of the resulting audio file matches what you expect. Your Lab project should be between approximately 60 and 100 seconds in duration.
 * Be sure to follow your teacher’s guidelines for file submission.
 
-</section>
+ 
