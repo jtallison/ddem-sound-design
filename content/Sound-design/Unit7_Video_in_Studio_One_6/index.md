@@ -22,9 +22,22 @@ Foley is the art of adding realistic sounds to movies, tv, and radio. It was ori
 
 Generally Foley artists will work by seeing what sound they have to recreate. This could be anything; if it is in the scene, it is fair game. Then they have to plan out how to make those sounds, and record them in sync with the recorded video. A simple example would be to record footsteps. A foley artist would find similar shoes and a surface to walk on in order to create the sound you would expect from the video, then record themselves walking in time with that video to create the footsteps. A mixing engineer would then balance the various recordings and layers of sound to create the final effect. 
 
-Here are a few interviews with Foley Artists about what they do and how they do it:
+Here are a few interviews/documentaries with Foley Artists about what they do and how they do it:
+
+!?[foley-video-1](https://www.youtube.com/watch?v=UO3N_PRIgX0) !?[foley-video-footsteps](https://www.youtube.com/watch?v=QBDU3pJaU6c) !?[foley-video-horror](https://www.youtube.com/watch?v=1BQvCCB-PiA)
+
+## Audio Soundtracks
 
 ## Exporting Video Files
+
+Once you have completed your work, you could export the mixdown and attach it to he original video in a video editing software. However, Studio One 6 Professional can actually do this automatically and save you time in completing the larger video project. This is basically the only video editing possible in Studio One 6, so it is recommended to have the completed video, and then add the sounds to export a final product.
+
+To export a video file, you must first have a source video imported into the video track. See the lesson on adding videos to your project if needed. When done, click Song>Export Video in the main tool bar at the top of the screen. Using the window that pops up you can set the file name and save location just like exporting a Mixdown file. The remaining options are similar to exporting a mixdown, but with a unique flair for working with video. 
+
+Using the MPEG-4 Video format will allow you to have the most compatible and highest resolution video possible while keeping the file size manageable. You can change the codecs for video and audio if desired, but leaving them as the default H.264 and MP3 will work for basically all use-cases. When it comes to determining the amount of content to export, the first two options are the most useful. You can use the loop bar to set the export region manually like when exporting Mixdowns, or have Studio One automatically export for the duration of the video. Other than that, make sure you are exporting the Main channel output and you are ready to hit OK.
+
+Because the computer is creating an audio file, attacking it to the video (in sync) and then writing the new video file, expect that your video exports will take longer than an audio export. Be sure to plan accordingly so that your files are finished by the end of class!
+
 
 ## Lab 7
 
@@ -45,7 +58,7 @@ Instructions for Studio One 6 Professional:
     * Many videos on YouTube are likely subject to copyright claims. We will be using these videos for educational purposes under the Fair Use doctrine. Your video projects will only be shown in class, only stored locally, and deleted from the lab after the projects have been graded. Students will assume all legal responsibilities if they decide to distribute these videos elsewhere. Use a YouTube downloader site to download videos from YouTube - you should be able to find one easily through an online search.
 2. Once you have your video file, drag and drop it into Studio One 6 and use the Arrow tool to trim the video event to a single scene. The trimmed portion should not exceed 100 seconds, and should begin immediately when playback starts.
 3. Mute any audio present in the original clip.
-4. Utilizing both the audio clips from Lab 3 as well as a handful of new audio recordings from freesound or archive.org, create Foley sounds for the main events in your scene. Be sure to include things such as footsteps, weather, environmental sounds, etc. If it is happening on the screen, you should be able to hear it.
+4. Utilizing both the audio clips from Lab 3 as well as a handful of new audio recordings from freesound.com or archive.org, create Foley sounds for the main events in your scene. Be sure to include things such as footsteps, weather, environmental sounds, etc. If it is happening on the screen, you should be able to hear it.
 
 _Optional: utilize panning and volume automation to have the sound files match their movement on the screen._
 
@@ -58,7 +71,7 @@ Instructions for using a DAW other than Studio One 6:
     * With Archive.org, video files from various categories are freely available to download. Many of them are in the Public Domain, meaning that their “exclusive intellectual property rights have expired, have been forfeited, have been expressly waived, or are inapplicable.” However, due to the times in which some of these older films were produced, some of them may contain offensive content. Please be sensitive to this matter if you are looking for videos on Archive.org. When downloading, simply choose the best quality file available to you.
     * Many videos on YouTube are likely subject to copyright claims. We will be using these videos for educational purposes under the Fair Use doctrine. Your video projects will only be shown in class, only stored locally, and deleted from the lab after the projects have been graded. Students will assume all legal responsibilities if they decide to distribute these videos elsewhere. Use a YouTube downloader site to download videos from YouTube - you should be able to find one easily through an online search.
 2. Once you have your video you will need to utilize a separate software in order to trim the video to a specific scene of your choice. This scene should be no longer than 100 seconds, and should begin immediately when playback starts. There are a few options for this. Each video software has its own unique way of working, so be sure to check out its relevant reference materials. There are other softwares available as well, so utilize the one that works best for you!
-3. If using a Mac, iMovie is one of the quick, free options. The trimming method is the same as in Studio One. 
+3. If using a Mac, iMovie is one of the quick, free options. The trimming method is the same as in Studio One. Below are a few other options for editing videos. All of the below options are available regardless of your operating system
     * Adobe Premiere (Mac and Windows)
     * Davinci Resolve (Mac and Windows)
     * [wevideo.com](https://www.wevideo.com)
@@ -74,7 +87,7 @@ Mixdown requirements:
 * File name: YourFirstNameYourLastName-Lab7.
 * Format: MPEG-4 Video
 * Video Codec H.264
-* Audio codec: AAC (if available)
+* Audio codec: AAC (if available), WAV, or MP3 (if no other options ara available.)
 * Make sure to export the Main output.
 * Be sure that the duration of the resulting audio file matches what you expect. Your Lab project should be between approximately 60 and 100 seconds in duration.
 * Be sure to follow your teacher’s guidelines for file submission.

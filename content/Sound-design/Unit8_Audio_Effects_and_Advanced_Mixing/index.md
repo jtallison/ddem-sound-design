@@ -2,9 +2,6 @@
 
 This unit goes over how you can process your audio files in order to further enhance your mixes and make new sounds. We will tour the built-in mixing console and audio effects present in Studio One Professional, more advanced mixing practices, and a few helpful tips for creating your music before diving into practice!
 
- 
-
-
 ## Mixing Console
 
 The mixing console is the most important tool in Studio One for creating your own sounds and audio mixes. It displays everything that is happening in the DAW at once in a condensed, easy to understand format. However, if you have never worked with an analog audio mixer, the layout may still be a little confusing so let’s take the time to break it down.

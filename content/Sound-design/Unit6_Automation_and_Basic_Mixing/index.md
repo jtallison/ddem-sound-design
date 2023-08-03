@@ -1,6 +1,6 @@
 # Unit 6 Automation and Basic Mixing
 
-Here we will start introducing the idea of audio mixing: combining various audio files into a cohesive, balanced, single product. We have already explored adjusting the volume of a track, and here we will start experimenting with techniques like panning and corssfades in order to arrange your sounds and create new textures, followed by going over automation. Automation allows for you to program parameters to set themselves and change automatically over the course of a song; something super useful for maintaining balance through different sections of music!
+Here we will start introducing the idea of audio mixing: combining various audio files into a cohesive, balanced, single product. We have already explored adjusting the volume of a track, and here we will start experimenting with techniques like panning and crossfades in order to arrange your sounds and create new textures, followed by going over automation. Automation allows for you to program parameters to set themselves and change automatically over the course of a song; something super useful for maintaining balance through different sections of music!
 
  
 
@@ -32,9 +32,13 @@ Crossfades are useful for combining audio because it can be extremely noticeable
 
 ## Reversing Audio
 
-One commonly used effect is reversing an audio file. This will cause the computer to read through the file from end to start instead of start to end. You can hear this in several songs as a unique texture.
+One commonly used effect is reversing an audio file. This will cause the computer to read through the file from end-to-start instead of start-to-end. You can hear this in several songs as a unique texture.
 
 To reverse an audio event in Studio One 6 is quick and easy. Select the audio event you wish to reverse, and then right click. Under Audio Options or the Action menu, you will see the option to reverse the audio. This can also be done with CTRL/CMD + R on the keyboard. Once reversed you will see the waveform update accordingly in the main Studio One window.
+
+Here is a video briefly showing what reversing audio can sound like using a sample from former US president Barack Obama.
+
+!?[obama-backward-yes-we-can](https://www.youtube.com/watch?v=Ewo20rq2Qbw)
 
 ## All About Automation
 
@@ -61,12 +65,16 @@ Once you know which parameter you wish to automate, select it from the drop down
 
 To change the curve of the automation points, click on the dot that appears on the line segment between two automation points. You can change how logarithmic or exponential the curve between the points are.
 
+This video shows the automatic value changes will happen as a song plays by automating the volume on 8 different tracks. The device in question is the [Presonus Faderport 8](https://www.sweetwater.com/store/detail/FaderPort8--presonus-faderport-8-production-controller) which automatically adjusts its faders to volume automation parameters.
+
+!?[automatic-faders](https://www.youtube.com/shorts/NrtX-SxtCP0)
+
 When playing back the audio, you can have the automation behave in different ways:
 
-* Read: performs the automation as given.
-* Touch: will only update the automation when an external MIDI controller is used. When a MIDI controller is not being actively updated, it behaves like Read.
-* Latch: reads the automation until a hardware input is detected, then begins writing the automation data from that point onward
-* Write: will only write automation data. Be careful that if you set the automation, then playback while still in Write mode, it will overwrite the previous automation!
+* Read: Performs the automation as given.
+* Touch: Will only update the automation when an external MIDI controller is used. When a MIDI controller is not being actively updated, it behaves like Read.
+* Latch: Reads the automation until a hardware input is detected, then begins writing the automation data from that point onward.
+* Write: Will only write automation data. Be careful that if you set the automation, then playback while still in Write mode, it will overwrite the previous automation!
 * Off: Ignores all automation when playing back. This will translate to the mixdown, so don’t forget about it!
 
 ## Lab 6
