@@ -166,19 +166,81 @@ The visual symbols used to refer to all of these notes will come up later, but w
 * La
 * Ti
 
-### Keys and Key Signatures
-
 ## Overtones and Timbre
+
+When talking about various instruments, the idea of timbre will often come up. Timbre refers to how a particular sound sounds. A clarinet, guitar, trombone, and your voice all have unique timbres that let them sound different from each other, even if playing the same note.
+
+Timbre is largely determined through the overtones present when a sound is made. An overtone is a frequency higher than the fundamental pitch that harmonically resonate with the instrument. Every sound has multiple overtones, and it is the unique volume of all these frequencies combined together which determine the timbre of an instrument.
+
+Let's try it! Say something or have someone else say something normally. Then, repeat the original phrase covering their mouth with a piece of paper, a thicker book, one, then two hands. Each item acts like a filter, blocking more frequencies in the original sound from being as loud. You should ear that each repetition should slightly different from the previous one, despite being the same content.
 
 ## Musical Intervals
 
 ## Musical Scales
 
+A musical scale is a collection of intervals. Starting on one note, then following the interval pattern will create a scale. Scales are useful for a variety of reasons because they contain all of the notes within a given key. The note beginning the scale is the key of that scale. following the same pattern on a different note will result in another of the same scale in a different key.
+
+Throughout this section, we will use this notation in order ot represent the various intervals in a scale pattern:
+
+* H: Half-Step
+* W: Whole Step
+* 2+: Augmented Second
+* m3: Minor Third
+
 ### Major Scales
+
+All major scales have the same pattern. WWHWWWH
+
+Starting on C, the pattern is CDEFGABC. These are all of the white keys on the piano with no black keys. 
+On G, the pattern is GABCDEF#G. This scale has a single black key: F#
+On F, the pattern is FABbCDEF. This is the other scale with only one black key: Bb
 
 ### Minor Scales
 
+Unlike a major scale, a minor scale has 3 different versions depending on the context of how it is used. Between all of them, the key shared feature is that the third scale degree is lowered by a half step compared to a major scale starting on the same pitch.
+
+#### Natural Minor
+
+When compared to a major scale, the natural minor has a lowered 3rd, 6th,and 7th scale degree. The pattern for these scales is WHWWWHWWW.
+
+A C major scale is CDEFGABC, while a C natural Minor is CDEbGAbBbC
+
+These scales can be used anywhere.
+
+#### Harmmonic Minor
+
+Compared to the natural minor, the Harmonic minor scale has a raised 7th scale degree. The Pattern for this scale is WHWWH2+H.
+
+A C natural minor scale is CDEbFGAbBbC, while a C harmonic minor scale is CDEbFGAbBC. This extra interval and half step between scale degrees 7 and 8 make this scale useful for chord-related purposes. This scale can create a dominant 7th chord (a major chord built on scale degree 5, with an additional minor 7th above the root.) while a natural minor scale cannot.
+
+#### Melodic Minor
+
+The melodic minor acts like a combination of the scales discussed so far, and is unique forms depending on whether it is ascending or descending. This scale is used in melodic contexts because the performer can easily change between the two forms to get the note they need without changing the key or harmonic implications of the music.
+
+THe ascending version is identical to the major scale, but with a lowered third scale degree, while the descending version is identical to the natural minor scale.
+
+Starting on C, the ascending version is CDEbFGABC, and the descending version is CBbAbGFEbDC. The pattern for this scale is WHWWWWH ascending, and WWHWWWH descending.
+
 ### Other Scales
+
+Tin addition to the major and minor scales there are SEVERAL others. In this course we will only discuss 3 of them.
+
+
+#### Chromatic Scale
+
+A chromatic scale is a scale comprised of only half steps. This means that the scale is comprised of every keyboard key within an octave. The patterns is HHHHHHHHHHH, and the scale will sound identical regardless of the starting pitch.
+
+CC#DD#EFF#GG#AA#BC
+
+
+#### Whole-Tone Scale
+
+The whole tone scale follows the same idea as the chromatic scale, only using whole steps for each interval.
+
+
+#### Octatonic Scale
+
+THE octatonic scale combines the two previous scale by alternating between the two intervals.
 
 ## Chords & Harmony
 
@@ -195,6 +257,10 @@ The visual symbols used to refer to all of these notes will come up later, but w
 ### Rhythm
 
 ### Pitch
+
+#### Keys and Key Signatures
+
+Lastly for now, in regards to pitch, Music and sections of music can have a key. 
 
 ## Chord Progressions & Roman Numeral Analysis
 
