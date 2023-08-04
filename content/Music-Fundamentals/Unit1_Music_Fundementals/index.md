@@ -14,6 +14,8 @@ As we move through the material there will be several times to listen to a varie
 
 As we work through Unit 1 there will be several opportunities to practice your ear training. These exercises will present you with various audio samples that play concepts we have been discussing. The goal of these assignments is to hear something and be able to identify what it is. If you don't know what a major chord sounds like, then why would you use one in your music?
 
+Periodically links to [musicthoery.net](musicthoery.net) will appear that will take you to ear training exercises. 
+
 ### Listening Journal
 
 It is recommended that each class meeting start with listening to some music. The specifics of this are at the discretion of the teacher. By listening to these concepts used in the real world and exploring new genres of music, you can start to develop or further identify exactly how you feel about different musical ideas and more quickly decide what you do and don't like about a song as well as how to fix those issues. Whenever a listening happens in class, students should keep a listening journal to be submitted for a grade. The journal should include some basic information, but mainly be a freeform response to what is being listened to. Be sure to include:
@@ -65,7 +67,9 @@ Instructions:
 
 #### Listening Presentation Track List
 
-Use this list in order to choose a song for your presentation. Songs outside of this list may be utilized following approval by your teacher. Songs are arranged alphabetically by Artist.
+Use this list in order to choose a song for your presentation. Songs outside of this list may be utilized following approval by your teacher. You should include both what the song it and why you want to present it when asking about external options.
+
+Songs are arranged alphabetically by Artist. All links are to youtube. A Spotify playlist of the list is available [here](https://open.spotify.com/playlist/5OxyQuPevovwmrKDRTmwSH?si=b607e4f81cda4207).
 
 || Artist                     | Album (if applicable)                           | Song                           | Listening Links                                                                                     |
 | -------------------------- | ----------------------------------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------- |
@@ -75,7 +79,7 @@ Use this list in order to choose a song for your presentation. Songs outside of 
 | Autechere                  | Exai                                            | prac-f                         | https://www.youtube.com/watch?v=7KnRxHPCJvo&list=OLAK5uy_nQ6_ErdMG93Q63rWUNsIjmy8YctJYw2BY          |
 | Bjork                      | Medulla                                         | Who Is It?                     | https://www.youtube.com/watch?v=qOEdk9ObEfI                                                         |
 | Blue Oyster Cult           | Agents of Fortune                               | Don’t Fear the Reaper          | https://www.youtube.com/watch?v=Dy4HA3vUv2c                                                         |
-| The Books                  | Lost and Safe                                   | Be good to Them Always         | https://www.youtube.com/watch?v=uv_u_5MwQcM                                                         |
+| The Books                  | Lost and Safe                                   | Be Good to Them Always         | https://www.youtube.com/watch?v=uv_u_5MwQcM                                                         |
 | Brian Eno                  | Small Craft on a Milk Sea                       | Complex Heaven                 | https://www.youtube.com/watch?v=QZ3yc_E6wIQ                                                         |
 | Carl Craig                 | The Album Formerly known As…                    | They Were                      | https://www.youtube.com/watch?v=ccGyoQnHQNE                                                         |
 | Curtis Roads               | Point Line Cloud                                | Eleventh Vortex                | https://www.youtube.com/watch?v=CaTcAFFoDe0                                                         |
@@ -86,17 +90,17 @@ Use this list in order to choose a song for your presentation. Songs outside of 
 | Juana Molina               | Halo                                            | In the Lassa                   | https://www.youtube.com/watch?v=CXqMuDr2QhQ                                                         |
 | Kendrick Lamar             | DAMN.                                           | FEEL                           | https://www.youtube.com/watch?v=cQtFTqh1mwM                                                         |
 | Kreng                      | Grimoire                                        | Petit Grimoire                 | https://www.youtube.com/watch?v=yn09nCT_9wA                                                         |
-| Laurie Spiegel             | The Expanding Universe                          | Appalachian Grove              | https://www.youtube.com/watch?v=55S9d3gdZok                                                         |
+| Laurie Spiegel             | The Expanding Universe                          | Appalachian Grove I            | https://www.youtube.com/watch?v=55S9d3gdZok                                                         |
 | Makunouchi Bento           | Swime                                           | Rain Dragon, Hidden Genius     | https://www.youtube.com/watch?v=Md42nPqQmpQ                                                         |
 | Mario Davidofsky           |                                                 | Synchronisms No. 3             | https://www.youtube.com/watch?v=an9irzz4cGE                                                         |
-| Matmos                     | Ultimate Care II                                | Ultimate Care II Excerpt III   | https://www.youtube.com/watch?v=_4hc-F1g7tk                                                         |
-| Materia                    | Everything Ends                                 | The Hermit Spirit              | https://www.youtube.com/watch?v=weo9rb4ah14&list=OLAK5uy_l6xRwv5o5IQIVotk_W8amzY8AUhwo2qzU&index=10 |
+| Matmos                     | Ultimate Care II                                | Ultimate Care II Excerpt 3     | https://www.youtube.com/watch?v=_4hc-F1g7tk                                                         |
+| Materia                    | Everything Ends                                 | The Hermit Spiral              | https://www.youtube.com/watch?v=weo9rb4ah14&list=OLAK5uy_l6xRwv5o5IQIVotk_W8amzY8AUhwo2qzU&index=10 |
 | Monolake                   | Ghosts                                          | Discontinuity                  | https://www.youtube.com/watch?v=n3bKdqBrccs                                                         |
 | Pauline Oliveros           |                                                 | Sound Patterns                 | https://www.youtube.com/watch?v=vSf7jvO6soM&list=PLUpIWHnoHbGx3FREl_0Lbwmr-jfYujkX3&index=17        |
 | Pierre Schaeffer           |                                                 | Etude aux Chemins de Fer       | https://www.youtube.com/watch?v=tJwoQlYUVTk&list=PLxE9xVZdRdY8tL0hNmhS6JGW6G5-0SGWF&index=10        |
 | Portishead                 | Third                                           | Machine Gun                    | https://www.youtube.com/watch?v=zFwPBhKwZLc                                                         |
 | Sampha                     | Process                                         | Reverse Faults                 | https://www.youtube.com/watch?v=FoBkVh1wW20                                                         |
-| Solange                    | A Seat at the Table                             | Don’t Touch my Hair            | https://www.youtube.com/watch?v=YTtrnDbOQAU                                                         |
+| Solange                    | A Seat at the Table                             | Don’t Touch My Hair            | https://www.youtube.com/watch?v=YTtrnDbOQAU                                                         |
 | Son Lux                    | Lanterns                                        | Easy                           | https://www.youtube.com/watch?v=1967zSpJ4j0                                                         |
 | St. Vincent                | Strange Mercy                                   | Champagne Year                 | https://www.youtube.com/watch?v=F7In52DHMcw                                                         |
 | Toto                       | Toto IV                                         | Africa                         | https://www.youtube.com/watch?v=FTQbiNvZqaY&list=PLvqAGa7mJm0XDj-9WLrnZ6yxKpPNmS2dd&index=52        |
@@ -111,11 +115,56 @@ The Last Listening concept we will discuss in this section is the idea of Deep L
 
 ?![oliveros-dl-ted-talk](https://www.youtube.com/watch?v=_QHfOuRrJB8)
 
-when listening to various songs in class, including your own projects, try and apprach the experience with Deep Listening in mind. Remind yourself when you are not listening. Be aware of what you are listening to, what is present in the sound, and how it interacts with other sounds and yourself. This is not an easy thing to do any will take a lot of practicing in order to get used to. Luckily, this course has a lot of things to listen to!
+when listening to various songs in class, including your own projects, try and approach the experience with Deep Listening in mind. Remind yourself when you are not listening. Be aware of what you are listening to, what is present in the sound, and how it interacts with other sounds and yourself. This is not an easy thing to do any will take a lot of practicing in order to get used to. Luckily, this course has a lot of things to listen to!
 
 ## Pitch
 
+Pitch is how musicians talk about a sound's frequency. In a performance setting where hundreds or thousands of notes are played in a few minutes, referring to a sound frequency with a small collection of names is much more practical than having to calculate what to play with numbers. Western musical pitch is represented with letter names as follows:
+
+* A
+* B
+* C
+* D
+* E 
+* F
+* G
+
+The specific notes will repeat over and over again. This loop is called an octave because the repeated note is the 8th in the sequence above the original pitch. We can refer to the specific octave with a number. "Middle C" on the music staff is C4. The C below is C3, and the one above is C5. A standard 88 key piano has the pitches A0-C8.
+
+In terms of frequency, it doubles every octave. So C5 has a frequency twice as high as C4 and four times as high as C3. This doubling is what helps us hear the same note at different octaves.
+
+### Flat and Sharp
+
+We will talk more about how to read music later in this unit, but we haven't quite covered every note on a keyboard. A-G mentioned previously only account for the white keys on a piano. The black keys on a keyboard have slightly longer names. When played together, A and B sound pretty close, but an additional note can actually fit in that space (The specifics of musical intervals will be coming up soon.). To help keep these other notes related to the short list of 7 pitches, musicians simply indicate if the notes previously mentioned have been raised or lowered to the closest black key.
+
+The phrase 'sharp' indicates a note has been made one piano key higher, while the phrase 'flat' indicates that the pitch has been lowed by one piano key.Using these new notes, an octave will have 12 equally spaced notes within it, indicated by the repeating pattern of piano keys. You mau have noticed that if you follow this process, you will have different names for the same pitch. E.G. Moving one step above C and one below D will be the same key on the keyboard. These pitches are called enharmonic. Enharmonic pitches sound the same, but the name used to refer to the pitch will change depending on the context of the music around the note. Doing this allows for the music to be easier to read and analyze. The full list of these pitches is:
+
+* A
+* A sharp/B flat
+* B
+* C
+* C sharp/D flat
+* D
+* D sharp/E flat
+* E
+* F
+* F sharp/G flat
+* G
+* G sharp/A flat
+
+Notice that there is no black key between B/C and E/F. The same sharp/flat rule still applies, so B sharp is the same as C natural.
+
 ### Solfedge
+
+The visual symbols used to refer to all of these notes will come up later, but we can still give these notes names to refer to them and sing. A system called solfedge was developed in the 11th century and used as another way to mention pitch. The original latin syllables are largely unchanged from the original:
+
+* Do
+* Re
+* Mi
+* Fa
+* Sol
+* La
+* Ti
 
 ### Keys and Key Signatures
 

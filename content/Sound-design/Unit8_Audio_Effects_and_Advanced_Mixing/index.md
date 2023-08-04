@@ -13,7 +13,7 @@ Parts of the Mixing console:
 * Moving down, the next section is for sending audio to other places in the mix. This is generally used for parallel processing, grouping audio channels together, or sidechaining audio effects.
 * The next section shows the audio channel’s input and output. This will usually indicate which interface microphone channel you are using, and if the audio is being sent to the Main output channel or somewhere else. Underneath this is a graphic representation of the channel panning. You can change this by dragging the blue bar left and right.
 * The four buttons below the channel IO are Mute, which silences the channel when active. Solo, which silences all OTHER channels when active. Record Arm, which flags a track to record its input when the record button is hit. Monitor, which feeds the input for that channel directly into the Main output channel.
-* The slider controls the output gain for the channel and is the most noticible feature of each channel. Moving it up makes the channel louder, but it is better practice to make things softer. This way you can balance things without distortion from making it too loud. Remember, if you can’t hear something, it is usually a better idea to make other things quieter before you make the first sound louder.
+* The slider controls the output gain for the channel and is the most noticeable feature of each channel. Moving it up makes the channel louder, but it is better practice to make things softer. This way you can balance things without distortion from making it too loud. Remember, if you can’t hear something, it is usually a better idea to make other things quieter before you make the first sound louder.
 * On the left of the Mixing console you will see several options for showing or hiding various things in the mixer. What was listed above is the default appearance, but you can choose to shore more or less information depending on your needs.  
 
 Types of Tracks:
@@ -64,6 +64,8 @@ Studio One 6.2 includes a handful of common audio effects included with the soft
 
 To see all of your audio effects, open the browse window and click on Effects. You can arrange them however you want, but we will be going over the ones in the default Presonus folder. For more information on these effects, check out the [Studio One 6 online manual](https://s1manual.presonus.com/#Built-In_Effects_Topics/Chapter-Built_In_Effects.htm?TocPath=Built-In%2520Effects%257C_____0)!
 
+### Monitoring Effects
+
 The first category of ‘effects’ we will be looking at generally do not alter sounds like the others, but are implemented in the same way. These effects are used for monitoring various aspects of the sound.
 
 * Phase Meter
@@ -84,6 +86,8 @@ The first category of ‘effects’ we will be looking at generally do not alter
 * Tone Generator
     This is the only effect in this category that actually produces a sound. You can utilize this to setup specific tones and their characteristics. While it can be used to create content by feeding it into a mix, it is generally designed for setup and troubleshooting
 
+### Delay Effects
+
 The following Effects all delay an audio signal in different ways:
 
 * Analog Delay
@@ -92,6 +96,9 @@ The following Effects all delay an audio signal in different ways:
     A delay which syncs to the tempo of the song. It does not include the coloring tools and LFO of Analog Delay.
 * Groove Delay
     This delay has four delay lines (you will hear the original sound a total of 5 times) instead of the single delay line of the other effects. This effect will sync each line to the tempo, and can have the volume and panning set for each line individually. This allows you to create unique, evolving delays throughout your music.
+
+
+### Distortion Effects
 
 The following Effects all distort the signal in different ways:
 
@@ -105,7 +112,10 @@ The following Effects all distort the signal in different ways:
 * Red Light Distortion
     This is a more generalized distortion designed to replicate analog hardware distortion effects. 
 
-The following Effects all alter the volume of the signal in different ways:
+
+### Volume Effects
+
+The following effects all alter the volume of the signal in different ways:
 
 * Compressor
     A compressor works by reducing the volume of an audio signal when it passes a specific threshold. This is useful for both making loud sounds quieter and soft sounds louder.
@@ -127,6 +137,9 @@ The following Effects all alter the volume of the signal in different ways:
     Check out the video manual for a more detailed breakdown of how to utilize an equalizer:
         !?[proEQ-manual-video](https://www.youtube.com/watch?v=1fVLvFWlU9w)
 
+
+### Mastering Effects
+
 These effects are all generally used in the Mastering process in various ways:
 
 * Multi-band Dynamics
@@ -135,6 +148,8 @@ These effects are all generally used in the Mastering process in various ways:
 * Tri-Comp
     Tri-Comp is essentially the same thing as Multi-Band Dynamics, but with less customizability.
     Tri-comp only has 3 bands instead of 5.
+
+### Mixing Effects
 
 These effects are generally used when mixing audio:
 
@@ -161,6 +176,9 @@ These effects are generally used when mixing audio:
     Check out this video on Splitter from Presonus:
         !?[splitter-video](https://youtu.be/ohfNHuKq_Eg)
 
+
+### Modulation Effects
+
 These effects all Modulate sounds:
 
 * Autofilter
@@ -180,6 +198,9 @@ These effects all Modulate sounds:
     Vocoders are generally heard on vocal recordings and can give the voice a unique texture or create harmonies from a single source.
 * X-Trem
     Creates a tremolo effect by modulating the amplitude of the incoming signal.
+
+
+### Reverb Effects
 
 These are all of the included Reverb effects in Studio One 6.2:
 

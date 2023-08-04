@@ -2,8 +2,6 @@
 
 Here we will start introducing the idea of audio mixing: combining various audio files into a cohesive, balanced, single product. We have already explored adjusting the volume of a track, and here we will start experimenting with techniques like panning and crossfades in order to arrange your sounds and create new textures, followed by going over automation. Automation allows for you to program parameters to set themselves and change automatically over the course of a song; something super useful for maintaining balance through different sections of music!
 
- 
-
 ## Audio Loops
 
 Studio One 6 comes with a large number of loops that can be utilized in your projects. These vary between audio files and MIDI data, but can both be easily dropped into a session for quick implementation. Keep in mind however that these can take up a large amount of storage space, so you may not be able to fit many on your computer. A few projects in this class will want you to utilize the loops, while others will specifically forbid it. While practicing and learning, having an easily repeatable loop is useful for comparing your changes and fine-tuning balances.
@@ -106,6 +104,3 @@ Mixdown requirements:
 * Make sure to export the Main output.
 * Be sure that the duration of the resulting audio file matches what you expect. Your Lab project should be between approximately 45 and 120 seconds in duration.
 * Be sure to follow your teacher’s guidelines for file submission.
-
-
- 
