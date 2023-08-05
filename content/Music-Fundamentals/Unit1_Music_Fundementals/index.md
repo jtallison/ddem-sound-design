@@ -351,8 +351,6 @@ So far we have only talked about the duration of notes in music, but knowing whe
 
 A whole rest is mainly used to indicate that no sound is occurring for the entire measure, regardless of the time signature. If 4 beats of rest are needed, it is more common to use half and quarter rests instead. The chart below shows what these symbols look like.
 
-
-
 Lastly, if you need to indicate a note or rest duration that is not exactly half the duration of the next highest note, for example 3, 5, or 7.25 beats, dots and ties can be used. A tie is a connecting line between two notes of the same pitch, and indicates that their durations should be combined into a single note. Rest do not use ties because two rests performed back-to-back still sounds like one single rest. A dot, however, can be applied to any note or rest. A dot indicates that half the duration of the proceeding note/rest duration should be added on to the original note. For example, a dotted quarter note/rest would start with a duration of one beat (in 4/4), and then add half a beat onto it for a total duration of 1.5 beats. A whole note starts at 4 beats, then adds half of its original value to total 6 beats when a dot is added.The chart below shows dotted note values.
 
 #### Time Signatures and Meter
@@ -373,7 +371,7 @@ So the duration would be approximately 5 minutes and 20 seconds, assuming the pe
 
 ### Pitch
 
-In addition to knowing how long to play, musicians also need to know which note to play in order to create the various chords, textures, and melodic lines of the music. This is done with the vertical placement of the notes on the staff. As you read teh rhythm from right to left, higher notes on that line indicate a higher pitch to be played (and vice versa).
+In addition to knowing how long to play, musicians also need to know which note to play in order to create the various chords, textures, and melodic lines of the music. This is done with the vertical placement of the notes on the staff. As you read the rhythm from right to left, higher notes on that line indicate a higher pitch to be played (and vice versa).
 
 #### Clefs and the Musical Staff
 
