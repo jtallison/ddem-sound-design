@@ -178,9 +178,11 @@ Let's try it! Say something or have someone else say something normally. Then, r
 
 ## Musical Scales
 
-A musical scale is a collection of intervals. Starting on one note, then following the interval pattern will create a scale. Scales are useful for a variety of reasons because they contain all of the notes within a given key. The note beginning the scale is the key of that scale. following the same pattern on a different note will result in another of the same scale in a different key.
+A musical scale is a collection of intervals. Starting on one note, then following the interval pattern will create a scale. Scales are useful for a variety of reasons because they contain all of the notes within a given key. The note beginning the scale is the key of that scale. following the same pattern on a different note will result in another of the same scale in a different key.  
 
-Throughout this section, we will use this notation in order ot represent the various intervals in a scale pattern:
+Using a certain scale will give your music a unique character. Be sure to listen to each of the scales we go over to see which ones you like and might want to use in a project!
+
+Throughout this book, we will use this notation in order ot represent the various intervals in a scale pattern:
 
 * H: Half-Step
 * W: Whole Step
@@ -235,22 +237,87 @@ CC#DD#EFF#GG#AA#BC
 
 #### Whole-Tone Scale
 
-The whole tone scale follows the same idea as the chromatic scale, only using whole steps for each interval.
+The Whole-Tone scale follows the same idea as the chromatic scale, only using whole steps for each interval. Because of the asymmetrical nature of the chromatic scale (lack of black keys between B/C and E/F), there are two different versions of the Whole-Tone scale; each one with a unique collection of notes.
+
+* Version 1: CDEF#G#A#C
+* Version 2: C#D#FGABC#
+
+If needed, the version of the scale being used can be referred to by whether it has C or C#. The pattern for a Whole-Tone Scale is WWWWWW
 
 
 #### Octatonic Scale
 
-THE octatonic scale combines the two previous scale by alternating between the two intervals.
+The Octatonic scale combines the two previous scale by alternating between the two intervals. Similar to the Whole-Tone scale, the Octatonic scale has different versions depending on which note you start on, as well as which pattern you use.
+
+* Version 1: CDEbFGbAbABC
+* Version 2: CDbEbFbGbGABbC
+* Version 3: C#DEF#GABbC
+
+Each of these versions account for every unique combination of pitches when alternating between half and whole-steps. The patterns are WHWHWHWH and HWHWHWHW. Version 3 is HWHWHWHW as well, but starting on C# instead of C.
 
 ## Chords & Harmony
 
+While you generally hear notes in scales played sequentially, a chord occurs when multiple notes are played at the same time. This is different than a harmonic interval, which is two notes played simultaneously. A chord must be three or more notes performed at the same time. The specifics of the intervals between those notes and how many notes are in the chord help identify what the chord is, and how it is behaving in the music.
+
+Generally, music progresses as a series of musical chords. This is called the chord progression. The composer will use the notes of a scale to build their chords, giving the music a feeling of identity. This is called the music's key. If a composer changes which scale they are using, then the notes in each chord will change. This can be small and add extra color to the music, or a larger key change.
+
+When building a chord, one note is always the root, and the other notes are chosen based on their interval relation to the root. The remainder of this section will discuss the various interval patterns you can use to create various kinds of chords.
+
 ### Major Chords
+
+A major chords is probably the most-commonly heard chord in Western music. to form this chord, You need the 1st, third, and 5th scale degrees of any major scale. All of the chords discussed in this book will be built on variations of the 3rd, and what amounts to a collection of every other note within various scales. Another way to conceptualize building a major scale is that you are playing a root note as well as the pitches a major third and perfect 5th above the root at the same time.
+
+A C major chord has the notes CEG, G Major has GBD, and F major has FAC.
+
+Generally, people hear major chords as happy or neutral.
+
+In a major key you can build major chords following the every other note pattern with scale degrees 1,3,4, and 5 as the respective root notes. In minor keys this changes to scale degrees 3, 6, and 7 (when using natural minor)
 
 ### Minor Chords
 
+Minor chords are only one half step away from their parallel major chord. Remembering that a minor scale has a lowered third scale degree, you can still take scale degrees 1,3, and 5 of a minor scale to build its chord. The intervals above the root are a minor third and a perfect fifth. The other lowered notes are still present in the scale, but not being actively used in the chords, allowing the melodic form of the minor scale to alternate between flat and natural scale degrees 6 and 7.
+
+C minor has CEbG, G minor has GBbD, anf F minor has FAbC
+
+Compared to major chords, minor chords tend to feel more sombre or sad.
+
+In a major key you can build minor chords following the every other note patter using scale degrees 3 and 6. In a minor key this changes to 1, 4, 5 and 7.
+
 ### Other Chords
 
+The major and minor chords will likely be the most common ones you come across, but there are several more. THese other ones are still common, and can add further emotion to the context of your music.
+
+#### 7th Chords
+
+A 7th chord contains the next note following the every other note pattern up the scale. This creates a chord with 4 pitches: the 3rd, 5th, and 7th above the root of the chord. This adds more character to the note, as well as a musical motion to move to another chord. The specific interval between the 7th and the other notes will change its type, the strength and direction of this motion, and overall sound of the chord. Here we will focus on the Dominant 7th chord. 
+
+The dominant 7th takes a natural MAJOR 7th chord built from the 5th scale degree of the music's key and lowers the 7th by a half step. This creates a whole step interval between the root of the chord and the 7th, weakening the pull to the chord root. Instead the listener will hear the dominant 7th chord want to resolve to the home key of the music. This happens because of the half step between the chord's 3rd and 7th, and the home key's 1st and 3rd degrees respectfully.
+
+In the key of C the dominant 7th is GBDF, G is DF#AC, and F is CEGBb. Notice that all the notes are still present in the home key. This is not the same for minor chords. This is because a dominant 7th chord is ALWAYS a major chord with the 7th added. So for C minor, the Dominant 7th would still be GBDF. This is the main reason for the use of the harmonic minor scale. Because of the raised scale degree 7, it can be used to build dominant 7th chords.
+
+Because the dominant 7th chord is always built on scale degree 5 of the music's key, there is only one version per key.
+
+#### Augmented Chords
+
+An augmented chord is a symmetrical chord built on 2 major thirds. This creates a chord with a major third and augmented 5th above the root. THese chords tend to sound more open and less centered than a major chord. Depending on the voicing, the augmented 5th can sound more like a minor 6th and create a darker sound.
+
+C augmented is CEG#, G Augmented is GBD#, and F Augmented is FAC#. You will often see augmented chords written with 'Aug' or + to indicate this type of chord.
+
+#### Diminished Chords
+
+A diminished chord is another symmetrical chord, but built with minor thirds instead of major ones. This creates a highly dissonant chord that can create a lot of tension within the music. 
+
+C Dim is CEbGb, G Dim is GBbDb, and F Dim is FAbCb. You can also add the 7th to both augmented and diminished chords to create more chord variations, but we will not be discussing additional chords here.
+
 ### Chord Inversions
+
+In the chord examples so far, they have all been built in ascending order, with the root being the lowest pitch of the chord. In music you will often find that this is not the case. In fact, many chord progressions utilize different chord tones in the bass line to help move the progression more smoothly from chord to chord. We call this inverting the chord. By changing which chord tone is the lowest pitch of the chord, different textures and sounds can be created. 
+
+A chord in 1st inversion has the 3rd as the lowest note of the chord. These function similar to a root position chord, but are slightly less stable. They generally come up because of the notes in the bass line.
+
+Second inversion chords have the 5th as the bass note, and are significantly more unstable than a root position chord because of the larger interval between the bass and other chord tones. These chord are often used to help with musical cadences.
+
+A third inversion chord only happens on chords with 4 or more tones. In the context of this book, that would put the 7th as the lowest note. Because of the 7th chord's exhalent instability combines with the close interval between the 7th and 8th, these chords are heard as strongly wanting to move to the root. Although this tends to be a 1st inversion form of the root in many theory textbooks. (we will not discuss voice leading here)
 
 ## Reading Music
 
