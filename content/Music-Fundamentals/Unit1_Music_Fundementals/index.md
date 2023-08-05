@@ -209,7 +209,7 @@ A C major scale is CDEFGABC, while a C natural Minor is CDEbGAbBbC
 
 These scales can be used anywhere.
 
-#### Harmmonic Minor
+#### Hormonic Minor
 
 Compared to the natural minor, the Harmonic minor scale has a raised 7th scale degree. The Pattern for this scale is WHWWH2+H.
 
@@ -225,7 +225,7 @@ Starting on C, the ascending version is CDEbFGABC, and the descending version is
 
 ### Other Scales
 
-Tin addition to the major and minor scales there are SEVERAL others. In this course we will only discuss 3 of them.
+in addition to the major and minor scales there are SEVERAL others. In this course, however, we will only discuss 3 of them.
 
 
 #### Chromatic Scale
@@ -321,9 +321,71 @@ A third inversion chord only happens on chords with 4 or more tones. In the cont
 
 ## Reading Music
 
+All of this music theory is great, but what would you do if you wanted to have someone else perform music that your created, or if you wanted to create a record of your music? To do both those things and more, a music notation was created that allows anyone reading the music to recreate the same sounds that the composer was intending when they created the music. Western music notation has a few important conventions that we will need to go over in order to understand what is happening on the page, but ultimately music notation's main goal is to tell the performer which notes to play, when to play them, and any other information they need to create the desired sound. Prior to audio recording and playback, it was the only way to share the music you created with other people!
+
 ### Rhythm
 
+Before we start worrying about notating pitch, lets focus on the rhythm of the music. Each note on the page has an implied duration. The specific time of each note can vary depending on the tempo of the music, so the rhythm is represented using fractions and relationships that do not change. In order to determine what the rhythmic value of a note is, you must look at the shape of the note; specifically at the stem or flags that may be attached to the note head ( the note head is the round part and usually used to represent the pitch of the note).
+
+* No stem, hollow note head : Whole Note
+* Stem only, hollow note head : Half Note
+* Stem only, head filled in : Quarter note
+* Stem only, head filled in, 1 flag : Eighth Note
+* Stem only, head filled in, 2 flags : 16th Note
+* Stem Only, head filled in, 3 flags : 32nd note
+* and so on.
+
+Moving down the list, each note is half of the duration of the note that proceeded it. This is clear thought the naming as well as 1/4 is half of 1/2, and the naming convention follows the same relationship.
+
+The image below shows a chart of the various rhythmic symbols. 
+
+
+So far we have only talked about the duration of notes in music, but knowing when not to play is as important as knowing when to play. To indicate this, symbols for rests were also created. When these symbols appear in music, it means that the performer should not make any sounds. The naming convention and 2:1 ration of the notes mentioned above still apply to rests, but the symbols are slightly different.
+
+* Downward facing rectangle : Whole Rest
+* Upward facing rectangle : Half Rest
+* Squiggly Line: Quarter Rest
+* Tick with 1 flag : Eighth Rest
+* Tick with 2 flags, 16th Rest
+* and so on.
+
+A whole rest is mainly used to indicate that no sound is occurring for the entire measure, regardless of the time signature. If 4 beats of rest are needed, it is more common to use half and quarter rests instead. The chart below shows what these symbols look like.
+
+
+
+Lastly, if you need to indicate a note or rest duration that is not exactly half the duration of the next highest note, for example 3, 5, or 7.25 beats, dots and ties can be used. A tie is a connecting line between two notes of the same pitch, and indicates that their durations should be combined into a single note. Rest do not use ties because two rests performed back-to-back still sounds like one single rest. A dot, however, can be applied to any note or rest. A dot indicates that half the duration of the proceeding note/rest duration should be added on to the original note. For example, a dotted quarter note/rest would start with a duration of one beat (in 4/4), and then add half a beat onto it for a total duration of 1.5 beats. A whole note starts at 4 beats, then adds half of its original value to total 6 beats when a dot is added.The chart below shows dotted note values.
+
+#### Time Signatures and Meter
+
+The time signature is used to tell the performer how the various notes are grouped together. 4/4 is one of the most common times. This information is represented as a fraction. The upper number indicates how many beats are present within a single bar of music, while the lower value indicates which note duration is equal ot one beat. 
+
+In the case of 4/4, the quarter note is worth one beat (x/4), adn there are 4 beats per measure. 3/4 would only have three beats per measure, 2/4 and 5/4 having 2 and 5 respectively. Having an 8 in the denominator indicates that an eighth note receives a single beat. 3/8,6/8,and 9/8 are all common times with this denominator.
+
+Generally speaking, the numerator of the time signature fraction can be any number, while the denominators must be an even multiple of 2. 2,4,8,16,and 32 are the most commonly used denominators. The time signature will appear at the beginning of the music and whenever the time signature changes.
+
+#### Tempo
+
+Tempo is how fast the music is. All music will have some kind of internal clock, beat, or pulse to it, and the number of times per minute that this pulse occurs at is the tempo. If a piece of music was written in 4/4, and had a tempo of 60 B.P.M. (beats per minute), then you would count each quarter note at a rate of 1 per second. to get the full duration of the music, you can count the number of measures, multiply that by 4 (4 beats per measure in 4/4), then divide that number by 60 to get the total time (total beats / BPM). If the music was 80 measures long, then:
+
+80 * 4 = 320
+320 / 60 = 5.33333...
+So the duration would be approximately 5 minutes and 20 seconds, assuming the performer stayed at exactly 60 B.P.M. and 4/4 the entire performance.
+
 ### Pitch
+
+In addition to knowing how long to play, musicians also need to know which note to play in order to create the various chords, textures, and melodic lines of the music. This is done with the vertical placement of the notes on the staff. As you read teh rhythm from right to left, higher notes on that line indicate a higher pitch to be played (and vice versa).
+
+#### Clefs and the Musical Staff
+
+Music is notated on a staff. This is a collection of horizontal lines that you read from left to right, and shows the various information conveys by the music. Instruments that do not make a pitch, like a drum, utilize only 1 line staves, but most instruments utilize a 5 line staff. To indicate a desired pitch, the head of the note (the round part) is placed on a specific line, or the space between two adjacent lines. Each line and space indicates a specific musical pitch. You can also think of each line/space representing a specific key on a piano keyboard. 
+
+you may have noticed however that a piano has more keys than a 5 line staff has notes. To help with this, clefs are utilized. A clef appears at the beginning of every staff, and serves to indicate which pitches are used on that staff. There is a handful of different clefs used in music notation, but we will be focusing on the two most common: Treble and Bass.
+
+The treble clef is used for higher pitched instruments, and the shape is shown below. On staves with the treble clef, the second-from-bottom line is specifically the pitch G4. This is the reason this is also called the G clef.
+
+The bass clef, shown below, is used for bass instruments. Staves using this clef have the second from the top line as the pitch F3. This is why this is also referred to as the F clef.
+
+These clefs are used together in what is called a grand-staff for instruments with a large range like the piano. This works because the pitch C4, or middle C, is located in between these two clefs, and acts as a bridge between them. Whenever a note appears outside of the boundaries of a staff, you can use ledger lines to extend the staff and accurately read the pitch. Middle C is one ledger line below the treble staff, _and_ one ledger line above the bass staff.
 
 #### Keys and Key Signatures
 
