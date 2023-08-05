@@ -2,13 +2,9 @@
 
 This unit serves as our introduction to Studio One 6. We will start by making sure the software is installed on your device and then go on a tour of the main software windows. By the end of the unit we will be able to add and manipulate those sounds in order to create a few projects right away!
 
-
- 
-
-
 ## Installing and Authorizing Studio One 6
 
-Before we can begin making sounds in Studio One, you first need to have the software installed on your computer. If you are doing this as part of a class at school, then don’t worry. The school will install the software for you. However if you would like to have Studio One on your personal device, you will need to follow these steps:
+Before we can begin making sounds in Studio One, you first need to have the software installed on your computer. If you are doing this as part of a class at school, then don’t worry. The school will install and authorize the software for you. However if you would like to have Studio One on your personal device, you will need to follow these steps:
 
 1. Get a license from Presonus. 
     In order to utilize Studio One, you will need to have a license. Presonus offers a free version called Studio One Prime, an intermediate version called Studio One Artist, and a full version called Studio One Professional. Keep in mind that the free and intermediate versions do not have all of the features present in Studio One Professional. Presonus also offers a subscription service called Studio One +. Check out the [Presonus website]( https://www.presonus.com/en-US/studio-one-compare.html) to decide which version is right for you! (If you are unsure, start with Studio One Prime and then you can upgrade at a later date!)
@@ -18,11 +14,7 @@ Before we can begin making sounds in Studio One, you first need to have the soft
 
 For more information on installing and authorizing Studio One 6 on your device, check out the [Studio One online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Getting_Started_Topics/Chapter-Installation_and_Activation.htm?TocPath=_____2).
 
-If you will be using a Presonus audio interface or MIDI controller, I recommend installing [Presonus Universal Control](https://legacy.presonus.com/products/Universal-Control). This software helps to update drivers and interface with various device settings. If you will not be using presonus equipment, then you should make sure you have the up-to-date drivers for whichever divice you will be using.
-
- 
-
- 
+If you will be using a Presonus audio interface or MIDI controller, I recommend installing [Presonus Universal Control](https://legacy.presonus.com/products/Universal-Control). This software helps to update drivers and interface with various device settings. If you will not be using Presonus equipment, then you should make sure you have the up-to-date drivers for whichever device you will be using.
 
 ## Navigating Studio One 6
 
@@ -45,11 +37,6 @@ Check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioO
 
 !?[arrange-page-video](https://youtu.be/9yyty9dB5rk) !?[transport-bar-video](https://youtu.be/0-QpNX7xDjE)
 
-
- 
-
- 
-
 ## Adding Sound Files
 
 Adding content to a Studio One session is simple. The first thing you need is an audio file. We will go over how to record in Studio One, but for now let’s use these pre-recorded files. 
@@ -63,12 +50,8 @@ There are several different kinds of tracks. These can be created via the track 
 Audio tracks are for audio files. You can select the track’s input, whether it is stereo or mono, and a few other settings.
 Instrument tracks are for software plugin instruments. These can be selected here or later from the Browse menu.
 Automation tracks only include automation information for a specific track. These will likely be the least-used tracks in this class since automation can be applied directly onto an Audio or Instrument track.
-Folder tracks are used for grouping together multiple other tracks. For example, in a larger mix, you could group together all of the microphones used on the drumset into a larger folder, or create a folder for the various vocal tracks. Effects and automations applied to the folder tracks are applied to everything within the folder.
+Folder tracks are used for grouping together multiple other tracks. For example, in a larger mix, you could group together all of the microphones used on the drumset into a larger folder, or create a folder for the various vocal tracks. Effects and automation applied to the folder tracks are applied to everything within the folder.
 When making a track, you can give the tracks a name, choose a preset for the track, adjust the track color, and how many copies of the track that you wish to make.
-
- 
-
- 
 
 ## The Grid
 
@@ -80,10 +63,6 @@ For more information on Grid Snap, check out this video from Presonus as well as
 
 !?[grid-video](https://www.youtube.com/watch?v=NBHTV70nB5U)
 
-
- 
-
- 
 
 ## Saving and Backing Up Projects
 
@@ -102,54 +81,7 @@ Saving to a new folder is a great way to back up your projects, especially since
 Check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Saving,%20Import%20and%20Export/Saving%20Options.htm?TocPath=Saving%252C%2520Import%2520and%2520Export%257C_____5) for more information on ways to save and back up your projects!
 
  
-
- 
-
-## Arrow, Split, and Erase Tools
-
-The Arrow Tool is the main tool that you will be using in Studio One 6. It is selected by default, and can be easily reselected by pressing the 1 key on your number bar. The Arrow Tool is context sensitive, meaning that it will do different thing depending where on the event you are clicking.
-
-Moving/selecting events: When the mouse is located on the TOP half of an event, you can click to move the event around the main work area. The mouse will look like a standard pointer cursor to help indicate this. Moving an even left or right will change its location in time, while moving it vertically will change which track it is on. Dragging an event past the last track in your session will place it on a new track. When in this mode, you can also click on an event to select it in its entirety. This is useful when wanting to apply a process to only a few specific clips, or if you want to move an entire clip to a new location.
-
-Selecting portions of events: When selecting the bottom half of an event, the cursor will change to a crosshair icon. When this icon is present, you can click and drag to select a portion of an event. Once selected, whichever operation you perform next will be applied to ONLY the selected portion. This includes moving the event, so be sure you have everything you want or you may accidentally slice your event in a place you don’t want to!
-
-Trimming events: When selecting the ends of an event, the cursor will change to be a horizontal arrowhead and a line. This indicates that you can click to trim whichever end of the event your mouse is located on. Simply click and drag to remove any unwanted things at the end of a recorded file! You can also click and drag the event to be longer. This is useful when working with MIDI, but remember that you cannot extend an audio file past its original length!
-
-Audio Envelopes: You can also adjust the audio envelopes for your files using the Arrow Tool. Simply select an audio event, and you will see three flags appear on the top of the event. The triangle-shaped flags can be dragged out towards the center of the event to create a fade in or fade out, and the maximum volume of the clip can be adjusted by dragging the square-shaped flag up or down. If you want, you can also adjust the speed of the fades with the new flag that will appear when you implement a fade.
-
-The Split Tool is useful for splitting an event wherever you click. You can access this tool by selecting the razer blade icon or presing 3 on your number bar. When using this tool, any events you click on will be split into two separate events at the mouse’s location. If you want to delete a part of an event, you can use the Split Tool to separate the undesired portion, and then delete it by either selecting it and deleting it with the backspace key, or using the erase tool and clicking on the event. The erase tool will delete whichever event you click on when used. 
-
-For more information on the mouse tools in Studio One 6, check out the [online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Editing_Topics/Arrange_View_Mouse_Tools.htm?TocPath=Editing%257C_____2) as well as this video from Presonus:
-
-!?[mouse-tools-video](https://www.youtube.com/watch?v=5fmkaGg8c-M)
-
-More information on general editing in Studio One 6 can be found [on this manual page](https://s1manual.presonus.com/#Editing_Topics/Common_Editing_Actions.htm?TocPath=Editing%257C_____5).
-
- 
-
-## Exporting Mixdowns
-
-When working in Studio One, or any other DAW for that matter, the project file is NOT what you need to export for other people to be able to listen to your work. The project file is only a text file full of instructions for Studio One to be able to locate the necessary files and build the session; it does not have anything needed to actually playback the audio. Unless your teacher or someone else is specifically requesting a .song file, you should never send these out. Not because it is problematic, but because you will inevitably have to send the correct file before anything can be done with it.
-
-In order to export the correct files so that people can listen to your project, you need to use the export window. This can be accessed with the “CMD/CTRL + E” shortcut, or from the song menu at the top of the screen. This opens the Export Mixdown window. A mixdown takes all of the various tracks in your project and renders them as a stereo audio file that can be listened to on a variety of devices. In this window you will first want to give your mixdown a name so that you can find it later. The default name of ‘mixdown’ is not helpful for this. You can also choose a specific place for the files to save to if you would like.
-
-Next you will need to select the format for the file you wish to export. You can select multiple varieties and adjust their settings depending on what you need. For this course, sticking to .mp3 and .wav files are recommended. Both are highly compatible with most devices, and are easy enough to work with. .mp3 files are useful for smaller-scale projects as they do not require as much space, whereas .wav files are uncompressed, so they have higher degree of fidelity. I recommend saving the .wav file formatting for larger projects and final mixes, but be sure to follow your teacher’s instructions. 
-
-Once you have selected the formatting, you must then choose exactly what portions of your project you wish to export. The timeline markers and loop bar are used for this. I recommend utilizing the loop bar as you can quickly see and adjust the portion of the project you wish to export from the main screen. I also recommend adjusting this BEFORE you open the Export Mixdown window, as you will have to close this window to adjust the bar and re-open it to continue the export. Once the loop bar has been used to highlight the content you wish to export, be sure to select the option “between loop”. Regardless of the selection method you choose, be sure to look at the duration window to make sure the exported audio matches with what you expect. Otherwise you may have large sections of unwanted silence or accidentally cut off a portion of your project.
-
-From there you can adjust loudness if you do not plan to do any audio mastering, and adjust a few more settings. For the purposes of this class, you generally won’t need to worry about these sections. Click OK to export the audio. When done, Studio One will open a file browser window showing the file you just created so that you can easily open it or send it wherever you need to.
-
-If the audio you exported was too loud and resulted in clipping, a warning dialogue box will pop up. This window informs you that clipping has occurred, and by how much. Clipping is not desired, so Studio One will ask if you would like to delete the file to try again. Selecting Yes here will delete the file and return you to the main project page. Selecting No will keep the clipping file. The best way to avoid clipping is to make sure nothing is too loud throughout the mix. Here I will mention two “quick and dirty” ways to remove clipping, but ideally you should be going through the mix to identify and remedy the problem. 
-
-The first method is to lower the main output’s volume slider. This will lower the volume of everything, preserving the balance between the various elements. I recommend starting with smaller increments, usually around the amount indicated in the clipping warning window. The second method is my preferred quick way of removing clipping. To do this, simply add a limiter to the post section of your main output channel in the mix window, and set the limiter to the “0dB limiting” preset. This will keep the audio volume from passing 0dB, and eliminate clipping.
-
-Check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Mixing_Topics/Mixing_Down.htm?TocPath=Mixing%257C_____14) for more inforation on exporting mixdowns of your projects.
-
- 
-
- 
-
-## Lab 0
+ ## Lab 0
 
 Objectives:
 * Adding Sounds to Studio One
@@ -183,9 +115,23 @@ Mixdown Requirements:
 * Be sure that the duration of the resulting audio file matches what you expect. You should between 30 and 90 seconds of audio.
 * Be sure to follow your teacher’s guidelines for file submission
 
- 
+## Exporting Mixdowns
 
- 
+When working in Studio One, or any other DAW for that matter, the project file is NOT what you need to export for other people to be able to listen to your work. The project file is only a text file full of instructions for Studio One to be able to locate the necessary files and build the session; it does not have anything needed to actually playback the audio. Unless your teacher or someone else is specifically requesting a .song file, you should never send these out. Not because it is problematic, but because you will inevitably have to send the correct file before anything can be done with it.
+
+In order to export the correct files so that people can listen to your project, you need to use the export window. This can be accessed with the “CMD/CTRL + E” shortcut, or from the song menu at the top of the screen. This opens the Export Mixdown window. A mixdown takes all of the various tracks in your project and renders them as a stereo audio file that can be listened to on a variety of devices. In this window you will first want to give your mixdown a name so that you can find it later. The default name of ‘mixdown’ is not helpful for this. You can also choose a specific place for the files to save to if you would like.
+
+Next you will need to select the format for the file you wish to export. You can select multiple varieties and adjust their settings depending on what you need. For this course, sticking to .mp3 and .wav files are recommended. Both are highly compatible with most devices, and are easy enough to work with. .mp3 files are useful for smaller-scale projects as they do not require as much space, whereas .wav files are uncompressed, so they have higher degree of fidelity. I recommend saving the .wav file formatting for larger projects and final mixes, but be sure to follow your teacher’s instructions. 
+
+Once you have selected the formatting, you must then choose exactly what portions of your project you wish to export. The timeline markers and loop bar are used for this. I recommend utilizing the loop bar as you can quickly see and adjust the portion of the project you wish to export from the main screen. I also recommend adjusting this BEFORE you open the Export Mixdown window, as you will have to close this window to adjust the bar and re-open it to continue the export. Once the loop bar has been used to highlight the content you wish to export, be sure to select the option “between loop”. Regardless of the selection method you choose, be sure to look at the duration window to make sure the exported audio matches with what you expect. Otherwise you may have large sections of unwanted silence or accidentally cut off a portion of your project.
+
+From there you can adjust loudness if you do not plan to do any audio mastering, and adjust a few more settings. For the purposes of this class, you generally won’t need to worry about these sections. Click OK to export the audio. When done, Studio One will open a file browser window showing the file you just created so that you can easily open it or send it wherever you need to.
+
+If the audio you exported was too loud and resulted in clipping, a warning dialogue box will pop up. This window informs you that clipping has occurred, and by how much. Clipping is not desired, so Studio One will ask if you would like to delete the file to try again. Selecting Yes here will delete the file and return you to the main project page. Selecting No will keep the clipping file. The best way to avoid clipping is to make sure nothing is too loud throughout the mix. Here I will mention two “quick and dirty” ways to remove clipping, but ideally you should be going through the mix to identify and remedy the problem. 
+
+The first method is to lower the main output’s volume slider. This will lower the volume of everything, preserving the balance between the various elements. I recommend starting with smaller increments, usually around the amount indicated in the clipping warning window. The second method is my preferred quick way of removing clipping. To do this, simply add a limiter to the post section of your main output channel in the mix window, and set the limiter to the “0dB limiting” preset. This will keep the audio volume from passing 0dB, and eliminate clipping.
+
+Check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Mixing_Topics/Mixing_Down.htm?TocPath=Mixing%257C_____14) for more information on exporting mixdowns of your projects.
 
 ## Playback and Looping
 
@@ -205,9 +151,33 @@ This video overviews key features of the transport bar:
 
 More information on the transport controls can be found in the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Fundamentals_Topics/Transport_Controls.htm?TocPath=Fundamentals%257C_____9). 
 
- 
+## Test Your Knowledge!
 
- 
+True or False: you can use the loop bar in order to set the exact content to be exported as a mixdown.
+
+- [[X]] True
+- [[ ]] False
+
+ ## Arrow, Split, and Erase Tools
+
+The Arrow Tool is the main tool that you will be using in Studio One 6. It is selected by default, and can be easily reselected by pressing the 1 key on your number bar. The Arrow Tool is context sensitive, meaning that it will do different thing depending where on the event you are clicking.
+
+Moving/selecting events: When the mouse is located on the TOP half of an event, you can click to move the event around the main work area. The mouse will look like a standard pointer cursor to help indicate this. Moving an even left or right will change its location in time, while moving it vertically will change which track it is on. Dragging an event past the last track in your session will place it on a new track. When in this mode, you can also click on an event to select it in its entirety. This is useful when wanting to apply a process to only a few specific clips, or if you want to move an entire clip to a new location.
+
+Selecting portions of events: When selecting the bottom half of an event, the cursor will change to a crosshair icon. When this icon is present, you can click and drag to select a portion of an event. Once selected, whichever operation you perform next will be applied to ONLY the selected portion. This includes moving the event, so be sure you have everything you want or you may accidentally slice your event in a place you don’t want to!
+
+Trimming events: When selecting the ends of an event, the cursor will change to be a horizontal arrowhead and a line. This indicates that you can click to trim whichever end of the event your mouse is located on. Simply click and drag to remove any unwanted things at the end of a recorded file! You can also click and drag the event to be longer. This is useful when working with MIDI, but remember that you cannot extend an audio file past its original length!
+
+Audio Envelopes: You can also adjust the audio envelopes for your files using the Arrow Tool. Simply select an audio event, and you will see three flags appear on the top of the event. The triangle-shaped flags can be dragged out towards the center of the event to create a fade in or fade out, and the maximum volume of the clip can be adjusted by dragging the square-shaped flag up or down. If you want, you can also adjust the speed of the fades with the new flag that will appear when you implement a fade.
+
+The Split Tool is useful for splitting an event wherever you click. You can access this tool by selecting the razer blade icon or pressing 3 on your number bar. When using this tool, any events you click on will be split into two separate events at the mouse’s location. If you want to delete a part of an event, you can use the Split Tool to separate the undesired portion, and then delete it by either selecting it and deleting it with the backspace key, or using the erase tool and clicking on the event. The erase tool will delete whichever event you click on when used. 
+
+For more information on the mouse tools in Studio One 6, check out the [online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Editing_Topics/Arrange_View_Mouse_Tools.htm?TocPath=Editing%257C_____2) as well as this video from Presonus:
+
+!?[mouse-tools-video](https://www.youtube.com/watch?v=5fmkaGg8c-M)
+
+More information on general editing in Studio One 6 can be found [on this manual page](https://s1manual.presonus.com/#Editing_Topics/Common_Editing_Actions.htm?TocPath=Editing%257C_____5).
+
 
 ## Macros
 
@@ -215,7 +185,7 @@ A macro command is a (potentially) complex series of actions for the computer to
 
 Macros are a wonderful tool for quickly and easily doing a variety of actions in Studio One. You can access the Macro menu by clicking the Macro key in the top toolbar. By default there are a large number of macros already created by Presonus, but you can make your own depending on your specific workflow.
 
-The preset macros are all broken up by category, which can be changed via the dropdown menu in the Macro panel. For this class, some of the most useful macros are the pitch macros, music creation, and the explore macros. 
+The preset macros are all broken up by category, which can be changed via the dropdown menu in the Macro panel. For this class, some of the most useful macros are the pitch macros, music creation, and the explore macros. A few specificly useful macros are Reverse Reverb, Add/Remove 3dB, and quantize to 16th notes.
 
 To create your own macros, follow this tutorial created by Presonus.
 
@@ -224,9 +194,15 @@ To create your own macros, follow this tutorial created by Presonus.
 
 Information on Macros and the Studio One toolbar can be [found in the online manual](https://s1manual.presonus.com/#Editing_Topics/Macro_Toolbar.htm?TocPath=Editing%257C_____23). 
 
- 
+## Test Your Knowledge!
 
- 
+Which of the Following is a macro included with Studio One 6 by default?
+
+- [[ ]] Change MIDI device
+- [[ ]] Play
+- [[ ]] Normalize to 0 dB
+- [[ ]] Mute
+- [[X]] Reverse Reverb
 
 ## Track Names and Icons
 
@@ -242,10 +218,6 @@ Track Icons: Lastly in Studio One 6 you can implement icons to visually identify
 
 Unfortunately, you are unable to load your own icons into Studio One, but you can easily choose from the large list here by clicking on the icon. The reset button will remove the current icon. There should be enough variations in icons for you to be able to easily identify each track, especially when combined with colors and names.
 
- 
-
- 
-
 ## Color Customization
 
 Studio One 6 is incredibly customizable. One of the easiest things to customize are the colors of the software. This has no effect on the functionality or capabilities of Studio One 6, but can make the software feel like your own.
@@ -255,10 +227,6 @@ To change the color scheme, open Studio One, then in the menu bar click Studio O
 If you would like to adjust the colors but don’t know where to begin, click on Load Preset to choose from a variety of preset color schemes, or to return Studio One 6 to the default. You can also save an arrangement as a preset by clicking Store Preset. The majority of screenshots taken on this web site utilize the dark green Acid Night preset instead of the default gray color.
 
 For more information on changing the colors in Studio One 6, [check out the online manual](https://s1manual.presonus.com/#Setup_Topics/Custom_Colors.htm?TocPath=Setup%257C_____8)!
-
- 
-
- 
 
 ## Lab 1
 
@@ -293,5 +261,3 @@ Mixdown requirements:
 * Make sure to export the Main output.
 * Be sure that the duration of the resulting audio file matches what you expect. You should have the variations play one after another in a SINGLE audio file with no gaps or pauses between the variations.
 * Be sure to follow your teacher’s guidelines for file submission.
-
- 

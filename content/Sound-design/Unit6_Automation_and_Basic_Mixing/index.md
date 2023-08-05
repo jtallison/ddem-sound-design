@@ -34,9 +34,19 @@ One commonly used effect is reversing an audio file. This will cause the compute
 
 To reverse an audio event in Studio One 6 is quick and easy. Select the audio event you wish to reverse, and then right click. Under Audio Options or the Action menu, you will see the option to reverse the audio. This can also be done with CTRL/CMD + R on the keyboard. Once reversed you will see the waveform update accordingly in the main Studio One window.
 
-Here is a video briefly showing what reversing audio can sound like using a sample from former US president Barack Obama.
+Here is a video briefly showing what reversing audio can sound like using a sample from former US president, Barack Obama.
 
 !?[obama-backward-yes-we-can](https://www.youtube.com/watch?v=Ewo20rq2Qbw)
+
+## Test Your Knowledge!
+
+Which pan value will have the audio equally loud in _both_ speakers?
+
+- [[X]] Center
+- [[ ]] Left
+- [[ ]] Right
+- [[ ]] R50
+- [[ ]] L69
 
 ## All About Automation
 
@@ -74,6 +84,16 @@ When playing back the audio, you can have the automation behave in different way
 * Latch: Reads the automation until a hardware input is detected, then begins writing the automation data from that point onward.
 * Write: Will only write automation data. Be careful that if you set the automation, then playback while still in Write mode, it will overwrite the previous automation!
 * Off: Ignores all automation when playing back. This will translate to the mixdown, so don’t forget about it!
+
+## Test Your Knowledge!
+
+Which are the default _audio_ automation parameters in Studio One 6? _*Choose all correct answers*_
+
+- [[ ]] Delay Time
+- [[X]] Mute
+- [[ ]] Filter Cutoff
+- [[X]] Pan LR
+- [[X]] Volume
 
 ## Lab 6
 

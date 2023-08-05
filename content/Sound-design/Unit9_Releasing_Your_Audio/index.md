@@ -22,7 +22,7 @@ For 99% of this course we have been using the Studio One Song editor view. This 
 
 Notice that the timeline at the bottom is set for 80 minutes by default. This is because the length of a standard audio CD is 80 minutes. So if yous Mastering session fits on the timeline it can all be burned to a single audio CD if desired. You can see how close to full you are with the bar on the top of the window. In the top left of the screen you will see information for whichever track you select from the timeline. Clicking the small arrow next to the track name will open a dropdown menu to adjust the metadata about the track. In between the track information panel and the CD fill % are the export options. We will discuss that later.
 
-In the middle of the screen is where information about the song will display. This is mainly loudness information. The large window in the middle of the screen will function as the Loudness Meter plug-in, showing the volume of various frequency bands. Yjr display of this information can be adjusted per your preferences. An instance of the Phase MEter plugin is also available here as well.
+In the middle of the screen is where information about the song will display. This is mainly loudness information. The large window in the middle of the screen will function as the Loudness Meter plug-in, showing the volume of various frequency bands. The display of this information can be adjusted per your preferences. An instance of the Phase MEter plugin is also available here as well.
 
 ## Basic Audio Mastering Concepts
 
@@ -32,7 +32,7 @@ Generally it is used to set the loudness of a track so that it can be easily hea
 
 For more information on Audio Mastering, check out this video interview:
 
-!?[sond-on-sound-mastering-video](https://www.youtube.com/watch?v=fx8XQcHnSDY)
+!?[sound-on-sound-mastering-video](https://www.youtube.com/watch?v=fx8XQcHnSDY)
 
 ### Adjusting Loudness
 
@@ -41,3 +41,15 @@ One important aspect of Mastering is loudness and the loudness wars. As audio te
 ### Effects and Adjustments
 
 ## Exporting Your Project for Release
+
+## Test Your Knowledge!
+
+True or False: You can use any audio you find in any music you make with no drawback or potential legal repercussions.
+
+- [[ ]] True
+- [[X]] False
+
+True or False: The Mastering Artist should focus on making a mix work on the performance platform, not making large changes to improve the quality of the original mix.
+
+- [[X]] True
+- [[ ]] False

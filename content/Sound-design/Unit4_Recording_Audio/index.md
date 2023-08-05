@@ -2,9 +2,7 @@
 
 Unit 4 goes over everything you need to know to start making your own audio recordings using Studio One 6. We will start with a discussion on how a microphone works and how to position them to get clear recordings, and the computer settings to make sure everything comes through as expected. Then we will go over a few things you can do within Studio One to improve the quality of your recordings to use both in the Lab project and any future projects. 
 
- 
-
-## Microhones and Speakers: How Do They Work?
+## Microphones and Speakers: How Do They Work?
 
 Microphones work as electronic ears. Using electricity, they receive an incoming sound wave and convert it to electricity, then send that electricity off somewhere else to be used or recorded via wires. This process is extremely similar to the human ear converting sound waves into nerve impulses and sending those to the brain. There are many different microphones, but they can generally be broken into three main categories. Each of these categories of microphones go about doing the same thing in slightly different ways. This list is not exhaustive, but will cover the main types of microphones you will run into when recording.
 
@@ -24,7 +22,53 @@ A few other common patterns are:
 * Figure 8
 * Omnidirectional
 
+### Microphone cables
+
+In this course we will not be discussing or using USB microphones in any way. They exist, but in most cases are not as high-quality as an XLR microphone, and cannot interface with an audio interface at all.
+
+Microphones use XLR cables to send electrical current from the microphone to whatever it it connected to on the other end. This is usually an audio mixer, amplifier, recorder, or interface. An XLR cable has three pins running through it, and only fits into the microphone in one direction. You can think of the pins pointing towards where you want the sound to travel to.
+
+XLR cables are wonderful for a few reasons. The first is that you can chain multiple together in order to increase your cable length if needed, but the second, more important reason is that they are balanced. This balancing allows for the cables to travel long distances without picking up additional electric noise. To achieve this, we can look at the three pins. One pin is ground and isn;t utilized here. Another carries the original signal, and the other carries an inverted version of that signal. Then, as the signal travels and picks up noise, the noise in the third pin is also inverted. When the cable reaches its destination, the inverted signal is corrected, causing the inverted noise to cancel out, leaving only the original signal.
+
+### Cable Wrapping
+
+Within an audio cable are three wires and some electrical insulation. When using the cables, it is important to properly wrap them. Improperly wrapped cables will result in annoying kinks, knots, and bends than are both annoying and ugly to work with, as well as cause shorts from the insulation becoming twisted and exposing the wires. All of these will keep you from getting a good recording.
+
+To help avoid this, there is a specific way to wrap audio cables. Usually called over-under wrapping, this method alternates the direction of the cable, allowing it to easily spin around and avoid unnecessary tension. The videos below walk you through the process, but a few key reminders are:
+
+* Do not wrap your cables too tightly. A loop diameter of 1-2 feet us usually preferred.
+* Untangle any knots before you begin wrapping.
+* Do not force the cable. If the cable naturally wants to have two 'overs' in a row, go with it. The whole idea is to avoid tension in the cable.
+* Keep your loops the same size.
+* When properly wrapped, a cable can be thrown out its entire length without tangling.
+* When done, use a cable tie to secure the bundle, do not wrap the ends of the cable around itself. You can also connect the XLR connectors to close the loop if they can reach each other.
+
+!?[cable-wrapping-video](https://youtu.be/fa-j4bHuSGA) !?[cableWrapping2](https://www.youtube.com/watch?v=QwMJHMSmjVY) !?[cableWrapping3](https://www.youtube.com/watch?v=YLVAEugbiXg)
+
+There are many different variations on the Over-Under technique, as you will see in the various videos. You can use whichever specific version you like, as long as you have everything from the list above.
+
 ## Microphone Placement
+
+Different microphones will respond to a sound source in different ways, but they all have a sweet spot where they work best. That sweet spot is the area within the response pattern. Some manuals will indicate the specific distance away from the microphones that this sweet spot extends to, but not all. Generally, you can place condenser microphones farther away from the sound source and still have a good recording, while dynamic microphones tend to need to be closer to the sound source. while helpful, that rule isn't much use if you are placing the microphones in the wrong orientation. Most microphones that you will use have a specific side that picks up sound, and a side that does not.
+
+### Front Address Microphones
+
+These microphones tend to be handheld or pencil mics. With these, you need to point the end of the microphone cylinder towards whatever the sound source is. If you have ever seen someone holding a microphone, but not speak directly into it, resulting in them being difficult to hear, that is because they are not talking into the area that the microphone can respond to. The sensitive side of the microphone should be obvious as the opposite side it usually where the cable attaches.
+
+![sm58] ![pencil-mic] ![sm7b] ![wrong-orientation]
+
+### Side Address Microphones
+
+While not always te case, most large-diaphragm microphones are side address. Instead of pointing the microphone towards the sound source, the microphone should be perpendicular to it, allowing the majority of the grille to face the sound source. The front of the microphone should be the side facing the sound source. This can be determined by seeing which side has the microphone brand label.
+
+![AKGc414] ![rodeNT1] ![a3rdMic] ![wong-orientation]
+
+## Test Your Knowledge!
+
+True or False: An XLR Cable is unbalanced?
+
+- [[ ]] True
+- [[X]] False
 
 ## Clipping and How to Avoid it
 
@@ -35,6 +79,19 @@ In addition to distortion, clipping can sound like clicks and pops as well. This
 In general, the best way to avoid clipping is to make sure nothing is too loud. When mixing a red notification light will appear on the mixing console for the main output channel to indicate clipping. When mixing the audio care should be taken to make sure nothing is too loud. A simple fix is to lower the main output volume. Another option is to find the offending portion of audio and make it softer to remove the clipping. Depending on the context of the music however this may be difficult as it can alter the balance between the various sound sources. 
 
 Another way to avoid clipping is with the use of a limiter. A limiter is an audio effect that will limit the dynamic range of a sound source, keeping it from becoming too loud. While quick and easy, this could reduce the total dynamic range of the track which may not be desired. To do this in Studio One, place a limiter effect on the post section of the main output. This is the final section before the audio is sent to the speakers, so it will encompass the whole mix equally. Set the preset to 0 dB and then the audio will never pass 0dB, and cannot clip.
+
+## Practice: connecting a microphone to your computer
+
+Lets go through the steps needed to get your microphone talking to your computer. You will need Studio One 6 installed on the device, an audio interface, an XLR cable, USB cable, and a microphone.
+
+1. connect your interface to the computer using the included USB cable. Some interfaces will also need power, and will come with a power supply. Plug in and turn on the device if your interface needs external power.
+2. If you interface has any drivers, install those.
+3. Open Studio One 6 and look in the middle of the opening screen, under the setup section. Here you will see the audio interface that StudioOne is using. If it is the one you original connected in step 1, then proceed to step 6. if not, proceed to step 4.
+4. Click on Configure Audio Device and click on the dropdown menu in the window that appears.
+5. Select your device from the list. If you device does not appear here, make sure that it is connected to the computer and powered on, and double check the drivers are up-to-date. If those steps do not work, you may need to restart your computer for it to see the updated information.
+6. Once you have selected the desired audio interface, Studio One will use this external box for its audio input and output. The normal headphone outlet on your computer will not work, you will have to adjust the volumes using the audio interface controls instead.
+7. Open a new session and create a new audio track. Set the track input to whatever the first input on your interface is (usually 1 or Left) using the dropdown menu on the track.
+8. Connect your microphone to the interface using the XLR
 
 ## The Edit Window
 
@@ -84,8 +141,8 @@ Timestretch: Event start positions follow the Song tempo, as in Follow mode. In 
 
 You can also set the timestretch to one of four different modes depending on what kind of sounds you are working with and the desired effect. These modes are:
 * Drums: Use this optimized mode on any percussion track to achieve the best results when stretching percussive audio. This mode uses the Elastique Direct algorithm.
-* Sound: Use this general mode on any other type of track. This mode uses the Elastique Direct Formant algorithm.
-* Solo: Use this optimized mode on any solo instrument or vocal track to achieve the best results. This mode uses the Elastique Pro Monophonic Formant algorithm.
+* Sound: Use this general mode on any other type of track. This mode uses the _Elastique Direct Formant_ algorithm.
+* Solo: Use this optimized mode on any solo instrument or vocal track to achieve the best results. This mode uses the _Elastique Pro Monophonic Formant_ algorithm.
 * Tape: In this mode the track audio follows the song tempo by changing the sample playback rate. This results in the pitch moving up or down when the tempo changes, sort of like changing the speed control on a tape deck. Try this with drum loops or other samples when the pitch doesn't need to be exact.
 
 For more information on timestreching, check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Editing_Topics/Timestretching.htm?TocPath=Editing%257C_____10).
@@ -123,6 +180,16 @@ Let’s pretend that you have a handful or recordings, but they are all in diffe
 For smaller pitch adjustments you can utilize the tune option. This will tune the pitch in a range of -100 to +100 cents, defaulting to 0 again. This means that you can fine tune audio up to a whole step up or down. One useful way to use this is to select and correct small portions of a recording where a specific note may be just a little out of tune. Tuning works the same for both MIDI and audio
 
 Transposing for MIDI can work a little differently. If you select an MIDI event, right click (or under the actions menu) and select transpose, a few more options appear. You can use the sliders to easily select octave transpositions, specific intervals, or setting all of the MIDI notes to the same pitch. These are all common ways to utilize MIDI transposition.
+
+## Test Your Knowledge!
+
+What is the name of the window where you can change the contents of an Audio or MIDI event?
+
+- [[ ]] Mixing Console
+- [[X]] Edit Window
+- [[ ]] Arranger Window
+- [[ ]] Browse Menu
+- [[ ]] GUI
 
 ## Lab 2
 
@@ -192,7 +259,3 @@ Mixdown requirements:
 * Make sure to export the Main output.
 * Be sure that the duration of the resulting audio file matches what you expect. Each sample should play one after the other, with no more than 2 seconds of silence between each one.
 * Be sure to follow your teacher’s guidelines for file submission.
-
-
-
- 

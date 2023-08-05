@@ -43,7 +43,7 @@ Audio effects are used in order to change the recorded sound in order to develop
 
 The last general concept we will discuss in this section is routing audio. In the mixing console you can control exactly where audio comes from and goes within the DAW. You can change which interface input a channel is connected to, group up multiple channels and send them to different places, create sub mixes and more. One of the more useful things that can be done with this is to create a Bus channel and send multiple audio sources to it. Then you can easily boost, cut, or process multiple sounds at once. It is common to group up similar instruments such as the drums or guitars into a group.
 
-The [Studio One 6 online manual has an entire chapter on mixing and the mix console](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Mixing_Topics/Chapter-Mixing.htm?TocPath=Mixing%257C_____0). Be sure to check it out for more information on the topics indroduced here, as well as any other features of the Mix window!
+The [Studio One 6 online manual has an entire chapter on mixing and the mix console](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Mixing_Topics/Chapter-Mixing.htm?TocPath=Mixing%257C_____0). Be sure to check it out for more information on the topics introduced here, as well as any other features of the Mix window!
 
 ### Handy tips:
 
@@ -54,7 +54,17 @@ While there is no ‘correct’ way to mix, there are a few general practices an
 * Parallel Processing:
 	As mentioned above the audio inserts are applied to a sound source in series. However you can easily create a new channel and process the sound in parallel instead. To do this, right click and create a new FX channel, then on the sound source, click the little + icon next to the sends section and select your new channel. Now you can add an effect chain to the FX channel and you will hear both the original sound and the altered sound in the final mix. This is useful if you have a unique effect you want to add to a sound only at certain times in the song. Simply bring up the FX channel fader when you want more, and lower it when you want less. Try it with effects like reverb and compression!
 * Automation:
-	While not strictly part of the Studio One mixing console, remembering to automate your mix is necessary in creating a cohesive mix from start to finish. It is basically impossible that all of your recordings will be perfectly balanced for the entire duration of your song, especially once you begin adding effects or recordings from multiple sources into the mix.  While you can automate almost everything in the mix, adding slight automations to just the volume faders is probably the most effective automation you can do. You can mark different sections of the song and have the mix automatically change based on the time. This way perhaps you could have the drums get louder in a chorus, or backing vocals fade out over a verse. At the very least it will allow you to maintain balance between parts regardless of the volume of the source recording.
+	While not strictly part of the Studio One mixing console, remembering to automate your mix is necessary in creating a cohesive mix from start to finish. It is basically impossible that all of your recordings will be perfectly balanced for the entire duration of your song, especially once you begin adding effects or recordings from multiple sources into the mix.  While you can automate almost everything in the mix, adding slight automatons to just the volume faders is probably the most effective automation you can do. You can mark different sections of the song and have the mix automatically change based on the time. This way perhaps you could have the drums get louder in a chorus, or backing vocals fade out over a verse. At the very least it will allow you to maintain balance between parts regardless of the volume of the source recording.
+
+## Test Your Knowledge!
+
+Which type of channel in the Mixing console is mainly used for audio processing with effects?
+
+- [[ ]] Main
+- [[ ]] Aux
+- [[ ]] Bus
+- [[ ]] VCA
+- [[X]] FX
 
 ## Studio One 6 Builtin Audio Effects
 
@@ -214,6 +224,16 @@ These are all of the included Reverb effects in Studio One 6.2:
 Hardware Effects can be utilized with the Pipeline effect. Generally this is not a part of the course unless you or your classroom has access to hardware audio effect units. This is usually ignored because of how expensive and delicate these units can be. For more information on Pipeline, check out this video from Presonus:
 
 !?[pipeline-manual-video](https://www.youtube.com/watch?v=us-3-KSd-sI)
+
+## Test Your Knowledge!
+
+Which of the effects below do _not_ alter the sound entering the effect in any way?
+
+- [[ ]] Groove Delay
+- [[ ]] Sample One
+- [[ ]] Room Reverb
+- [[X]] Phase Meter
+- [[ ]] Pro EQ
 
 ## Lab 8
 

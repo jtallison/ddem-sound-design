@@ -2,8 +2,6 @@
 
 This unit is all about using a video file with Studio One 6. You cannot do edits like in Adobe Premiere, but You can easily import a video to create your own sounds for, and export everything as a single file. We will also discuss the practices of Foley sounds and creating soundtracks in a few lab projects.
 
- 
-
 ## Adding Videos to Your Project
 
 Studio One 6 Professional is able to work with video files as well as audio files. It is important to know that versions other than Professional are unable to work with video files, so you will need to utilize other softwares for this if that is the version you have. It is also important to remember that Studio One 6 is a Digital AUDIO Workstation. It has no video editing capabilities, and solely works with video as a way to add your own sounds to a pre-existing video file.
@@ -20,7 +18,7 @@ Check out the [online manual for more information about working with video in St
 
 Foley is the art of adding realistic sounds to movies, tv, and radio. It was originally pioneered by Jack Foley in the 1920’s, the practice sought to bring a level of realness to the entertainment experience. In modern film and television, microphones are focused on getting the actor's dialogue, and are located far away from the sound source so as to remain off-screen. This means that many sounds in the scene are either ignored, removed, or otherwise not recorded. This can be problematic when wanting to create a realistic scene as there are more sounds than just dialogue in the real world. To offset this silence, Foley Artists will build up the environmental sounds of a film in order to create the desired environment.
 
-Generally Foley artists will work by seeing what sound they have to recreate. This could be anything; if it is in the scene, it is fair game. Then they have to plan out how to make those sounds, and record them in sync with the recorded video. A simple example would be to record footsteps. A foley artist would find similar shoes and a surface to walk on in order to create the sound you would expect from the video, then record themselves walking in time with that video to create the footsteps. A mixing engineer would then balance the various recordings and layers of sound to create the final effect. 
+Generally Foley artists will work by seeing what sound they have to recreate. This could be anything; if it is in the scene, it is fair game. Then they have to plan out how to make those sounds, and record them in sync with the recorded video. A simple example would be to record footsteps. A foley artist would find similar shoes and a surface to walk on in order to create the sound you would expect from the video, then record themselves walking in time with that video to create the footsteps. A mixing engineer would then balance the various recordings and layers of sound to create the final effect.
 
 Here are a few interviews/documentaries with Foley Artists about what they do and how they do it:
 
@@ -37,6 +35,24 @@ To export a video file, you must first have a source video imported into the vid
 Using the MPEG-4 Video format will allow you to have the most compatible and highest resolution video possible while keeping the file size manageable. You can change the codecs for video and audio if desired, but leaving them as the default H.264 and MP3 will work for basically all use-cases. When it comes to determining the amount of content to export, the first two options are the most useful. You can use the loop bar to set the export region manually like when exporting Mixdowns, or have Studio One automatically export for the duration of the video. Other than that, make sure you are exporting the Main channel output and you are ready to hit OK.
 
 Because the computer is creating an audio file, attacking it to the video (in sync) and then writing the new video file, expect that your video exports will take longer than an audio export. Be sure to plan accordingly so that your files are finished by the end of class!
+
+## Test Your Knowledge!
+
+True or False: If you want to add a color filter to your video, you can do that using Studio One 6 while you are also creating the sounds.
+
+- [[ ]] True
+- [[X]] False
+
+Which of these Sounds would need Foley done to them in post production? _*Choose ALL correct answers*_
+
+- [[ ]] Dialogue
+- [[X]] Footsteps
+- [[ ]] Background conversations
+- [[X]] Weather
+- [[ ]] Music in the Scene
+- [[X]] Objects relevant to the scene
+- [[X]] Car engines
+- [[ ]] Soundtrack music
 
 
 ## Lab 7

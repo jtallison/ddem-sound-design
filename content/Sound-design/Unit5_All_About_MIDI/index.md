@@ -25,6 +25,16 @@ When it comes to modern MIDI controllers there is a lot of variety in terms of f
 
 Some of these controllers may only be a piano keyboard, or a bank of buttons/pads while others may mimic an audio mixer or be completely customizable. Partly because they offer the largest variety of control options in a single unit, one of the most common MIDI controller layouts will utilize a piano keyboard along with a few buttons, sliders, drum pads, and/or switches. The specific price point of these controllers will vary based on multiple factors such as the number of keys and extra features, but many are currently around the $100 USD price point at the time of writing this page.
 
+## Test Your Knowledge!
+
+What does MIDI stand for?
+
+- [[ ]] Momentary Input, Delayed Intersampling
+- [[ ]] Musical Interface for Digital Instruments
+- [[ ]] Michigan Developed Interplay
+- [[X]] Musical Instrument Digital Interface
+- [[ ]] It doesn't stand for anything.
+
 ## Connecting and Mapping MIDI controllers to Studio One 6
 
 There are multiple ways to input data into Studio One. The most direct way is to individually click and enter every single note and parameter. This will give you the greatest level of control, but is extremely time consuming and not very musical. To help with this, you can utilize a MIDI controller. Before we discuss common features of MIDI controllers and a few recommended options, it is important to state that none of the companies have sponsored this page in any way,
@@ -55,7 +65,7 @@ Next, click the drop down menu labeled “Receive From” to see a list of all c
 
 Once you have selected your sedated settings, click on “OK” to add the device. To test the new controller you can open a new session and create a new instrument track. The specific instrument doesn’t matter, but Mai Tai will work well for testing multiple notes at once. When the device is connected and working you should see an orange bar appear next to the track whenever you press a key on the keyboard. (and hear a sound if there is an instrument attached) 
 
-Lastly, to program any customizable knobs, buttons, or sliders on your controller it is very simple. First, notice the top-left of the screen. Here you will see a window containing the last control input from the MIDI controller as well as the last parameter you interacted with in Studio One. Simply adjust the desired parameter, then adjust the button/key/slader/kbob you wish to map it to. When both of the elements in the boxes are correct, click on the arrow in between the two elements to map it. Now, whenever you use that specific control on the MIDI controller, the mapped parameter will automatically adjust itself. This is super useful for controlling parameters such as volume and panning quickly and easily no matter which screen you are looking at in Studio One.
+Lastly, to program any customizable knobs, buttons, or sliders on your controller it is very simple. First, notice the top-left of the screen. Here you will see a window containing the last control input from the MIDI controller as well as the last parameter you interacted with in Studio One. Simply adjust the desired parameter, then adjust the button/key/slider/knob you wish to map it to. When both of the elements in the boxes are correct, click on the arrow in between the two elements to map it. Now, whenever you use that specific control on the MIDI controller, the mapped parameter will automatically adjust itself. This is super useful for controlling parameters such as volume and panning quickly and easily no matter which screen you are looking at in Studio One.
 
 A video breakdown of the above steps can be found here: 
 
@@ -121,6 +131,16 @@ For mor einformation on MIDI quantizing, you can check out this page in the [Stu
 * Humanize: Humanize is available from the Action menu in the Piano Roll Editor. Running the Humanize action while notes are selected will randomly shift their timing slightly off the grid, making the performance a little less perfect but potentially more “natural”.
 * Manual Adjustment: Holding Shift while dragging notes will prevent them from snapping to the grid. You can use this technique to make individual notes happen just a little early or late (a technique often used in hip hop and neo soul drum programming). This can be especially effective on snare drums or claps.
 * Miscellaneous: Look at some of the other actions in the Action menu – “Length” and “Velocity” are particularly helpful. They can help to make the lengths and velocities of MIDI notes that you recorded more even and regular if desired.
+
+## Test Your Knowledge!
+
+Which of the following kinds of devices can be used to record MIDI data onto an instrument track in Studio One 6?
+
+- [[ ]] Audio Cables
+- [[ ]] Microphone
+- [[X]] MIDI controller
+- [[ ]] Monitor Speakers
+- [[ ]] Analog Mixer
 
 ## Lab 3
 
