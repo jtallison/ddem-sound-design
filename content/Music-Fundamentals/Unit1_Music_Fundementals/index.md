@@ -4,6 +4,8 @@ Welcome to Sound Design! In this course we will be focusing on two main topics. 
 
 If you have already taken a music theory class or have been in band, choir, orchestra, etc. Than you may already be familiar with some of the concepts we discuss here. This is not an in-depth course on music theory, but we will be going over enough of the content for you to be able to easily create and discuss your music throughout the year.
 
+Periodically throughout units 1-9 are several small multiple choice quizzes. As you are going through the material, take a moment and give them a shot to see how well you are understanding the material. You can attempt the quizzes as much as you would like, but will need to refresh the page to fully reset the quiz.
+
 ## Listening
 
 Before we dive into Music theory, we should discuss listening. Listening is a large part of this class. After all, how can you create music without listening to it? Why are you making music if no one will listen to it? How can you talk about music without listening to it? Generally, the answer to all of these questions is "you can't" (or at least it is INCREDIBLY DIFFICULT to do anything meaningful).
@@ -27,7 +29,7 @@ It is recommended that each class meeting start with listening to some music. Th
 
 After those, the students should be listening to the content and responding to what they hear. What stands out to them? Do they like or dislike certain things **AND WHY DO THEY FEEL THAT WAY**? As the year goes on the teacher may guide the students to listen for specific things in the song such as form, instrumentation, use of effects, etc. A sample listening is given below:
 
-Date: today
+Date: Today
 Track: Miracles out of Nowhere
 Artist: KANSAS
 Year: 1976
@@ -174,6 +176,24 @@ Timbre is largely determined through the overtones present when a sound is made.
 
 Let's try it! Say something or have someone else say something normally. Then, repeat the original phrase covering their mouth with a piece of paper, a thicker book, one, then two hands. Each item acts like a filter, blocking more frequencies in the original sound from being as loud. You should ear that each repetition should slightly different from the previous one, despite being the same content.
 
+### Test Your Knowledge!
+
+Which composer pioneered the idea of Deep Listening in the 20th Century?
+
+- [[ ]] Louis Armstrong
+- [[ ]] John Cage
+- [[X]] Pauline Oliveros
+- [[ ]] Laurie Spiegel
+- [[ ]] J.S. Bach
+
+Which of the following is _*NOT*_ a musical pitch?
+
+- [[ ]] A
+- [[ ]] C#
+- [[ ]] D
+- [[ ]] B
+- [[X]] I
+
 ## Musical Intervals
 
 ## Musical Scales
@@ -255,6 +275,30 @@ The Octatonic scale combines the two previous scale by alternating between the t
 
 Each of these versions account for every unique combination of pitches when alternating between half and whole-steps. The patterns are WHWHWHWH and HWHWHWHW. Version 3 is HWHWHWHW as well, but starting on C# instead of C.
 
+#### Test Your Knowledge!
+
+Which of the following musical intervals is the _*LARGEST*_?
+
+- [[X]] Perfect 5th
+- [[ ]] Minor Second
+- [[ ]] Major Third
+- [[ ]] Augmented Second
+- [[ ]] Perfect 4th
+
+Which collection of notes is an A Major scale?
+
+- [[ ]] ABCDEFG#A
+- [[ ]] C#D#E#F#G#A#B#C#
+- [[ ]] DEF#GABC#D
+- [[ ]] BbCDEbFGABb
+- [[X]] ABC#DEF#G#A
+
+True or False: You can start a chromatic scale pattern on any note and the collection will always have the same pitches.
+
+- [[X]] True
+- [[ ]] False
+
+
 ## Chords & Harmony
 
 While you generally hear notes in scales played sequentially, a chord occurs when multiple notes are played at the same time. This is different than a harmonic interval, which is two notes played simultaneously. A chord must be three or more notes performed at the same time. The specifics of the intervals between those notes and how many notes are in the chord help identify what the chord is, and how it is behaving in the music.
@@ -318,6 +362,35 @@ A chord in 1st inversion has the 3rd as the lowest note of the chord. These func
 Second inversion chords have the 5th as the bass note, and are significantly more unstable than a root position chord because of the larger interval between the bass and other chord tones. These chord are often used to help with musical cadences.
 
 A third inversion chord only happens on chords with 4 or more tones. In the context of this book, that would put the 7th as the lowest note. Because of the 7th chord's exhalent instability combines with the close interval between the 7th and 8th, these chords are heard as strongly wanting to move to the root. Although this tends to be a 1st inversion form of the root in many theory textbooks. (we will not discuss voice leading here)
+
+#### Test Your Knowledge!
+
+What is the difference between a chord and a scale?
+
+- [[ ]] There is no difference. A scale is just another name for a chord.
+- [[X]] A scale is a collection of notes played in a pattern, while a chord is a collection of notes played at the same time.
+- [[ ]] A chord is a collection of notes played in a pattern, while a scale is a collection of notes played at the same time.
+- [[ ]] Chords can be inverted to start on different pitches, while scales must always start on the same pitch.
+- [[ ]] Intervals are only important in a scale pattern, not in a chord.
+
+A diminished chord is made up of the same interval, repeating. Which of the intervals below would you use to build a diminished chord? (root position, no 7ths)
+
+- [[ ]] Diminished Third
+- [[ ]] Perfect 4th
+- [[ ]] Major Second
+- [[X]] Minor Third
+- [[ ]] Major Third
+
+Which of the following is an _*OCTATONIC*_ Scale? _Select ALL correct answers._
+
+- [[ ]] DEFGABC#D
+- [[X]] CDbEbFbGbGABbC
+- [[ ]] BbCDEbFGABb
+- [[X]] C#DEF#GABbC
+- [[ ]] GABCDEF#G
+- [[ ]] ABC#DEF#G#A
+- [[ ]] CDEF#G#A#C
+- [[X]] CDEbFGbAbABC
 
 ## Reading Music
 
@@ -389,11 +462,72 @@ These clefs are used together in what is called a grand-staff for instruments wi
 
 Lastly for now, in regards to pitch, Music and sections of music can have a key. 
 
+#### Test Your Knowledge!
+
+Which note is **4 Times** as long as an _8th note_?
+
+- [[ ]] 32nd Note
+- [[ ]] Whole Note
+- [[ ]] Dotted 8th Note
+- [[X]] Half Note
+- [[ ]] Quarter Note
+
+Assuming a time signature of 6/8 and a tempo of 100 B.P.M.; How long would a 200 measure composition take to be performed? _Remember which note gets a beat in the time signature. Assume no tempo/time signature changes, and that the performer was perfectly in time._
+
+- [[ ]] 15 Minutes
+- [[ ]] 10 Minutes
+- [[ ]] 8 Minutes
+- [[X]] 12 Minutes
+- [[ ]] 5 Minutes
+
+Dominant chords are _*ALWAYS*_ built with which scale degree as the root?
+
+- [[ ]] 1
+- [[ ]] 7
+- [[X]] 5
+- [[ ]] 4
+- [[ ]] #2
+
+
 ## Chord Progressions & Roman Numeral Analysis
 
 ### Musical Form
 
 ### Cadences
 
-## Ear Training
+#### Test Your Knowledge!
+
+Which of the following musical forms alters between a repeated section and multiple differing other sections?
+
+- [[ ]] Sentence
+- [[X]] Rondo
+- [[ ]] Sonata
+- [[ ]] ABA
+- [[ ]] Paragraph
+
+Which clef is also called the "F Clef"?
+
+- [[ ]] Baritone Clef
+- [[ ]] Treble Clef
+- [[ ]] Tenor Clef
+- [[ ]] Alto Clef
+- [[X]] Bass Clef
+
+Which of the following Roman Numerals would be used to indicate a _*MAJOR*_ Chord built on scale degree 6?
+
+- [[ ]] bVI
+- [[ ]] VI7
+- [[X]] VI
+- [[ ]] iv
+- [[ ]] vi
+
+Which of the following is a _*DECPTIVE*_ Cadance?
+
+- [[ ]] I -> V7
+- [[ ]] ii -> I
+- [[ ]] V7 -> I
+- [[X]] V7 -> vi
+- [[ ]] VI -> I
+
+#### Ear Training
 

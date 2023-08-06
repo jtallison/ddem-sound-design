@@ -38,7 +38,7 @@ Here is a video briefly showing what reversing audio can sound like using a samp
 
 !?[obama-backward-yes-we-can](https://www.youtube.com/watch?v=Ewo20rq2Qbw)
 
-## Test Your Knowledge!
+### Test Your Knowledge!
 
 Which pan value will have the audio equally loud in _both_ speakers?
 
@@ -85,7 +85,7 @@ When playing back the audio, you can have the automation behave in different way
 * Write: Will only write automation data. Be careful that if you set the automation, then playback while still in Write mode, it will overwrite the previous automation!
 * Off: Ignores all automation when playing back. This will translate to the mixdown, so don’t forget about it!
 
-## Test Your Knowledge!
+### Test Your Knowledge!
 
 Which are the default _audio_ automation parameters in Studio One 6? _*Choose all correct answers*_
 

@@ -151,7 +151,7 @@ This video overviews key features of the transport bar:
 
 More information on the transport controls can be found in the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Fundamentals_Topics/Transport_Controls.htm?TocPath=Fundamentals%257C_____9). 
 
-## Test Your Knowledge!
+### Test Your Knowledge!
 
 True or False: you can use the loop bar in order to set the exact content to be exported as a mixdown.
 
@@ -194,7 +194,7 @@ To create your own macros, follow this tutorial created by Presonus.
 
 Information on Macros and the Studio One toolbar can be [found in the online manual](https://s1manual.presonus.com/#Editing_Topics/Macro_Toolbar.htm?TocPath=Editing%257C_____23). 
 
-## Test Your Knowledge!
+### Test Your Knowledge!
 
 Which of the Following is a macro included with Studio One 6 by default?
 

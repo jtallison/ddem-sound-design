@@ -63,7 +63,7 @@ While not always te case, most large-diaphragm microphones are side address. Ins
 
 ![AKGc414] ![rodeNT1] ![a3rdMic] ![wong-orientation]
 
-## Test Your Knowledge!
+### Test Your Knowledge!
 
 True or False: An XLR Cable is unbalanced?
 
@@ -181,7 +181,7 @@ For smaller pitch adjustments you can utilize the tune option. This will tune th
 
 Transposing for MIDI can work a little differently. If you select an MIDI event, right click (or under the actions menu) and select transpose, a few more options appear. You can use the sliders to easily select octave transpositions, specific intervals, or setting all of the MIDI notes to the same pitch. These are all common ways to utilize MIDI transposition.
 
-## Test Your Knowledge!
+### Test Your Knowledge!
 
 What is the name of the window where you can change the contents of an Audio or MIDI event?
 

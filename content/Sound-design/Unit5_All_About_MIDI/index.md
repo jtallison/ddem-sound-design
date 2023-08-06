@@ -25,7 +25,7 @@ When it comes to modern MIDI controllers there is a lot of variety in terms of f
 
 Some of these controllers may only be a piano keyboard, or a bank of buttons/pads while others may mimic an audio mixer or be completely customizable. Partly because they offer the largest variety of control options in a single unit, one of the most common MIDI controller layouts will utilize a piano keyboard along with a few buttons, sliders, drum pads, and/or switches. The specific price point of these controllers will vary based on multiple factors such as the number of keys and extra features, but many are currently around the $100 USD price point at the time of writing this page.
 
-## Test Your Knowledge!
+### Test Your Knowledge!
 
 What does MIDI stand for?
 
@@ -132,7 +132,7 @@ For mor einformation on MIDI quantizing, you can check out this page in the [Stu
 * Manual Adjustment: Holding Shift while dragging notes will prevent them from snapping to the grid. You can use this technique to make individual notes happen just a little early or late (a technique often used in hip hop and neo soul drum programming). This can be especially effective on snare drums or claps.
 * Miscellaneous: Look at some of the other actions in the Action menu – “Length” and “Velocity” are particularly helpful. They can help to make the lengths and velocities of MIDI notes that you recorded more even and regular if desired.
 
-## Test Your Knowledge!
+### Test Your Knowledge!
 
 Which of the following kinds of devices can be used to record MIDI data onto an instrument track in Studio One 6?
 

@@ -42,7 +42,7 @@ One important aspect of Mastering is loudness and the loudness wars. As audio te
 
 ## Exporting Your Project for Release
 
-## Test Your Knowledge!
+### Test Your Knowledge!
 
 True or False: You can use any audio you find in any music you make with no drawback or potential legal repercussions.
 

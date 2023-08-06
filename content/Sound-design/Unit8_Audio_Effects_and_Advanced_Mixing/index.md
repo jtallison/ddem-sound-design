@@ -56,7 +56,7 @@ While there is no ‘correct’ way to mix, there are a few general practices an
 * Automation:
 	While not strictly part of the Studio One mixing console, remembering to automate your mix is necessary in creating a cohesive mix from start to finish. It is basically impossible that all of your recordings will be perfectly balanced for the entire duration of your song, especially once you begin adding effects or recordings from multiple sources into the mix.  While you can automate almost everything in the mix, adding slight automatons to just the volume faders is probably the most effective automation you can do. You can mark different sections of the song and have the mix automatically change based on the time. This way perhaps you could have the drums get louder in a chorus, or backing vocals fade out over a verse. At the very least it will allow you to maintain balance between parts regardless of the volume of the source recording.
 
-## Test Your Knowledge!
+### Test Your Knowledge!
 
 Which type of channel in the Mixing console is mainly used for audio processing with effects?
 
@@ -225,7 +225,7 @@ Hardware Effects can be utilized with the Pipeline effect. Generally this is not
 
 !?[pipeline-manual-video](https://www.youtube.com/watch?v=us-3-KSd-sI)
 
-## Test Your Knowledge!
+### Test Your Knowledge!
 
 Which of the effects below do _not_ alter the sound entering the effect in any way?
 

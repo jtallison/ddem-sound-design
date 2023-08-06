@@ -36,7 +36,7 @@ Using the MPEG-4 Video format will allow you to have the most compatible and hig
 
 Because the computer is creating an audio file, attacking it to the video (in sync) and then writing the new video file, expect that your video exports will take longer than an audio export. Be sure to plan accordingly so that your files are finished by the end of class!
 
-## Test Your Knowledge!
+### Test Your Knowledge!
 
 True or False: If you want to add a color filter to your video, you can do that using Studio One 6 while you are also creating the sounds.
 
