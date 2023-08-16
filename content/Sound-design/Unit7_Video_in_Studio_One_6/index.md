@@ -26,6 +26,16 @@ Here are a few interviews/documentaries with Foley Artists about what they do an
 
 ## Audio Soundtracks
 
+A soundtrack is different than Foley sounds. In most cases, the soundtrack is happening outside of the scene. The characters cannot hear the music, but the audience can. This allows the composer to help build the scene, build drama, and enhance the character of things on the screen. Below are a few examples of soundtracks enhancing a scene in different ways:
+
+johnwillimas/hanszimmer/someotherthirdone videos
+
+soundtracks the characters can here
+
+example
+
+tips for making a soundtrack
+
 ## Exporting Video Files
 
 Once you have completed your work, you could export the mixdown and attach it to he original video in a video editing software. However, Studio One 6 Professional can actually do this automatically and save you time in completing the larger video project. This is basically the only video editing possible in Studio One 6, so it is recommended to have the completed video, and then add the sounds to export a final product.

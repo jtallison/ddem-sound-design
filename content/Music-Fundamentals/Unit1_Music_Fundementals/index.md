@@ -460,7 +460,7 @@ These clefs are used together in what is called a grand-staff for instruments wi
 
 #### Keys and Key Signatures
 
-Lastly for now, in regards to pitch, Music and sections of music can have a key. 
+Lastly for now, in regards to pitch, Music and sections of music can have a key. When a piece of music utilizes notes from a specific scale, and cadences to that same scale, then that scale is the key. 
 
 #### Test Your Knowledge!
 
@@ -492,6 +492,10 @@ Dominant chords are _*ALWAYS*_ built with which scale degree as the root?
 ## Chord Progressions & Roman Numeral Analysis
 
 ### Musical Form
+
+So far we have been looking at music at a very close level: individual notes up to phrases. Here we will step back and look at larger sections of music and how we can organize those sections into complete compositions. Lets build a piece of music together!
+
+This will be our first section. Notice its key features. 
 
 ### Cadences
 
