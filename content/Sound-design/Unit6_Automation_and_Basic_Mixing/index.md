@@ -8,6 +8,8 @@ Studio One 6 comes with a large number of loops that can be utilized in your pro
 
 To find a loop, open the Browse window and go to the “Loops” tab. Here your installed loops are broken up first by style, then by instrument. Some collections may have further organization allowing you to navigate to a specific kind of loop while others stop at this level. To preview a loop click on it and you will see information about it appear at the bottom of the Browse panel. Press the play button to preview the loop. If adding a loop to the content it is important to check the tempo and key (if applicable) in order to make sure that there are no problems with the other content. You can manually change the loop’s tempo or transpose it to a different key, but the sound may change to no longer match what you are looking for, so be sure to listen both before and after! To use the loop, simply drag it into the desired track in your session. The loop will then act like any other audio or MIDI event.
 
+![loop-menu](content\media\s1LoopMenu.png)
+
 ## Audio Panning
 
 When arranging sounds, you can control whether they come out of the left speaker, right speaker, or somewhere in between. This control is called panning, and there are two main ways to control this in Studio One.
@@ -27,6 +29,8 @@ Crossfades are an indispensable tool for working in any DAW. These occur when on
 First, you need to have two audio events placed next to each other. Then select BOTH events and press the X key. You should see new flags appear on both events. You can then drag out the crossfades to the exact duration and speeds desired just like working with the envelope flags.
 
 Crossfades are useful for combining audio because it can be extremely noticeable when two clips play back to back. This is due to both the audible silence between the clips, as well as a low-level click that can occur when moving from the silence to the second clip. To avoid this, add a crossfade whenever you have two audio clips playing back-to-back. 
+
+![crossfades](content\media\s1Crossfade.png)
 
 ## Reversing Audio
 
@@ -50,15 +54,19 @@ Which pan value will have the audio equally loud in _both_ speakers?
 
 ## All About Automation
 
-When creating a mix, generally you will have two different kinds of parameter settings: those that stay the same, and those that change over the course of the song. This page will be focusing on the latter. Let’s say you wanted to have the audio of a track automatically get louder during a chorus section, or have the guitar change which of the stereo speakers it is heard from each time a phrase repeats. How would you do this? The Answer is automation!
+When creating a mix, generally you will have two different kinds of parameter settings: those that stay the same, and those that change over the course of the song. This page will be focusing on the latter. Let’s say you wanted to have the audio of a track automatically get louder during a chorus section, or have the guitar change which of the stereo speakers it is heard from each time a phrase repeats. How would you do this? The answer is _automation_!
 
 To open automation, there are a few options, but the easiest is to hit the Show Automation button or press the A key. This will toggle the automation visibility for all of your tracks. You can easily hide this by pressing the buttons again. Don't worry, this will not get rid of any automation you set. By default, no automation is selected, but you can select from a list of options with the dropdown menu that appears by each track in this mode. By default, it will say Display: Off.
+
+![automation-1]content\media\s1Automation1.png)
 
 Audio tracks will automatically have three options in this menu to choose from. These are:
 
 * Volume: The level, in dB, of the track at that given time
 * Mute: Completely silence a track for a duration of time
 * Pan: The balance of the track between the left and right output speakers when played back.
+
+![automation-2](content\media\s1Automation2.png)
 
 Instrument tracks do not have anything loaded into them by default because the potential options can change based on the instrument loaded into the track. However, you can easily add the above options by following these steps:
 
@@ -68,6 +76,8 @@ Instrument tracks do not have anything loaded into them by default because the p
 4. Double click on Volume, Mute, and Pan L/R to add them to the list on the list side of the window. (or select and use Add and Remove buttons)
 
 The elements on the left side of the window are what will appear in the automation dropdown. You can customize this for each track. The parameter options will change based on the total number of options available. For example if you add a reverb to a track, you will see a folder called Inserts. Inside of there you will see each effect as a sub folder that contains the automatable parameters. So if you wanted to change the decay time for that reverb you would first add the effect, then navigate to the folder and add the desired parameter to the automation list.
+
+![automation-3](content\media\s1Automation3.png)
 
 Once you know which parameter you wish to automate, select it from the drop down menu. The contents of the track will be blacked out and a line will appear. Each parameter has a unique line color to help differentiate them. The line represents the parameter volume at that point in time. Double click on the line to add an automation point. You can then click and drag the automation point to the desired time and level. (The bottom of the track is the parameter minimum and the top is the parameter maximum). You can add as many points as you need.
 

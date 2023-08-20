@@ -1,14 +1,12 @@
 # Unit 5: All About MIDI
 
-Unit 5 introduces the concept of MIDI and MIDI controllers. Once you've added a device to Studio One we will go over the various software instruments included in Studio One 6 and how you can record MIDI data to have those instruments perform automatically. AFter going over a few techniques for imporving the MIDI recordings we will have a few lab projects that will further explore the synthesizers and performing your own music.
-
- 
+Unit 5 introduces the concept of MIDI and MIDI controllers. Once you've added a device to Studio One we will go over the various software instruments included in Studio One 6 and how you can record MIDI data to have those instruments perform automatically. AFter going over a few techniques for improving the MIDI recordings we will have a few lab projects that will further explore the synthesizers and performing your own music.
 
 ## What is MIDI
 
 MIDI is a protocol for sending instructions from one musical instrument to another. First released in 1982, MIDI stands for Musical Instrument Digital Interface, and allows for instruments (and other digital devices) to send control messages to other instruments. Early on this was largely used to allow for keyboard control to various synthesizers, allowing a single person to control multiple instruments with a single keyboard.
 
-MIDI signals are usually sent through a 5-pin MIDI connector, and generally have two main components for each message. The first component is a label that tells the receiving device how to utilize the numeric value which follows. The numeric values range from 0-127, so a message to play a note would look something like this:
+MIDI signals are usually sent through a 5-pin DIN connector, and generally have two main components for each message. The first component is a label that tells the receiving device how to utilize the numeric value which follows. The numeric values range from 0-127, so a message to play a note would look something like this:
 noteOn 60;
 Here, the controller is telling whichever connected device to begin playing MIDI note 60 (middle C). When it is time to stop playing a separate noteOff will be sent. Different messages and channels allow for a large variety of devices to be chained together and controlled all from a single controller!
 
@@ -35,9 +33,18 @@ What does MIDI stand for?
 - [[X]] Musical Instrument Digital Interface
 - [[ ]] It doesn't stand for anything.
 
+What are the two main kinds of MIDI controller connectors mentioned in this unit? _(select all correct options)_
+
+- [[ ]] VGA
+- [[X]] 5-pin DIN
+- [[ ]] 7-pin DIN
+- [[ ]] BTLE data streaming
+- [[X]] USB connection
+- [[ ]] 1/4in TRS Female
+
 ## Connecting and Mapping MIDI controllers to Studio One 6
 
-There are multiple ways to input data into Studio One. The most direct way is to individually click and enter every single note and parameter. This will give you the greatest level of control, but is extremely time consuming and not very musical. To help with this, you can utilize a MIDI controller. Before we discuss common features of MIDI controllers and a few recommended options, it is important to state that none of the companies have sponsored this page in any way,
+There are multiple ways to input data into Studio One. The most direct way is to individually click and enter every single note and parameter. This will give you the greatest level of control, but is extremely time consuming and not always musical. To help with this, you can utilize a MIDI controller. Before we discuss common features of MIDI controllers and a few recommended options, it is important to state that none of the companies have sponsored this page in any way,
 
 Because a MIDI controller is mainly just sending MIDI control messages to the computer over a USB connection, there have been a large number of MIDI devices created over the years. The most common ones are shaped like a standard piano keyboard, but there are others that mimic mixers, drums, are only banks of buttons, or function like wind instruments, just to name a few. Each person will have their own needs and preferences when getting a MIDI controller, but if you are getting one yourself and aren’t sure what to look for, most all-purpose controllers have variations on the same four features:
 
@@ -59,13 +66,19 @@ With the exception of the ATOM SQ, these controllers are generally around the $1
 
 Once you have your controller, be sure to connect it to your computer and install/update any drivers per the instructions of the controller. Once connected and powered on you can open Studio One 6 and from the main window select “Configure External Devices” in the bottom of the middle panel. (this may be hidden depending on your monitor resolution, but you can get to the same window by clicking on “Configure Audio Devices” then “External Devices”.) Here you will see a list of the MIDI devices that Studio One has saved and is expecting to be connected. To add a new device, click on “Add”.
 
+![midi-devices](content\media\s1ExternalDevicesWindow.png)
+
 In the window that pops up you will see a large number of brands in a list on the left. If your device already has a template within Studio One, you can find it on the list and select it to save a few steps. If you do not see it here or want to manually set up your controller, continue here. Select “New Keyboard” from the list and in the panel to the right, begin entering information. You can type whatever you want for the manufacturer and keyboard name, but I recommend keeping it accurate to the device so that you can easily identify the keyboard in the future, especially if you have multiple MIDI keyboards.
 
 Next, click the drop down menu labeled “Receive From” to see a list of all connected MIDI controllers and select your device. If you do not see it here, then you may need to reconnect the device, install/update a driver, or restart Studio One. This will tell the computer which connected device to look at and receive MIDI messages from. You can filter only specific kinds of messages if desired as well. You do not need to set anything for the “Send To” option unless you are connecting a hardware instrument to your controller via a MIDI cable. This option is for sending MIDI messages from Studio One to external hardware.
 
 Once you have selected your sedated settings, click on “OK” to add the device. To test the new controller you can open a new session and create a new instrument track. The specific instrument doesn’t matter, but Mai Tai will work well for testing multiple notes at once. When the device is connected and working you should see an orange bar appear next to the track whenever you press a key on the keyboard. (and hear a sound if there is an instrument attached) 
 
+![midi-add](content\media\s1ExternalDeviceSetup.png)
+
 Lastly, to program any customizable knobs, buttons, or sliders on your controller it is very simple. First, notice the top-left of the screen. Here you will see a window containing the last control input from the MIDI controller as well as the last parameter you interacted with in Studio One. Simply adjust the desired parameter, then adjust the button/key/slider/knob you wish to map it to. When both of the elements in the boxes are correct, click on the arrow in between the two elements to map it. Now, whenever you use that specific control on the MIDI controller, the mapped parameter will automatically adjust itself. This is super useful for controlling parameters such as volume and panning quickly and easily no matter which screen you are looking at in Studio One.
+
+![midi_assign](content\media\s1MIDIAssignment.png)
 
 A video breakdown of the above steps can be found here: 
 
@@ -82,7 +95,7 @@ This is where all software synthesizers that Studio One 6 can utilize are locate
 Check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#The_Browser_Topics/Instruments_and_Effects_Tabs.htm?TocPath=The%2520Browser%257C_____4) for more information on the Instruments tab.
 
 Impact XT:
-This is the drum machine instrument in Studio One 6. Depending on your storage space, you may have more or less kits installed, but using the drop down menu, you can select from a variety of drum samples to build a custom drum machine. Impact has eight banks of 16 slots, allowing for a total of 128 different samples per instance of Impact. If you want, you can also drag and drop other audio files into Impact; these can be anything, not just drums! Once a file has been loaded into impact, there are a variety of settings and alterations you can make inorder to have Studio One playback the audio just how you want it. From there, while recording, you can trigger the sound either with a MIDI controller or by clicking on the virtual drum pads to trigger the audio file. The MIDI note for each pad is given in the corner.
+This is the drum machine instrument in Studio One 6. Depending on your storage space, you may have more or less kits installed, but using the drop down menu, you can select from a variety of drum samples to build a custom drum machine. Impact has eight banks of 16 slots, allowing for a total of 128 different samples per instance of Impact. If you want, you can also drag and drop other audio files into Impact; these can be anything, not just drums! Once a file has been loaded into impact, there are a variety of settings and alterations you can make in order to have Studio One playback the audio just how you want it. From there, while recording, you can trigger the sound either with a MIDI controller or by clicking on the virtual drum pads to trigger the audio file. The MIDI note for each pad is given in the corner.
 
 You need to load samples either manually or via a preset in order to hear anything in Impact. There are no sounds loaded by default.
 
@@ -116,16 +129,21 @@ To hear the metronome, there are three different setting windows we can access a
 
 In order to change how long the precount is, load presets, or change the metronome sound you can click on the wrench icon to open the metronome settings. One useful tool is the render button. This will take the metronome settings you have and render the metronome as an audio track. This is useful for saving on CPU performance, but if any timing elements of your project change, you will have to update the rendered track.
 
-For mroem information on the Studio One 6 metronome controls, check out the [Studio One online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Recording_Topics/Metronome_Control.htm?TocPath=Recording%257C_____4).
+For more information on the Studio One 6 metronome controls, check out the [Studio One online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Recording_Topics/Metronome_Control.htm?TocPath=Recording%257C_____4).
 
 ## MIDI Quantization
 
 When recording MIDI it is extremely likely that some of your notes will be slightly off of the metronome. This is due to both human error in performing as well as latency between the various devices. In some instances the difference may not be enough to notice or may be a desired effect. When working with your MIDI recordings you can utilize the quantize tool in order to quickly and easily set your MIDI information to the desired metric placement. 
 When the computer quantizes a MIDI note it looks at the beginning of the note and then changes the starting position to the closest metric division. This can be both extremely useful and extremely frustrating at the same time. This is useful for lining up material, but frustrating because the computer does NOT analyze if something is intended to be on a specific beat; it just moves the note to the closest option. When quantizing, ALWAYS be sure to double check what has happened and make any adjustments as necessary. Errors can be mitigated with proper settings, but it is good practice to double check.
+
+![midi-audio-events](content\media\s1AudioMiDIEvents.png "Recorded Audio vs Recorded MIDI")
+
 To quantize, first select the MIDI event you wish to work with and open the EDIT window. Select the notes you wish to quantize and then click the Q button to open the Quantize menu. Here you can set various settings such as the metric division for the quantization, swing,  velocities, and patterns. The specific division will depend on the content, but the 8th or 16th note divisions are generally a good place to start. You can set the quantization to follow a specific groove, but that is beyond the scope of this course. What is extremely useful for this course however is the ability to save quantization presets. By default 5 exist with different metric divisions, but if you will be having multiple different quantization settings, saving them and easily swapping between them is a major time saver. When you have set your various settings, click Apply to execute the quantization. 
 In order to quantize effectively, there are a few techniques and tools that can help you, and offer different results rather than just hoping your settings are right and relying on the computer.
 
-For mor einformation on MIDI quantizing, you can check out this page in the [Studio One 6 online manual](https://s1manual.presonus.com/#Editing_Topics/The_Grid.htm?TocPath=Editing%257C_____4.
+![quantize-menu](content\media\s1QuantizeMenu.png)
+
+For more information on MIDI quantizing, you can check out this page in the [Studio One 6 online manual](https://s1manual.presonus.com/#Editing_Topics/The_Grid.htm?TocPath=Editing%257C_____4.
 
 * Swing: The swing parameter will shift notes on the upbeats away from the grid. Higher percentages will result in more dramatic shifts, though sometimes a subtle use of the swing parameter can be very effective.
 * Humanize: Humanize is available from the Action menu in the Piano Roll Editor. Running the Humanize action while notes are selected will randomly shift their timing slightly off the grid, making the performance a little less perfect but potentially more “natural”.
@@ -183,13 +201,15 @@ Let’s look at this screenshot of a Studio One session. In it there is a MIDI d
 
 To duplicate something, select the region you want to duplicate and then press the D key on your keyboard. Pressing D multiple times will make multiple duplications. All duplications are placed immediately after the original event, and can be moved as desired.
 
+![duplicated-events](content\media\s1DuplicatedEvents.png)
+
 ## Event Options
 
 When working in Studio One you can generally edit sounds in two main ways: changing the content of the original file and using effects to change how the file is read by the computer. Here we will be focusing on the first of those options. 
 
 When in the main workflow of Studio One, you can right click on an event and see a variety of options. At the bottom of the menu will be three categories: Event, Audio, and Instrument Parts. Musical Functions will appear instead of Audio when selecting an instrument track, but there will always be three options. Hovering over the category will bring up a sub-menu with the various options available. If an option is not selectable, then you are unable to perform that action. Generally this can be remedied by selecting the specific elements you need to apply that action to.
 
-Event: These are general actions that can be applied to anyevent in Studio One. These include items such as moving events, muting, combining, cropping, and rendering the event.
+Event: These are general actions that can be applied to any event in Studio One. These include items such as moving events, muting, combining, cropping, and rendering the event.
 Audio: These are actions that will directly alter the audio present in an event. Audio Event actions include creating crossfades, detecting chords, normalizing audio, reversing audio, and stripping silence.
 Instrument Parts: Lets you create new instrument parts and note patterns, render detected chords, and more
 Musical Functions are applied to MIDI notes and are used for creating musical content from the notes. These functions include transposing, extending, and repeating notes, combining events, fitting notes to scales, etc.

@@ -51,21 +51,30 @@ There are many different variations on the Over-Under technique, as you will see
 
 Different microphones will respond to a sound source in different ways, but they all have a sweet spot where they work best. That sweet spot is the area within the response pattern. Some manuals will indicate the specific distance away from the microphones that this sweet spot extends to, but not all. Generally, you can place condenser microphones farther away from the sound source and still have a good recording, while dynamic microphones tend to need to be closer to the sound source. while helpful, that rule isn't much use if you are placing the microphones in the wrong orientation. Most microphones that you will use have a specific side that picks up sound, and a side that does not.
 
+Here is a short video going over microphone distance placement. When setting up your microphones, try listening to them with headphones to see what the incoming sound is like. Start farther away and move closer until the room sound is basically gone, and the proximity effect has not begun to happen. As you experiment more and more you will become more familiar with idea microphone distances.
+
+!?[distance-video](https://www.youtube.com/watch?app=desktop&v=BwWgzn71zYQ&autoplay=1&rel=0&showinfo=0)
+
 ### Front Address Microphones
 
 These microphones tend to be handheld or pencil mics. With these, you need to point the end of the microphone cylinder towards whatever the sound source is. If you have ever seen someone holding a microphone, but not speak directly into it, resulting in them being difficult to hear, that is because they are not talking into the area that the microphone can respond to. The sensitive side of the microphone should be obvious as the opposite side it usually where the cable attaches.
 
-![sm58] ![pencil-mic] ![sm7b] ![wrong-orientation]
+![sm58](content\media\sm58.jfif "SM58. Wind guard is the direction which records.) ![NeumannKM184](content\media\km184.jfif " "Neumann K184 Pencil Mics" Capsule on the end of the larger tube.") ![sm7b](content\media\sm7b.jfif "SM7B. A clear functional direction indicated by the foam wind guard.") ![wrong-orientation](content\media\wrong1.jfif "directional information for pencil mics. Image from https://mynewmicrophone.com/a-complete-guide-to-directional-microphones-with-pictures/ ")
 
 ### Side Address Microphones
 
 While not always te case, most large-diaphragm microphones are side address. Instead of pointing the microphone towards the sound source, the microphone should be perpendicular to it, allowing the majority of the grille to face the sound source. The front of the microphone should be the side facing the sound source. This can be determined by seeing which side has the microphone brand label.
 
-![AKGc414] ![rodeNT1] ![a3rdMic] ![wong-orientation]
+![AKGc414](content\media\414.jfif "AKGC414. AKG logo is the main side") ![rodeNT1A](content\media\nt1a.jfif "Rode NT1A. Small dot indicates main side") ![wong-orientation](content\media\wrong1.jfif "Incorrect mic orientation. Image from https://www.homebrewaudio.com/27738/podcasters-on-new-tv-show-using-yeti-mic-wrong/")
 
 ### Test Your Knowledge!
 
 True or False: An XLR Cable is unbalanced?
+
+- [[ ]] True
+- [[X]] False
+
+True or False: Microphones pick up sounds equally from any direction and distance?
 
 - [[ ]] True
 - [[X]] False
@@ -80,7 +89,7 @@ In general, the best way to avoid clipping is to make sure nothing is too loud. 
 
 Another way to avoid clipping is with the use of a limiter. A limiter is an audio effect that will limit the dynamic range of a sound source, keeping it from becoming too loud. While quick and easy, this could reduce the total dynamic range of the track which may not be desired. To do this in Studio One, place a limiter effect on the post section of the main output. This is the final section before the audio is sent to the speakers, so it will encompass the whole mix equally. Set the preset to 0 dB and then the audio will never pass 0dB, and cannot clip.
 
-## Practice: connecting a microphone to your computer
+## Practice: Connecting a microphone to your computer
 
 Lets go through the steps needed to get your microphone talking to your computer. You will need Studio One 6 installed on the device, an audio interface, an XLR cable, USB cable, and a microphone.
 
@@ -118,6 +127,8 @@ When editing a MIDI event, the view is very different. Instead of displaying the
     Select Automation by notes will allow you to select notes in th eMIDI roll, but instead of selecting the notes themselves, you can work with the automation tied to those notes.
     Auto-Quantize will quickly quantize the selected MIDI notes based on the quantization settings.
 * Auto zoom appears here as well (in the same location) but the icon look different than in the Audio Editor.
+
+![midi-edit-window](content\media\s1MIDIEditWindow.png) ![piano-roll](content\media\s1PianoRoll.png)
 
 
 There is no manual page specific to the edit window, but be sure to [check out this page on editing events](https://s1manual.presonus.com/#Editing_Topics/Edit_View_Event_Editing.htm?TocPath=Editing%257C_____16) (and the larger editing chapter in general) for more information on what you can do in the edit window.

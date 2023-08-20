@@ -20,16 +20,41 @@ If you will be using a Presonus audio interface or MIDI controller, I recommend 
 
 At the time of writing, Studio One 6.2 is the most up-to-date version of Studio One. When opening Studio One, a window will appear showing the various setup processes. For the most part you can ignore this. If the setup needs your input, or runs into any issues it will appear here for you to respond to. Once ready, the main Studio One window will appear. This window has three main sections:
 
-* The leftmost section of the window is used for opening and creating new sessions. You will see previous sessions that can be opened listed here and can filter them by type. You can also open a new session (either blank or from a variety of templates), open a file from the computer’s file browser, or join a project for online collaboration. The middle section of the opening window shows two main items. The first is your profile information. This can be filled out or ignored, but information here can be filled into the meta-data for exported audio and video files. The second portion of this area shows important setup information. The audio setup can be changed to a different audio interfaces and drivers, the sample rate, buffer size, and other settings can also be accessed here. The final section of the opening window shows social media posts from Presonus. Updates to the software, instructional videos, and other projects will automatically appear here.
+* The leftmost section of the window is used for opening and creating new sessions. You will see previous sessions that can be opened listed here and can filter them by type. You can also open a new session (either blank or from a variety of templates), open a file from the computer’s file browser, or join a project for online collaboration. 
+
+![start-files-left](content\media\s1IntroLeft.png)
+
+* The middle section of the opening window shows two main items. The first is your profile information. This can be filled out or ignored, but information here can be filled into the meta-data for exported audio and video files. The second portion of this area shows important setup information. The audio setup can be changed to a different audio interfaces and drivers, the sample rate, buffer size, and other settings can also be accessed here. 
+
+
+![start-settings-middle](content\media\s1IntroMiddle.png "Who is that handsome person in the profile window?")
+
+* The final section of the opening window shows social media posts from Presonus. Updates to the software, instructional videos, and other projects will automatically appear here.
     Check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Pages_Topics/Start.htm?TocPath=Pages%257C_____1) for more information on the start page.
+
+![start-social-right](content\media\s1IntroRight.png)
 
 Let’s make a new Studio One Song Session. To do this, click on the + icon and select the default template (labeled “Record and Mix”). You can choose a name and location for your project to be saved with. It is HIGHLY recommended to give your projects an identifying name so that you can find it. Studio One will create a default name, but these become hard to manage, especially when utilizing Studio One on a school computer. Click open to see a new window with 5 sections. Check out the [Studio One 6 online manual](https://s1manual.presonus.com/StudioOneReferenceManual.htm#Setup_Topics/Creating_a_New_Song.htm?TocPath=Setup%257C_____6) for more information on making a new song.
 
+![new-proj-window](content\media\s1NewProjectWindow.png)
+
 * The largest part of the screen is shown in the middle. This is where your audio and MIDI clips will live. Moving them vertically will change which track the clips are located on, and moving them horizontally will change their timing location. The time can be seen in the timeline at the top of this section.
-* The left side of the screen shows the various channels present in your session. As you add more and rearrange your tracks, they will appear here. You can also control the volume, mute, solo, monitoring, and input for these tracks from here as well. At the top of this section are the controls to toggle various other toolbars that all appear above the middle section.
+
+    ![Main-Song-Window](content\media\s1MainWindowEmpty.png)
+
+* The left side of the screen shows the various tracks present in your session. As you add more and rearrange your tracks, they will appear here. You can also control the volume, mute, solo, monitoring, and input for these tracks from here as well. At the top of this section are the controls to toggle various other toolbars that all appear above the middle section.
+
+    ![main-window-felt](content\media\s1TrackList.png)
+
 * The right-most section of the screen is devoted to the browse window. This can be hidden by clicking the button labeled “Browse” in the bottom right of the screen. This window is used for navigating through a variety of items. Plugins, synthesizers, presets, audio files, loops, and more can all be found here and dragged-and-dropped into the session wherever is needed.
 * At the bottom of the Studio One window is a toolbar containing a large amount of useful items. As a whole, this toolbar is called the Transport Bar. Moving from left to right on the Transport Bar, first is recording information such as MIDI data transfer, CPU usage, total recording time available. Next is playback information. This includes the current playhead position, playback controls (forward, refined, record, play, loop, etc.), and the markers for the left and right ends of any looped sections. The ext sections contains information on timing and can be used to set up the internal metronome or subdivisions of the timeline. The final section shows the playback volume, and can be used to adjust the output level for the whole .song project. Lastly, just to the right of the transport bar are three buttons. “Browse” toggles the browse window, “Mix” opens the mixing console window, and “Edit” opens a window used for editing either audio or MIDI files. (more on these later)
+
+    ![transport-bar](content\media\s1TransportBar.png)
+
 * The top-most section of the Studio One window contains several editing tools. Moving from left to right, first is the MIDI assignment window. If using a MIDI controller, various parameters can be mapped here. The next section has a variety of tools that can be utilized with the mouse. These include the main, context-sensitive tool for moving and trimming various clips, drawing lines, and splitting clips. The next section has more complex tools that have mini toolbars. These include quantization, macro controls, and removal of silence. Next are the controls for the timeline. The display and subdivisions can all be selected here. This is followed by a few miscellaneous tools such as how the screen follows the project content when playing back, opening the video window, and the help window. Last, the three icons on the right of the screen allow you to see if any downloads are happening, return to the main window, and jump to any open sessions respectively.
+
+
+    ![toolbar](content\media\s1TopToolbar.png)
 
 By right-clicking on the top toolbar you can open a customize window that will add (or remove) elements from the tool bar, allowing you to customize the layout. If you are new to working with Studio One, I recommend leaving it as the default layout until you are familiar enough to make changes.
 
@@ -47,17 +72,23 @@ More information on Studio One 6's drag-and-drop functionality can be found in t
 
 
 There are several different kinds of tracks. These can be created via the track menu at the top of the screen, or more quickly through the + icon in the top-left section of the screen. 
-Audio tracks are for audio files. You can select the track’s input, whether it is stereo or mono, and a few other settings.
-Instrument tracks are for software plugin instruments. These can be selected here or later from the Browse menu.
-Automation tracks only include automation information for a specific track. These will likely be the least-used tracks in this class since automation can be applied directly onto an Audio or Instrument track.
-Folder tracks are used for grouping together multiple other tracks. For example, in a larger mix, you could group together all of the microphones used on the drumset into a larger folder, or create a folder for the various vocal tracks. Effects and automation applied to the folder tracks are applied to everything within the folder.
+
+* Audio tracks are for audio files. You can select the track’s input, whether it is stereo or mono, and a few other settings. These tracks have a small waveform icon on them.
+* Instrument tracks are for software plugin instruments. These can be selected here or later from the Browse menu. These tracks have a small keyboard icon on them.
+* Automation tracks only include automation information for a specific track. These will likely be the least-used tracks in this class since automation can be applied directly onto an Audio or Instrument track. Automation tracks do not have an identifying icon on them.
+* Folder tracks are used for grouping together multiple other tracks. For example, in a larger mix, you could group together all of the microphones used on the drumset into a larger folder, or create a folder for the various vocal tracks. Effects and automation applied to the folder tracks are applied to everything within the folder. These tracks have a small folder icon on them.
+
 When making a track, you can give the tracks a name, choose a preset for the track, adjust the track color, and how many copies of the track that you wish to make.
+
+![tracks-with-content](content\media\s1TracksWithContent.png)
 
 ## The Grid
 
 The grid is a useful tool for arranging your audio and MIDI events in time. You can see the grid as a series of ticks throughout the arrange window. By default the grid shows the Bars layout, which will show musical bars and beats to measure time. By using this tool it is much easier to line up various elements visually on the screen. The resolution of the grid will adapt to how zoomed in you are. Being zoomed out will only show bars or beats, while being zoomed in can show 16th notes.
 
 By default events will snap to the grid. This means that when you move an event, it will automatically line up the beginning of the event to the closest Grid tick whenever you release your mouse button. This is useful, but not for every kind of music. If you want to turn this off, you can click this button in the top toolbar (or press the F hotkey) in order to toggle this. When snap-to-grid is off you can freely move events without them automatically aligning to the Grid.
+
+![main-window-empty](content\media\s1MainWindowEmpty.png)
 
 For more information on Grid Snap, check out this video from Presonus as well as the [online Studio One 6 manual](https://s1manual.presonus.com/#Editing_Topics/The_Grid.htm?TocPath=Editing%257C_____4/).
 
@@ -117,13 +148,17 @@ Mixdown Requirements:
 
 ## Exporting Mixdowns
 
-When working in Studio One, or any other DAW for that matter, the project file is NOT what you need to export for other people to be able to listen to your work. The project file is only a text file full of instructions for Studio One to be able to locate the necessary files and build the session; it does not have anything needed to actually playback the audio. Unless your teacher or someone else is specifically requesting a .song file, you should never send these out. Not because it is problematic, but because you will inevitably have to send the correct file before anything can be done with it.
+When working in Studio One, or any other DAW for that matter, the project file is NOT what you need to export for other people to be able to listen to your work. The project file is only a text file full of instructions for Studio One to be able to locate the necessary files and build the session; it does not have anything needed to actually playback the audio. Unless your teacher or someone else is specifically requesting a .song file, you should never send these out. Not only because it is problematic, but because you will inevitably have to send the correct files anyways before anything can be done with it; especially for things created for this course.
 
 In order to export the correct files so that people can listen to your project, you need to use the export window. This can be accessed with the “CMD/CTRL + E” shortcut, or from the song menu at the top of the screen. This opens the Export Mixdown window. A mixdown takes all of the various tracks in your project and renders them as a stereo audio file that can be listened to on a variety of devices. In this window you will first want to give your mixdown a name so that you can find it later. The default name of ‘mixdown’ is not helpful for this. You can also choose a specific place for the files to save to if you would like.
 
 Next you will need to select the format for the file you wish to export. You can select multiple varieties and adjust their settings depending on what you need. For this course, sticking to .mp3 and .wav files are recommended. Both are highly compatible with most devices, and are easy enough to work with. .mp3 files are useful for smaller-scale projects as they do not require as much space, whereas .wav files are uncompressed, so they have higher degree of fidelity. I recommend saving the .wav file formatting for larger projects and final mixes, but be sure to follow your teacher’s instructions. 
 
+![export-mixdown-window](content\media\s1ExportMixdownWindow.png)
+
 Once you have selected the formatting, you must then choose exactly what portions of your project you wish to export. The timeline markers and loop bar are used for this. I recommend utilizing the loop bar as you can quickly see and adjust the portion of the project you wish to export from the main screen. I also recommend adjusting this BEFORE you open the Export Mixdown window, as you will have to close this window to adjust the bar and re-open it to continue the export. Once the loop bar has been used to highlight the content you wish to export, be sure to select the option “between loop”. Regardless of the selection method you choose, be sure to look at the duration window to make sure the exported audio matches with what you expect. Otherwise you may have large sections of unwanted silence or accidentally cut off a portion of your project.
+
+![loop-bar](content\media\s1TimelineWithLoopBar.png)
 
 From there you can adjust loudness if you do not plan to do any audio mastering, and adjust a few more settings. For the purposes of this class, you generally won’t need to worry about these sections. Click OK to export the audio. When done, Studio One will open a file browser window showing the file you just created so that you can easily open it or send it wherever you need to.
 
@@ -142,6 +177,8 @@ You can also trigger recording from the transport bar as well. When you click th
 When playing back audio, you will likely focus on smaller sections of the larger project. In order to avoid a headache with managing the playhead, Studio One has a handy loop feature. You can activate the loop by clicking the loop button in the transport bar. You will then see a small triangle turn blue at the beginning of the timeline above your tracks. You can click and drag this to select a portion of your song. You will see the triangle turn into a bar and the background of the main window will darken to indicate it is within the looping area of the project. You can toggle the loop on and off, and the marker will remain in the last place you set it.
 
 Both the beginning and end of this marker are movable so you can arrange this bar to fit wherever you need. You can also enter the left and right location of the loop bar using the bar numbers to the right of the loop button. When looping is active the playhead will automatically jump to the beginning of the loop marker whenever it reaches the end.
+
+![loop-bar](content\media\s1TimelineWithLoopBar.png)
 
 Whenever exporting a mixdown it is important to select exactly how much audio you wish to export. The default option for selecting this is to utilize the loop marker’s positions. When exporting, it is easiest to adjust the loop bar to encompass the entire project prior to beginning the export process. That way you can export everything at once without having to go back and adjust the loop marker or the section flags. The looping does not need to be active when exporting the mixdown, but having it highlighted may be easier to visually line everything up.
 
@@ -162,13 +199,19 @@ True or False: you can use the loop bar in order to set the exact content to be 
 
 The Arrow Tool is the main tool that you will be using in Studio One 6. It is selected by default, and can be easily reselected by pressing the 1 key on your number bar. The Arrow Tool is context sensitive, meaning that it will do different thing depending where on the event you are clicking.
 
+![toolbar](content\media\s1TopToolbar.png)
+
 Moving/selecting events: When the mouse is located on the TOP half of an event, you can click to move the event around the main work area. The mouse will look like a standard pointer cursor to help indicate this. Moving an even left or right will change its location in time, while moving it vertically will change which track it is on. Dragging an event past the last track in your session will place it on a new track. When in this mode, you can also click on an event to select it in its entirety. This is useful when wanting to apply a process to only a few specific clips, or if you want to move an entire clip to a new location.
+
+![tracks-with-events](content\media\s1TracksWithContent.png)
 
 Selecting portions of events: When selecting the bottom half of an event, the cursor will change to a crosshair icon. When this icon is present, you can click and drag to select a portion of an event. Once selected, whichever operation you perform next will be applied to ONLY the selected portion. This includes moving the event, so be sure you have everything you want or you may accidentally slice your event in a place you don’t want to!
 
 Trimming events: When selecting the ends of an event, the cursor will change to be a horizontal arrowhead and a line. This indicates that you can click to trim whichever end of the event your mouse is located on. Simply click and drag to remove any unwanted things at the end of a recorded file! You can also click and drag the event to be longer. This is useful when working with MIDI, but remember that you cannot extend an audio file past its original length!
 
 Audio Envelopes: You can also adjust the audio envelopes for your files using the Arrow Tool. Simply select an audio event, and you will see three flags appear on the top of the event. The triangle-shaped flags can be dragged out towards the center of the event to create a fade in or fade out, and the maximum volume of the clip can be adjusted by dragging the square-shaped flag up or down. If you want, you can also adjust the speed of the fades with the new flag that will appear when you implement a fade.
+
+![audio-env](content\media\s1EventAudioEnvelope.png)
 
 The Split Tool is useful for splitting an event wherever you click. You can access this tool by selecting the razer blade icon or pressing 3 on your number bar. When using this tool, any events you click on will be split into two separate events at the mouse’s location. If you want to delete a part of an event, you can use the Split Tool to separate the undesired portion, and then delete it by either selecting it and deleting it with the backspace key, or using the erase tool and clicking on the event. The erase tool will delete whichever event you click on when used. 
 
@@ -185,7 +228,7 @@ A macro command is a (potentially) complex series of actions for the computer to
 
 Macros are a wonderful tool for quickly and easily doing a variety of actions in Studio One. You can access the Macro menu by clicking the Macro key in the top toolbar. By default there are a large number of macros already created by Presonus, but you can make your own depending on your specific workflow.
 
-The preset macros are all broken up by category, which can be changed via the dropdown menu in the Macro panel. For this class, some of the most useful macros are the pitch macros, music creation, and the explore macros. A few specificly useful macros are Reverse Reverb, Add/Remove 3dB, and quantize to 16th notes.
+The preset macros are all broken up by category, which can be changed via the dropdown menu in the Macro panel. For this class, some of the most useful macros are the pitch macros, music creation, and the explore macros. A few specificity useful macros are Reverse Reverb, Add/Remove 3dB, and quantize to 16th notes.
 
 To create your own macros, follow this tutorial created by Presonus.
 

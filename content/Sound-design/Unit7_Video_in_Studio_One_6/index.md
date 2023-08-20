@@ -26,15 +26,14 @@ Here are a few interviews/documentaries with Foley Artists about what they do an
 
 ## Audio Soundtracks
 
-A soundtrack is different than Foley sounds. In most cases, the soundtrack is happening outside of the scene. The characters cannot hear the music, but the audience can. This allows the composer to help build the scene, build drama, and enhance the character of things on the screen. Below are a few examples of soundtracks enhancing a scene in different ways:
+A soundtrack is different than Foley sounds. In most cases, the soundtrack is happening outside of the scene. The characters cannot hear the music, but the audience can. This allows the composer to help build the scene, build drama, and enhance the character of things on the screen. Below are a few examples of soundtracks enhancing a scene in different ways. This is set up like a quiz to see if you can identify. See how many you can get, and how the music can be used to set the emotions of a scene.
 
-johnwillimas/hanszimmer/someotherthirdone videos
+!?[video-st-quiz](https://www.youtube.com/watch?v=YCKLmC6_V4M "Full video is 40 minutes")
 
-soundtracks the characters can here
+There are a few times when the soundtrack is diegetic, just like Foley sounds. THese can be an effective and creative tool for film creators to pull the audience into a scene since everyone is hearing and reacting to the same sounds. Sometimes, the music can even straddle this line! Below are a few examples from the 1984 film _Amadeus_ a slightly less-than-historically-accurate telling of W.A. Mozart's life. (Mozart was a classical music composer largely based in Vienna who died in 1791. You have likely heard their music in various settings, even if you didn't recognize it as Mozart's) The first clip shows how Mozart came up with the melodic idea in his head, which then becomes the transition to a scene where the opera is being performed live. The second clip comes from the end of the movie (_spoiler alert_) from when Mozart is dictating his final composition to the film's antagonist. In the original scene the music plays while Mozart is imagining and dictating it. The video creator has added the composition's sheet music to the clip to help highlight this.
 
-example
+!?[mozart-opera](https://www.youtube.com/watch?v=GYRKSLAX8Cc) !?[mozart-confutatis](https://www.youtube.com/watch?v=dJ0AkP_BFhs)
 
-tips for making a soundtrack
 
 ## Exporting Video Files
 
@@ -53,7 +52,7 @@ True or False: If you want to add a color filter to your video, you can do that 
 - [[ ]] True
 - [[X]] False
 
-Which of these Sounds would need Foley done to them in post production? _*Choose ALL correct answers*_
+Which of these Sounds would need Foley work done to them in post production? _*Choose ALL correct answers*_
 
 - [[ ]] Dialogue
 - [[X]] Footsteps
