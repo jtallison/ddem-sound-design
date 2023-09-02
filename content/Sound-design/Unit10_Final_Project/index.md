@@ -34,9 +34,9 @@ The final draft of your project must adhere to the following guidelines:
 
 * All work MUST be done in Studio One.
 * Use of “canned” loops (pre-made loops in Studio One or other commercial products) is prohibited.
-* Your project must include at least one track containing audio that demonstrates some of the concepts and editing techniques from the musique concrète tradition (splicing, speed manipulation, pitch shifting, sampling, etc).
-* Your project must include at least one track utilizing a built-in Studio One synthesizer instrument.
-* Your project must include at least one instance each of mixer automation (volume and/or pan) and instrument automation (filter cutoff, LFO frequency, etc).
+* Your project must include _at least_ one track containing audio that demonstrates some of the concepts and editing techniques from the musique concrète tradition (splicing, speed manipulation, pitch shifting, sampling, etc).
+* Your project must include _at least_ one track utilizing a built-in Studio One synthesizer instrument.
+* Your project must include _at least_ one instance each of mixer automation (volume and/or pan) and instrument automation (filter cutoff, LFO frequency, etc).
 * Your project should be well-mixed (good balance between tracks, stereo spatialization) and use effects appropriately (EQ, compression, reverb). There is no minimum guideline for this category, but students that clearly put thought and attention into the balance, spatialization, and timbral qualities of their piece will earn more points.
 * All MIDI must be well-edited and/or quantized as applicable.
 * Your project must feature your original field recording in a significant way.
@@ -86,11 +86,21 @@ This should be typed in whichever word processing software is being used for the
 
 ## Example Final Project
 
-EXAMPLE PROJECT COMING SOON
+This portion of the unit will focus on a hypothetical project. For the sake of time, this hypothetical project is only 1 minute in duration, but remember the time requirements for the real project!
+
+Spoiler alert: If I were to grade this example project as a teacher, it would get full technical points, but a B on the creative aspects. While there are tons of MIDI instrument parts in the final version, 90% of the time they are playing the same thing just in octaves. Be sure to remember the key voices in a song: lead/melody, pads/chords/harmony, bass, rhythm, and give each one their own identity/purpose!
 
 ### Proposal
 
+For this project, I want to utilize a recording of several bird calls I made from my back porch. I think that these calls can be very musical, and I'd like to turn them into my own melody using the Sample1 instrument. I don't know a ton of the details yet, but I want to song to grow and evolve over time with new bird sounds and a lot of reverb like the techno music I just started listening to.
+
 ### Work In Progress
+
+[This .zip folder](content\media\SampleFinalProject-inProgress.zip) contains an in-progress version of the final project proposed previously. It only uses effects that are built into Studio One 6 Professional, so you _shouldn't_ need to download any extra materials if you have all of those assets already installed. Studio One 6.2.1 (July build) or newer is ***REQUIRED*** in order to open the .song file. The project was made on a Windows 10 machine
+
+If simply checking the boxes, this project _technically_ meets all of the requirements, but there are a few things that can be improved on. Mainly some timbres in the synths, the percussion is a little lacking, and the material is repetitive without being interesting.
+
+As a practice assignment, try downloading this file adn finishing the project before hearing the final version on the next page. Is it what you thought might happen? Most likely not, but thats OK! everyone will have a different take on music, and that is what makes it wonderful! when working on your project, you are free to make whatever you want (as long as you follow the assignment guidelines), so don't be afraid to get as creative as you can be!
 
 ### Finished Mixdown
 

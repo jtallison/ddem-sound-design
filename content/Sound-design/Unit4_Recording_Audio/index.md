@@ -22,13 +22,31 @@ A few other common patterns are:
 * Figure 8
 * Omnidirectional
 
-### Microphone cables
+### Audio Cables
 
-In this course we will not be discussing or using USB microphones in any way. They exist, but in most cases are not as high-quality as an XLR microphone, and cannot interface with an audio interface at all.
+Much like th veins in your body, the roads in your city, and the wi-fi transmitters bringing you this page, audio cables are responsible for getting something from location A to location B. In this case, it is an audio signal. Wired microphones do exist are are very useful, but this class will be focusing on wired audio connections. With these setups, there is a physical connection between all elements of the signal. Using a cable can help reduce latency and improve the sound quality in the majority of cases. 
 
-Microphones use XLR cables to send electrical current from the microphone to whatever it it connected to on the other end. This is usually an audio mixer, amplifier, recorder, or interface. An XLR cable has three pins running through it, and only fits into the microphone in one direction. You can think of the pins pointing towards where you want the sound to travel to.
+When you plug a microphone into an XLR cable, the pins inside the microphone contact the ones inside of the cable, allowing the electrical signal to travel down the internal wires to whatever it it connected to on the other end. This is usually an audio mixer, amplifier, recorder, or interface. An XLR cable has three pins running through it, and only fits into the microphone in one direction. You can think of the pins pointing towards where you want the sound to travel to. (If you have worked with DMX lighting, this is reversed, despite using almost identical cables)
 
-XLR cables are wonderful for a few reasons. The first is that you can chain multiple together in order to increase your cable length if needed, but the second, more important reason is that they are balanced. This balancing allows for the cables to travel long distances without picking up additional electric noise. To achieve this, we can look at the three pins. One pin is ground and isn;t utilized here. Another carries the original signal, and the other carries an inverted version of that signal. Then, as the signal travels and picks up noise, the noise in the third pin is also inverted. When the cable reaches its destination, the inverted signal is corrected, causing the inverted noise to cancel out, leaving only the original signal.
+
+XLR cables are wonderful for a few reasons. The first is that you can chain multiple together in order to increase your cable length if needed, but the second, more important reason is that they are balanced. This balancing allows for the cables to travel longer distances without picking up additional electric noise. To achieve this, we can look at the three pins. One pin is ground and isn't utilized here. Another carries the original signal, and the other carries an inverted version of that signal. Then, as the signal travels and picks up noise, the noise in the third pin is also inverted. When the cable reaches its destination, the inverted signal is corrected, causing the inverted noise to cancel out, leaving only the original signal.
+
+This happens through a phenomenon called phase interference, and can be easily explained by math. When two signals are completely out of phase, then they are opposite. so a positive value becomes a negative and a negative becomes a positive. When you add two equal but opposite numbers, the value is always 0.
+
+* 10 + -10 = 0
+* 4747498202875 + -4747498202875 = 0
+* 0.0000000000000001 + - 0.0000000000000001 = 0
+
+Being a long piece of metal, a cable likes to act like an antenna and pick up a lot of undesired sounds. This is called noise. To put together how this is working, lets break down the process from before: first the original signal is inverted, making 2 copies that will result in a value of 0 when added together. That is a problem, but we will solve that later. As the signal is sent down the wire, it will pick up noise. Because they are all inside the same cable and going the same distance, the noise will be the same in all of the wires inside of the cable. We can ignore anything added into the ground cable. When the signal reaches the destination the copy is un-inverted along with any noise that was picked up in that wire. This makes the original audio in phase with itself again, while the noise is now out of phase. when added together, the original signal will be boosted to have twice as much power, while the noise will cancel itself out. Because of the logarithmic nature of sound, we will hear this as the sound receiving a 3 dB volume boost whe using a balanced cable over an unbalanced on 
+(ignoring any noise that would also be in the unbalanced cable)  
+
+How can you identify a balanced cable? most have three conductors on them where signal can be transmitted. An XRL cable has three pins. 1/4 inch and 1/8 inch cables can be wither balanced or unbalanced. Instrument cables like those for electric guitars are unbalanced. You can see on the cable that there are only 2 main sections: the tip and the sleeve. In a balanced cable, you will see an additional band resulting in a tip, ring, and sleeve. These are abbreviated to TS and TRS respectively.
+"
+![bal-vs-unbal](content\media\balanced_audio_25inplugs.jpg "Image from https://www.datapro.net/techinfo/balanced_audio.html")
+
+If you are playing guitar or something that needs an unbalanced connection, but are worried about picking up too much noise on your cable run, then utilizing a Direct Input, or [DI box](https://www.sweetwater.com/store/detail/ProAV2--radial-proav2-2-channel-passive-a-v-direct-box) will help. This box will take an unbalanced signal and convert it to a properly leveled balanced signal that can be sent as far as you need. A DI box will receive a variety of unbalanced cables, but will almost always output with a XLR connection. A DI box can be more expensive than a cable, but these rugged boxes are a must-have for any recording studio or stage
+
+In this course we will not be discussing or using USB microphones in any way. They exist, but in most cases are not as high-quality as an XLR microphone, and cannot interact with an audio interface at all. This is changing as technology develops, but for the purposes of this course, they will not be mentioned past this paragraph.
 
 ### Cable Wrapping
 
@@ -47,6 +65,8 @@ To help avoid this, there is a specific way to wrap audio cables. Usually called
 
 There are many different variations on the Over-Under technique, as you will see in the various videos. You can use whichever specific version you like, as long as you have everything from the list above.
 
+Also, check out [this article from Sweetwater](https://www.sweetwater.com/insync/cable-management-tools-for-stage-and-studio/) with a few extra tips on storing and managing the cables once you have wrapped them or put them where they need to be.
+
 ## Microphone Placement
 
 Different microphones will respond to a sound source in different ways, but they all have a sweet spot where they work best. That sweet spot is the area within the response pattern. Some manuals will indicate the specific distance away from the microphones that this sweet spot extends to, but not all. Generally, you can place condenser microphones farther away from the sound source and still have a good recording, while dynamic microphones tend to need to be closer to the sound source. while helpful, that rule isn't much use if you are placing the microphones in the wrong orientation. Most microphones that you will use have a specific side that picks up sound, and a side that does not.
@@ -59,7 +79,7 @@ Here is a short video going over microphone distance placement. When setting up 
 
 These microphones tend to be handheld or pencil mics. With these, you need to point the end of the microphone cylinder towards whatever the sound source is. If you have ever seen someone holding a microphone, but not speak directly into it, resulting in them being difficult to hear, that is because they are not talking into the area that the microphone can respond to. The sensitive side of the microphone should be obvious as the opposite side it usually where the cable attaches.
 
-![sm58](content\media\sm58.jfif "SM58. Wind guard is the direction which records.) ![NeumannKM184](content\media\km184.jfif " "Neumann K184 Pencil Mics" Capsule on the end of the larger tube.") ![sm7b](content\media\sm7b.jfif "SM7B. A clear functional direction indicated by the foam wind guard.") ![wrong-orientation](content\media\wrong1.jfif "directional information for pencil mics. Image from https://mynewmicrophone.com/a-complete-guide-to-directional-microphones-with-pictures/ ")
+![sm58](content\media\sm58.jfif "SM58. Wind guard is the direction which records.") ![NeumannKM184](content\media\km184.jfif " "Neumann K184 Pencil Mics" Capsule on the end of the larger tube.") ![sm7b](content\media\sm7b.jfif "SM7B. A clear functional direction indicated by the foam wind guard.") ![wrong-orientation](content\media\wrong1.jfif "directional information for pencil mics. Image from https://mynewmicrophone.com/a-complete-guide-to-directional-microphones-with-pictures/ ")
 
 ### Side Address Microphones
 
@@ -78,6 +98,14 @@ True or False: Microphones pick up sounds equally from any direction and distanc
 
 - [[ ]] True
 - [[X]] False
+
+Which of the following will happen when you use a balanced cable?
+
+- [[X]] The incoming sound level is boosted by 3 dB.
+- [[ ]] The sound is recorded at a higher bit depth.
+- [[ ]] The incoming waveform is made symmetrical.
+- [[ ]] A high-pass filter is added in the cable to remove low-frequency noise.
+- [[ ]] MIDI data can be sent along with the recorded audio.
 
 ## Clipping and How to Avoid it
 

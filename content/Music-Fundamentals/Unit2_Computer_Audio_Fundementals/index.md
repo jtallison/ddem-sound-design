@@ -56,15 +56,24 @@ For more information on this phenomena and sampling rates, check out the Nyquist
 
 !?[digitalAudio-video](https://www.youtube.com/watch?v=Gd_mhBf_FJA) !?[nyquist-FullLesson-video](https://youtu.be/pWjdWCePgvA) !?[nyquist-summarized-video](https://www.youtube.com/watch?v=v8s0TwvHsdA)
 
-When taking a sample the ADC must be able to save each sample as a number. The total number of options for these numbers is referred to as the bit-depth. Standard audio has a bit-depth of 16 bits. That is 216, or 65536 potential options. As the bit-depth increases, the computer is able to more accurately represent the original file, similar to an image rendered at  480p versus an image rendered in 4k. Classic 8-bit audio sounds have their unique timbre in part because of the lower bit-depth.
+When taking a sample the ADC must be able to save each sample as a number. The total number of options for these numbers is referred to as the bit-depth. Standard audio has a bit-depth of 16 bits. That is 2^16, or 65536 potential options. As the bit-depth increases, the computer is able to more accurately represent the original file, similar to an image rendered at  480p versus an image rendered in 4k. Classic 8-bit audio sounds have their unique timbre in part because of the lower bit-depth. Keep in mind that every time you increase the bit-depth by 1, you are doubling the total number of values, so this can quickly balloon the file size you are working with. 
+
+When exporting a project as an audio file, you will have multiple options for the formatting. In the overwhelming majority of scenarios, you will be exporting to CD quality. This is the now standard settings first implemented with audio CDs when they were first introduced. To meet this standard, an audio file music have the following:
+
+* Be rendered in stereo
+* Have a sampling rate of 44,100 Hz
+* Have a bit-depth of 16
+
+Any files that do not meet these criteria are not at CD quality. HD files are rendered with higher settings, while low-fi recordings will have lower settings. (A low-fi track can still be at the standard quality, these are usually emulating the effect of lower-quality settings.)
 
 Once the file has been made it can be freely edited within the computer. While a person could manually edit the individual sample values, at a minimum of 44,100 values per second, this is not practical or recommended. Instead you can utilize a DAW in order to build up and edit multiple recordings at once into a single new file. When playing back an audio file, a separate circuit called the Digital-to-Analog Converter (DAC) is used to achieve this. The DAC will read the numbers of the sound file in order and use that to calculate an electronic voltage. This voltage is then output to a speaker.
 
 A standard speaker works like a dynamic microphone, just in reverse. An electric current is fed into a wire. This wire is wrapped around a magnet and connected to a diaphragm. As the electric current changes, this causes fluctuations in the magnetic field, moving the connected diaphragm back and forth. This movement pushes the air molecules in front of the speaker, resulting in sound waves that can be heard by a listener.
 
-### Test Your Knowledge!
 
-What is the standard Audio Rate for digital music?
+## Test Your Knowledge! Unit Test
+
+What is the standard sample rate for digital music?
 
 - [[ ]] 20 KHz
 - [[X]] 44.1 KHz
@@ -78,4 +87,29 @@ What is an Audio Sample?
 - [[ ]] The original sound source being recorded.
 - [[ ]] The frequency at which the Sample rate must be set to in order to accurately represent the original sound.
 - [[ ]] An exponential scale where the frequency doubles every octave.
-- [[X]] The level of electricity coming into the computer from a microphone, saved as a number.
+- [[X]] The level of electricity coming into the computer from a microphone at a given moment in time, saved as a number.
+
+What are the three requirements for an .mp3 audio file to be CD quality? (Select _ALL_ correct options)
+
+- [[X]] 44.1 kHz sampling rate.
+- [[ ]] This is a trick question as only .wav files can be CD quality.
+- [[X]] The file must be exported in stereo.
+- [[ ]] The file must be under 4 minutes.
+- [[X]] A bit-depth of 16.
+
+What happens when the sampling rate is set too low?
+
+- [[ ]] The microphone will not work properly.
+- [[ ]] Clipping will occur when playing back the recording
+- [[ ]] The sampling rate will automatically fix itself if the computer detects a high frequency.
+- [[X]] Aliasing will be introduced into the recording.
+- [[ ]] Nothing. This is a great way to save space on your hard drive.
+
+
+Why might a mixing or mastering engineer want to work with higher bit-depths and sampling rates than will ultimately be released??
+
+- [[ ]] They are people who cannot be understood.
+- [[ ]] This will guarantee the music is a top-hit.
+- [[ ]] To have more data to work with.
+- [[ ]] Their compressor was expensive and they need a reason to use it.
+- [[X]] So they can work with a high-quality recording, avoid any extra noise or aliasing, and have a high-quality final render.
