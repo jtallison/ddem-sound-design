@@ -239,7 +239,7 @@ Information on Macros and the Studio One toolbar can be [found in the online man
 
 ### Test Your Knowledge!
 
-Which of the Following is a macro included with Studio One 6 by default?
+Which of the following is a macro included with Studio One 6 by default?
 
 - [[ ]] Change MIDI device
 - [[ ]] Play
@@ -270,6 +270,60 @@ To change the color scheme, open Studio One, then in the menu bar click Studio O
 If you would like to adjust the colors but don’t know where to begin, click on Load Preset to choose from a variety of preset color schemes, or to return Studio One 6 to the default. You can also save an arrangement as a preset by clicking Store Preset. The majority of screenshots taken on this web site utilize the dark green Acid Night preset instead of the default gray color.
 
 For more information on changing the colors in Studio One 6, [check out the online manual](https://s1manual.presonus.com/#Setup_Topics/Custom_Colors.htm?TocPath=Setup%257C_____8)!
+
+## Test Your Knowledge! Unit Test
+
+Which tool will let you cut one event into two wherever you click?
+
+- [[ ]] Quantize Tool
+- [[X]] Split Tool
+- [[ ]] Cut Tool
+- [[ ]] Arrow Tool
+- [[ ]] Pen Tool
+
+Which of the following is _NOT_ something you can customize in Studio One 6?
+
+- [[ ]] Background color pallettes
+- [[ ]] Track colors and icons
+- [[ ]] Window pop outs
+- [[ ]] Presets for project templates
+- [[X]] All of these can be customized in Studio One 6.
+
+What is the keyboard shortcut for exporting a mixdown?
+
+- [[X]] CMD/CTRL + E
+- [[ ]] OPT/ALT + F4
+- [[ ]] Right Click > Export
+- [[ ]] CMD/CTRL + Q
+- [[ ]] CMD/CTRL + Z
+
+Which of the following is _NOT_ a type of track in Studio One 6?
+
+- [[ ]] Automation
+- [[ ]] Audio
+- [[ ]] Instrument
+- [[X]] Sound
+- [[ ]] Folder
+
+What information can you find on the LEFT side of the Studio One 6 Starting window?
+
+- [[ ]] Your Social Information
+- [[X]] Previously Opened Sessions
+- [[ ]] Presonus Social Media Posts
+- [[ ]] Your Computer's Audio Settings
+- [[ ]] What you are listening to on Spotify
+
+True or False: You can use the loop bar to determine which parts of a session are exported in a mixdown.
+
+- [[X]] True
+- [[ ]] False
+
+Which of the following are good resources for finding out more about how Studio One 6 works? (_Select ALL correct answers._)
+
+- [[X]] The Presonus Website
+- [[X]] The Studio One 6 Online manual
+- [[X]] This online book
+- [[X]] Youtube
 
 ## Lab 1
 

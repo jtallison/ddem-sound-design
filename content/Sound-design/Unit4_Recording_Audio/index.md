@@ -109,7 +109,7 @@ Which of the following will happen when you use a balanced cable?
 
 ## Clipping and How to Avoid it
 
-When recording audio there is a limit as to how loud a sound source can b ein order to be accurately recorded and reproduced. If a sound source is recorded with too much gain, then it will be distorted. This happens because the ADC will be unable to properly convert the excessively large signal to a specific numeric value. All values that are too large will be recorded as the largest possible value possible by the ADC. Effectively clipping off part of the audio. This can be clearly seen when looking at the waveform for the audio file.
+When recording audio there is a limit as to how loud a sound source can be in order to be accurately recorded and reproduced. If a sound source is recorded with too much gain, then it will be distorted. This happens because the ADC will be unable to properly convert the excessively large signal to a specific numeric value. All values that are too large will be recorded as the largest possible value possible by the ADC. Effectively clipping off part of the audio. This can be clearly seen when looking at the waveform for the audio file.
 
 In addition to distortion, clipping can sound like clicks and pops as well. This is in part because of the extremely fast sampling rate. Unless a sound source is EXTREMELY loud and the recording is improperly set up, there will still be a large number of the original samples that will not be clipped. The result of this is generally being able to hear the original sound with the clipping mixed into it.
 
@@ -214,13 +214,13 @@ Events This section determines the nature of the Events created after removing s
 
 ## Tuning and Transposition
 
-Let’s pretend that you have a handful or recordings, but they are all in different keys. With Studio One you can easily transpose both audio and MIDI events to whichever key you need. Simply select the event you wish to transpose and right click. In the popup menu you will see an option for transpose and tune. Adjusting the transposition will repitch the audio up or down. This tool accepts numbers between -24 and +24, and is defaulted to 0. Each number is a half step up or down, which means that you can transpose an audio clip up to two octaves up or down.
+Let’s pretend that you have a handful or recordings, but they are all in different keys. With Studio One you can easily transpose both audio and MIDI events to whichever key you need. Simply select the event you wish to transpose and right click. In the popup menu you will see an option for transpose and tune. Adjusting the transposition will re-pitch the audio up or down. This tool accepts numbers between -24 and +24, and is defaulted to 0. Each number is a half step up or down, which means that you can transpose an audio clip up to two octaves up or down.
 
 For smaller pitch adjustments you can utilize the tune option. This will tune the pitch in a range of -100 to +100 cents, defaulting to 0 again. This means that you can fine tune audio up to a whole step up or down. One useful way to use this is to select and correct small portions of a recording where a specific note may be just a little out of tune. Tuning works the same for both MIDI and audio
 
 Transposing for MIDI can work a little differently. If you select an MIDI event, right click (or under the actions menu) and select transpose, a few more options appear. You can use the sliders to easily select octave transpositions, specific intervals, or setting all of the MIDI notes to the same pitch. These are all common ways to utilize MIDI transposition.
 
-### Test Your Knowledge!
+## Test Your Knowledge! Unit Test
 
 What is the name of the window where you can change the contents of an Audio or MIDI event?
 
@@ -229,6 +229,39 @@ What is the name of the window where you can change the contents of an Audio or 
 - [[ ]] Arranger Window
 - [[ ]] Browse Menu
 - [[ ]] GUI
+
+Which of these types of microphones do _NOT_ require phantom power in order to function ?
+
+- [[ ]] Active Ribbon
+- [[ ]] Condenser
+- [[X]] Dynamic 
+
+Which of the following is an _UNBALANCED AUDIO_ cable?
+c
+- [[ ]] 1/8 inch TRS
+- [[ ]] MIDI
+- [[ ]] 1/4 inch TRS
+- [[X]] 1/4 inch TS
+- [[ ]] XLR
+
+True or False: You cannot use a limiter to help avoid clipping.
+
+- [[ ]] True
+- [[X]] False
+
+True or False: All microphones can pick up sounds equally well in all directions.
+
+- [[ ]] True
+- [[X]] False
+
+Which of these is _NOT_ something you should do when wrapping cables?
+
+- [[ ]] Use a relaxed loop size (not too tight, not too big, just comfy)
+- [[ ]] twist the cable as you wrap it
+- [[X]] Wrap them as tight as possible to save space
+- [[ ]] Daisy-chain all your cables to only have one spool to deal with
+- [[ ]] Who wraps their cables?
+
 
 ## Lab 2
 

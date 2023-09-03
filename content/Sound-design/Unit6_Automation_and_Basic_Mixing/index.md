@@ -95,7 +95,7 @@ When playing back the audio, you can have the automation behave in different way
 * Write: Will only write automation data. Be careful that if you set the automation, then playback while still in Write mode, it will overwrite the previous automation!
 * Off: Ignores all automation when playing back. This will translate to the mixdown, so don’t forget about it!
 
-### Test Your Knowledge!
+## Test Your Knowledge! Unit Test
 
 Which are the default _audio_ automation parameters in Studio One 6? _*Choose all correct answers*_
 
@@ -104,6 +104,35 @@ Which are the default _audio_ automation parameters in Studio One 6? _*Choose al
 - [[ ]] Filter Cutoff
 - [[X]] Pan LR
 - [[X]] Volume
+
+Which are the click-and-drag options for the shape of any automation section? _*Choose all correct answers*_
+
+- [[x]] Linear
+- [[ ]] Random
+- [[x]] Logarithmic
+- [[X]] Exponential
+
+True or False: You cannot use a MIDI controller to record automation data.
+
+- [[ ]] True
+- [[X]] False
+
+Which parameter controls which speaker a sound comes out of?
+
+- [[ ]] Detune Value
+- [[X]] Pan
+- [[ ]] Filter Cutoff
+- [[ ]] Volume
+- [[ ]] ADSR
+
+What is the keyboard short cut to create a crossfade between two selected, adjacent events?
+
+- [[ ]] F4
+- [[ ]] Y
+- [[ ]] D
+- [[X]] X
+- [[ ]] C
+
 
 ## Lab 6
 

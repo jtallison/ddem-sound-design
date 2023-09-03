@@ -225,7 +225,7 @@ Hardware Effects can be utilized with the Pipeline effect. Generally this is not
 
 !?[pipeline-manual-video](https://www.youtube.com/watch?v=us-3-KSd-sI)
 
-### Test Your Knowledge!
+## Test Your Knowledge! Unit Test
 
 Which of the effects below do _not_ alter the sound entering the effect in any way?
 
@@ -234,6 +234,51 @@ Which of the effects below do _not_ alter the sound entering the effect in any w
 - [[ ]] Room Reverb
 - [[X]] Phase Meter
 - [[ ]] Pro EQ
+
+Which of the effects below is a filter controlled by an LFO?
+
+- [[ ]] Groove Delay
+- [[X]] Autofilter
+- [[ ]] Mixverb
+- [[ ]] RedLightDist
+- [[ ]] Pro EQ
+
+Which of the effects below combines multiple filters to shape a sound across the whole frequency spectrum??
+
+- [[ ]] Groove Delay
+- [[ ]] Sample One
+- [[ ]] Room Reverb
+- [[ ]] Phase Meter
+- [[X]] Pro EQ
+
+Which of the effects below simulates a real-world amplifier?
+
+- [[ ]] Fat Channel
+- [[X]] Ampire
+- [[ ]] Room Reverb
+- [[ ]] Limiter
+- [[ ]] Vocoder
+
+True or False: A Bus chanel can be used to control the volume and effects for multiple sources at once.
+
+- [[X]] True
+- [[ ]] False
+
+Which of the effects below replicate an old Wurlitzer rotary speaker?
+
+- [[ ]] Analog Delay
+- [[ ]] Vocoder
+- [[ ]] Room Reverb
+- [[X]] Rotor
+- [[ ]] X-trem
+
+Which of the effects below is the _OPPOSITE_ of compression?
+
+- [[ ]] Groove Delay
+- [[ ]] Compressor
+- [[ ]] Chorus
+- [[ ]] Bitcrusher
+- [[X]] Expander
 
 ## Lab 8
 

@@ -45,7 +45,7 @@ Using the MPEG-4 Video format will allow you to have the most compatible and hig
 
 Because the computer is creating an audio file, attacking it to the video (in sync) and then writing the new video file, expect that your video exports will take longer than an audio export. Be sure to plan accordingly so that your files are finished by the end of class!
 
-### Test Your Knowledge!
+## Test Your Knowledge! Unit Test
 
 True or False: If you want to add a color filter to your video, you can do that using Studio One 6 while you are also creating the sounds.
 
@@ -63,6 +63,17 @@ Which of these Sounds would need Foley work done to them in post production? _*C
 - [[X]] Car engines
 - [[ ]] Soundtrack music
 
+Which format should you export video files in for this course?
+
+- [[ ]] .wav
+- [[ ]] .mov
+- [[X]] .mp4
+- [[ ]] .aac
+
+True or False: Characters in a movie can _ALWAYS_ hear the cinematic soundtrack, and are just ignoring it.
+
+- [[ ]] True
+- [[X]] False
 
 ## Lab 7
 

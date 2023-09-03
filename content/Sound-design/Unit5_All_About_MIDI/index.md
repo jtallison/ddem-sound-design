@@ -254,6 +254,50 @@ Mixdown Requirements:
 * Be sure that the duration of the resulting audio file matches what you expect. Your Lab project should be approximately 8 bars in duration.
 * Be sure to follow your teacher’s guidelines for file submission.
 
+## Test Your Knowledge! Unit Test
+
+How many channels are present in a MIDI connection?
+
+- [[ ]] 6
+- [[ ]] 12
+- [[X]] 16
+- [[ ]] 8
+- [[ ]] 32
+
+Which of the following MIDI data parameters can you alter after you record a MIDI note?
+
+- [[ ]] Duration
+- [[ ]] Timing
+- [[ ]] Pitch
+- [[ ]] Velocity
+- [[X]] All of the above
+
+Which of the following is _NOT_ a MIDI controlled instrument in Studio One 6 Professional?
+
+- [[X]] Sample Rate
+- [[ ]] Sample One
+- [[ ]] Impact
+- [[ ]] Mojito
+- [[ ]] Mai tai
+
+True or False: MIDI Messages are too large to be sent over USB.
+
+- [[ ]] True
+- [[X]] False
+
+True or False: You can use a MIDI connection to control one instrument from a separate controller.
+
+- [[X]] True
+- [[ ]] False
+
+Which option on the Studio One main page do you select to add a new MIDI controller to the program's memory?
+
+- [[ ]] About Studio One
+- [[ ]] Batch Convert
+- [[ ]] New
+- [[X]] Configure MIDI Devices
+- [[ ]] Configure Audio Devices
+
 
 ## Lab 5
 

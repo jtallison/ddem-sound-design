@@ -79,7 +79,7 @@ Check out this video and the [Studio One 6 manual](https://s1manual.presonus.com
 
 !?[target-loudness-video](https://www.youtube.com/watch?v=yn6PzVpJQN0)
 
-### Test Your Knowledge!
+### Test Your Knowledge! Unit Test
 
 True or False: You can use any audio you find in any music you make with no drawback or potential legal repercussions.
 
@@ -90,3 +90,14 @@ True or False: The Mastering Artist should focus on making a mix work on the per
 
 - [[X]] True
 - [[ ]] False
+
+True or False: If an audio file does not match the online streaming platform's guidelines, the platform will force it to play back at their required settings.
+
+- [[X]] True
+- [[ ]] False
+
+
+True or False: Mastering is just making things louder.
+
+- [[ ]] True
+- [[X]] False
