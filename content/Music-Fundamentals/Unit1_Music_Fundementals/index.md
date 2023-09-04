@@ -196,6 +196,23 @@ Which of the following is _*NOT*_ a musical pitch?
 
 ## Musical Intervals
 
+When talking about musical notes, we will usually refer to them in relation to the notes around them. To do this, it is helpful to know how to count musical distance. One way to do that is to count the half steps.
+
+* 0 half steps between the notes: Unison
+* 1 half steps between the notes: Augmented Unison/Minor Second
+* 2 half steps between the notes: Major Second
+* 3 half steps between the notes: Augmented Second/Minor Third
+* 4 half steps between the notes: Major Third/Diminished Fourth
+* 5 half steps between the notes: Augmented Third/Perfect Fourth
+* 6 half steps between the notes: Augmented Fourth/Diminished Fifth
+* 7 half steps between the notes: Perfect Fifth
+* 8 half steps between the notes: Augmented Fifth/Minor Sixth
+* 9 half steps between the notes: Major Sixth
+* 10 half steps between the notes: Augmented Sixth/Minor Seventh
+* 11 half steps between the notes: Major Seventh/Diminished Octave
+* 12 half steps between the notes: Octave
+* and so on...
+
 ## Musical Scales
 
 A musical scale is a collection of intervals. Starting on one note, then following the interval pattern will create a scale. Scales are useful for a variety of reasons because they contain all of the notes within a given key. The note beginning the scale is the key of that scale. following the same pattern on a different note will result in another of the same scale in a different key.  
