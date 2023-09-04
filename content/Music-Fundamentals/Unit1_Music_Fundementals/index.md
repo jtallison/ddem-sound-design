@@ -4,7 +4,7 @@ Welcome to Sound Design! In this course we will be focusing on two main topics. 
 
 If you have already taken a music theory class or have been in band, choir, orchestra, etc. Than you may already be familiar with some of the concepts we discuss here. This is not an in-depth course on music theory, but we will be going over enough of the content for you to be able to easily create and discuss your music throughout the year.
 
-Periodically throughout units 1-9 are several small multiple choice quizzes. As you are going through the material, take a moment and give them a shot to see how well you are understanding the material. You can attempt the quizzes as much as you would like, but will need to refresh the page to fully reset the quiz.
+Periodically throughout units 1-9 are several small multiple choice quizzes. As you are going through the material, take a moment and give them a shot to see how well you are understanding the material. You can attempt the quizzes as much as you would like, but will need to refresh the page to fully reset the quiz. You will also see links to [musicthoery.net](musictheory.net) throughout the unit. The specifics of how these are graded are up to your teacher, but you should aim for at least 8/10 before you move on in order to make sure you really understand the material and the quiz format.
 
 ## Listening
 
@@ -156,6 +156,8 @@ The phrase 'sharp' indicates a note has been made one piano key higher, while th
 
 Notice that there is no black key between B/C and E/F. The same sharp/flat rule still applies, so B sharp is the same as C natural.
 
+For practice, try the [Note Construction](https://www.musictheory.net/exercises/note-construction), [Identification 1](https://www.musictheory.net/exercises/keyboard) [Identification 2](https://www.musictheory.net/exercises/note), and [ear training exercises](https://www.musictheory.net/exercises/ear-note) at musictheory.net
+
 ### Solfedge
 
 The visual symbols used to refer to all of these notes will come up later, but we can still give these notes names to refer to them and sing. A system called solfedge was developed in the 11th century and used as another way to mention pitch. The original latin syllables are largely unchanged from the original:
@@ -212,6 +214,8 @@ When talking about musical notes, we will usually refer to them in relation to t
 * 11 half steps between the notes: Major Seventh/Diminished Octave
 * 12 half steps between the notes: Octave
 * and so on...
+
+for practice, try out the [interval identification](https://www.musictheory.net/exercises/interval) and [ear training exercises](https://www.musictheory.net/exercises/ear-keyboard) on musictheory.net.
 
 ## Musical Scales
 
@@ -292,7 +296,9 @@ The Octatonic scale combines the two previous scale by alternating between the t
 
 Each of these versions account for every unique combination of pitches when alternating between half and whole-steps. The patterns are WHWHWHWH and HWHWHWHW. Version 3 is HWHWHWHW as well, but starting on C# instead of C.
 
-#### Test Your Knowledge!
+### Test Your Knowledge!
+
+[Scale Identification Exercises on musictheory.net](https://www.musictheory.net/exercises/scale)
 
 Which of the following musical intervals is the _*LARGEST*_?
 
@@ -380,7 +386,9 @@ Second inversion chords have the 5th as the bass note, and are significantly mor
 
 A third inversion chord only happens on chords with 4 or more tones. In the context of this book, that would put the 7th as the lowest note. Because of the 7th chord's exhalent instability combines with the close interval between the 7th and 8th, these chords are heard as strongly wanting to move to the root. Although this tends to be a 1st inversion form of the root in many theory textbooks. (we will not discuss voice leading here)
 
-#### Test Your Knowledge!
+### Test Your Knowledge!
+
+[Chord identification exercise on musictheory.net](https://www.musictheory.net/exercises/chord)/
 
 What is the difference between a chord and a scale?
 
@@ -408,6 +416,8 @@ Which of the following is an _*OCTATONIC*_ Scale? _Select ALL correct answers._
 - [[ ]] ABC#DEF#G#A
 - [[ ]] CDEF#G#A#C
 - [[X]] CDEbFGbAbABC
+
+[Chord ear training](https://www.musictheory.net/exercises/ear-chord) on musicthoery.net
 
 ## Reading Music
 
@@ -481,6 +491,8 @@ Lastly for now, in regards to pitch, Music and sections of music can have a key.
 
 #### Test Your Knowledge!
 
+[Key signature identification](https://www.musictheory.net/exercises/keysig) from musicthoery.net
+
 Which note is **4 Times** as long as an _8th note_?
 
 - [[ ]] 32nd Note
@@ -516,7 +528,9 @@ This will be our first section. Notice its key features.
 
 ### Cadences
 
-#### Test Your Knowledge!
+## Test Your Knowledge! Unit Test
+
+[Note Identification](https://www.musictheory.net/exercises/keyboard-reverse) on musictheory.net
 
 Which of the following musical forms alters between a repeated section and multiple differing other sections?
 
