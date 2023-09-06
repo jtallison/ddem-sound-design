@@ -39,7 +39,7 @@ Response: This song has a lot of moving parts. The instruments are playing const
 
 !?[kansas-miracles](https://youtu.be/D13zs5z3wnQ)
 
-Songs can come from a variety of sources, genres, and artists. One recommendation is to create a class playlist to hold everything you listen to over the course of the year. It can also be fun to have students submit their favorite song to the list as an option for future listenings.
+Songs can come from a variety of sources, genres, and artists. One recommendation is to create a class playlist to hold everything you listen to over the course of the year. It can also be fun to have students submit their favorite song to the list as an option for future listenings. Try listening to this in class and see what different things other than the use of panning are noticed by everyone! Responses can be longer or shorter than this as well. A few students in the past have even created drawings to represent yhe song! The important thing is that you are actively listening to the song, and have notes you can refer back to about how you felt about the track, as well as why.
 
 ### Guided Listening Presentation
 
@@ -158,9 +158,9 @@ Notice that there is no black key between B/C and E/F. The same sharp/flat rule 
 
 For practice, try the [Note Construction](https://www.musictheory.net/exercises/note-construction), [Identification 1](https://www.musictheory.net/exercises/keyboard) [Identification 2](https://www.musictheory.net/exercises/note), and [ear training exercises](https://www.musictheory.net/exercises/ear-note) at musictheory.net
 
-### Solfedge
+### Solfege
 
-The visual symbols used to refer to all of these notes will come up later, but we can still give these notes names to refer to them and sing. A system called solfedge was developed in the 11th century and used as another way to mention pitch. The original latin syllables are largely unchanged from the original:
+The visual symbols used to refer to all of these notes will come up later, but we can still give these notes names to refer to them and sing. A system called solfege was developed in the 11th century and used as another way to mention pitch. The original latin syllables are largely unchanged from the original:
 
 * Do
 * Re
@@ -467,7 +467,7 @@ Tempo is how fast the music is. All music will have some kind of internal clock,
 
 80 * 4 = 320
 320 / 60 = 5.33333...
-So the duration would be approximately 5 minutes and 20 seconds, assuming the performer stayed at exactly 60 B.P.M. and 4/4 the entire performance.
+So the duration would be approximately 5 minutes and 22 seconds, assuming the performer stayed at exactly 60 B.P.M. and 4/4 the entire performance.
 
 ### Pitch
 
@@ -475,13 +475,16 @@ In addition to knowing how long to play, musicians also need to know which note 
 
 #### Clefs and the Musical Staff
 
-Music is notated on a staff. This is a collection of horizontal lines that you read from left to right, and shows the various information conveys by the music. Instruments that do not make a pitch, like a drum, utilize only 1 line staves, but most instruments utilize a 5 line staff. To indicate a desired pitch, the head of the note (the round part) is placed on a specific line, or the space between two adjacent lines. Each line and space indicates a specific musical pitch. You can also think of each line/space representing a specific key on a piano keyboard. 
+Music is notated on a staff. This is a collection of horizontal lines that you read from left to right, and shows the various information conveys by the music. Instruments that do not make a pitch, like a drum, utilize only 1 line staves, but most instruments utilize a 5 line staff. To indicate a desired pitch, the head of the note (the round part) is placed on a specific line, or the space between two adjacent lines. Each line and space indicates a specific musical pitch. You can also think of each line/space representing a specific key on a piano keyboard. You may have noticed however that a piano has more keys than a 5 line staff has notes. To help with this, clefs are utilized. A clef appears at the beginning of every staff, and serves to indicate which pitches are used on that staff. There is a handful of different clefs used in music notation, but we will be focusing on the two most common: Treble and Bass. [This article from Britannica](https://www.britannica.com/art/clef) shows the most common pitched musical clefs in music today. 
 
-you may have noticed however that a piano has more keys than a 5 line staff has notes. To help with this, clefs are utilized. A clef appears at the beginning of every staff, and serves to indicate which pitches are used on that staff. There is a handful of different clefs used in music notation, but we will be focusing on the two most common: Treble and Bass.
 
 The treble clef is used for higher pitched instruments, and the shape is shown below. On staves with the treble clef, the second-from-bottom line is specifically the pitch G4. This is the reason this is also called the G clef.
 
+![treble-clef](content\media\treble.png)
+
 The bass clef, shown below, is used for bass instruments. Staves using this clef have the second from the top line as the pitch F3. This is why this is also referred to as the F clef.
+
+![bass-clef](content\media\bass.png)
 
 These clefs are used together in what is called a grand-staff for instruments with a large range like the piano. This works because the pitch C4, or middle C, is located in between these two clefs, and acts as a bridge between them. Whenever a note appears outside of the boundaries of a staff, you can use ledger lines to extend the staff and accurately read the pitch. Middle C is one ledger line below the treble staff, _and_ one ledger line above the bass staff.
 
@@ -520,6 +523,46 @@ Dominant chords are _*ALWAYS*_ built with which scale degree as the root?
 
 ## Chord Progressions & Roman Numeral Analysis
 
+While certain styles of music will remain on a specific chord for minutes at a time, the overwhelming majority of music you will listen to moves from one chord ot another as the music happens. This is called a chord progression, and can help to give the music its internal structure and shape.
+
+
+Here is a piece of music that follows more of the minimist approach:
+
+!?[pianoPhase](https://www.youtube.com/watch?v=wNVzDGnkbDI)
+
+In Piano phase, the music is created by having two performers play the exact same thing, but performer B is playing slightly faster than performer A. When the patters begins to de-sync, new melodic and harmonic ideas can be heard, but the entire composition is made up of the same 5 pitches, in the same order, the entire time. It less of a progression, like in the song(s) below:
+
+!?[4-chord-song](https://www.youtube.com/watch?v=oOlDewpCfZQ)
+
+Lets look at a piece of music in C major. 
+
+![cmajorexample]
+
+Let's focus on the very first chord. It is a C major chord. In order to easily communicate which notes are being played in that chord, we can represent it with a roman numeral. Then, anyone reading the numerals can see what is going on, without all of the extra parts of the music. The first part of creating a roman numeral analysis is to determine the key of the music. Because all of the numerals will be relative to the key, this step is... key. :)
+
+Jokes aside, if you don't know the key of the music, then it becomes impossible to determine the notes of the music being analyzed. It can still be useful for larger-level work, but the music couldn't be recreated without the home key. Once you have the key, determine what the root of the chord you are analyzing is. For our example, the first chord is a C major. C is scale degree 1 in the key of C, so this chord will be labeled with the roman numeral for 1. However! There is one more step. Roman numerals can be capital or lower case, so we can use that to easily communicate the chord's quality. A capital numeral indicates a major chord, and a lower case numeral indicates a minor chord. The final numeral for this chord is I.
+
+Now we move onto the next note, which is an F major. F is the root of the chord, and is scale degree 4 in the key of C. The chord is major, so the roman numeral is IV.
+
+Continuing on, the progression for the music example above is:
+
+I-IV-V-I-IV-V-iv-V-I
+
+In this class we won't be going much farther than this in terms of roman numeral analysis. It si a useful tool for talking about chords and progressions, but there are entire college courses dedicated to this and we still have to talk about how computers fit into this course! Be aware that as music becomes more complicated, chords change, melodies, non harmonic tones, and tons of other stuff happens in real world music that this is not an exhaustive list of all the roman numeral analysis symbols and systems.
+
+
+Now that we have had a little practice thinking about music in terms of chords, we can more easily talk about the structure of music. Most modern music is broken up into chords. You can easily find chord charts of songs with an internet search. These progressions are written in one of two ways:
+
+* roman numerals
+* root + type
+
+[briefly explain a chord chart and the non-key specific notation]
+
+A few common chord progressions are:
+
+![12-bar-blues]() ![1-4-5-1]() ![1-5-4-1]() ![1-6-4-5]() ![1-5-6-4]() ![1-4-5-4]() ![m2-57-1]()
+
+
 ### Musical Form
 
 So far we have been looking at music at a very close level: individual notes up to phrases. Here we will step back and look at larger sections of music and how we can organize those sections into complete compositions. Lets build a piece of music together!
@@ -527,6 +570,16 @@ So far we have been looking at music at a very close level: individual notes up 
 This will be our first section. Notice its key features. 
 
 ### Cadences
+
+At the end of the chord progressions, most music will return to the tonic: I or i. This can be done in a few different ways, but when used to punctuate the musical phrase adn create a slight harmonic pause, it is called a cadence.
+
+Cadences usually appear at the end of form sections and have a dominant chord lead into a tonic chord. This is a generalization, and multiple example cadences will be shown below.
+
+Different combinations of chords and how those chords are voiced can make a cadence feel like it is moving to rest more or less. One of the most clearly heard cadences is to move form a dominant 7th chord to a I chord. Our ears will pick up on the dissonance within the V7, combined with the half-step movement into the I chord, and hear that as increasing stability.
+
+!?[V&-1-video-example]() !?[chord-Progression-video]()
+
+
 
 ## Test Your Knowledge! Unit Test
 
@@ -563,6 +616,3 @@ Which of the following is a _*DECPTIVE*_ Cadance?
 - [[ ]] V7 -> I
 - [[X]] V7 -> vi
 - [[ ]] VI -> I
-
-#### Ear Training
-
